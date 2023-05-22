@@ -1,0 +1,1412 @@
+{
+    "type": "Letter",
+    "title": "DISCORSO DEL FLUSSO E REFLUSSO DEL MARE",
+    "author": "Galileo Galilei",
+    "paragraphs": [
+        {
+            "paragraphNumber": 0,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 1,
+                            "text": "Il favore che mi vien da V. S. Illustrissima e Reverendissima nel ricercarmi che io voglia porgergli disteso in carta quello che dieci giorni fa gli spiegai in voce, è di gran lunga superiore al merito mio ed alla leggerezza de’ miei discorsi:",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 2,
+                            "text": "nè porgendomisi altro modo di contracambiarlo, almeno in parte, se non con una subita obbedienza, eccomi apparecchiato a servirla ed obbedirla conforme al suo comandamento; cioè in quella più concisa e ristretta maniera che abbracciar si possa problema sì mirabile, qual è l’investigazione della vera cagione del flusso e reflusso del mare, tanto anco più recondita e difficile, quanto manifestamente veggiamo, tutto quello che sin qui è stato scritto da gravi, autori esser molto lontano dal quietar la mente di quelli che desiderano d’internarsi nelle contemplazioni della natura oltr’alla scorza:",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 3,
+                            "text": "la qual quiete allora solamente si conseguisce, quando la ragione prodotta per causa vera dell’effetto, facile ed apertamente satisfà a tutti i particolari sintomi ed accidenti che intorno ad esso effetto partitamente si scorgono.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 4,
+                            "text": "La qual cosa poi che non ci vien porta, come nei privati discorsi vedemmo, dalle ragioni addotte sin qui da gli altri scrittori di tal quistione, però come inefficaci le lascierò, sendo V. S. Illustrissima e Reverendissima pienamente restata satisfatta delle confutazioni che a bocca ne apportai, ben che ella stessa ne anco per avanti avesse loro prestato molto l’assenso;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 5,
+                            "text": "concedendomi ella, anzi ordinandomi, che io differisca di diffondermi, per satisfazione dell’universale, in tali confutazioni, quando più diffusamente tratterò questa materia nel mio Sistema Mondano.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 1,
+                            "text": "The favor bestowed upon me by Your Most Illustrious and Reverend Lordship, in requesting that I commit to paper what I explained to you verbally ten days ago, far exceeds my merit and the weight of my discourse.",
+                            "notes": ["This letter was written to Alessandro Orsini."]
+                        },
+                        {
+                            "lineNumber": 2,
+                            "text": "Having no other way to reciprocate, at least in part, except through prompt obedience, I am prepared to serve and obey your command, namely, in the most concise and succinct manner possible for such a remarkable problem—the investigation of the true cause of the ebb and flow of the tides.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 3,
+                            "text": "This is an even more hidden and difficult issue, given that we can clearly see that all that has been written thus far by serious authors is far from satisfying the minds of those who wish to delve into the contemplations of nature beyond its surface.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 4,
+                            "text": "This satisfaction is only achieved when the reason presented as the true cause of the effect easily and openly fulfills all the particular symptoms and incidents surrounding that effect.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 5,
+                            "text": "Since we have not received this satisfaction, as we saw in private discussions, from the reasons put forth so far by other writers on this question, I will leave their explanations as ineffective.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 1,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 6,
+                            "text": "Mostraci l’esperienza sensata, che il flusso e reflusso dell’acque marine non è un rigonfiamento e ristringimento delle parti di esso elemento, simile a quello che veggiamo farsi nell’acqua posta al calor del fuoco, mentre ella per caldo veemente si rarefa e solleva, e nel ridursi alla natural freddezza si riunisce ed abbassa;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 7,
+                            "text": "ma è nei mari un vero moto locale e, per così dire, progressivo, or verso l’uno ed or verso l’altro termine estremo del seno del mare, senza alcuna alterazione di esso elemento, proveniente da altro accidente che da locale mutazione.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 8,
+                            "text": "Ora, mentre andiamo discorrendo appoggiati sopra sensate esperienze (scorte sicure nel vero filosofare), vediamo potersi imprimer nell’acque alcun movimento locale in varie maniere:",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 9,
+                            "text": "le quali andremo distintamente essaminando, per veder se alcuna di esse può ragionevolmente assegnarsi per cagion primaria del flusso e reflusso del mare.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 10,
+                            "text": "Ho detto cagion primaria, perchè mentre andremo essaminando le tante differenze di accidenti che intorno ai flussi e reflussi dei mari diversi si scorgono, intenderemo impossibil cosa essere che molte altre cause secondarie e, come dicono, concomitanti non concorrino con la primaria al produr tali varietà;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 11,
+                            "text": "poi che da una sola e semplice cagione non può derivar altro che un semplice e determinato effetto.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 12,
+                            "text": "Faremo dunque principio nel nostro discorso dall’investigazione della causa prima universale, e senza la quale nulla sarebbe di questo regolato movimento dell’acque marine;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 13,
+                            "text": "dico regolato, ben che diversi mari osservino diversi periodi nei loro flussi e reflussi.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 6,
+                            "text": "Empirical experience shows us that the ebb and flow of ocean waters are not a swelling and contraction of the element itself, similar to what we observe in water heated by fire, which expands and rises due to intense heat and contracts and lowers when returning to its natural cold state.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 7,
+                            "text": "Rather, it is a true local motion in the seas, progressing, so to speak, from one extreme end of the ocean basin to the other, without any alteration of the element itself, resulting from any occurrence other than a local change.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 8,
+                            "text": "Now, as we proceed relying on sensible experiences (reliable guides in true philosophy), we see that local movement can be induced in water in various ways.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 9,
+                            "text": "We will examine these methods individually to determine if any of them can be reasonably assigned as the primary cause of the ebb and flow of the tides.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 10,
+                            "text": "I mentioned primary cause because, as we examine the many differences in the occurrences surrounding the tides of various seas, we will understand that it is impossible for many other secondary, or concomitant, causes not to contribute with the primary cause to producing such variations;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 11,
+                            "text": "since a single, simple cause can only yield a simple and determined effect.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 12,
+                            "text": "Therefore, we will begin our discourse by investigating the first universal cause, without which there would be no regulated movement of ocean waters;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 13,
+                            "text": "I say regulated, although different seas observe different periods in their ebbs and flows.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 2,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 14,
+                            "text": "Una tra le cause di movimento è la declività del sito e letto nel quale vien contenuto il corpo fluido: e per questa i torrenti precipitano nei fiumi, ed i fiumi scorrono ai.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 15,
+                            "text": "Ma perchè tal flusso si fa sempre verso la medesima parte della declività, sopra la quale già mai le acque non ritornano in dietro, cotal ragione non fa alla causa nostra, può aver luogo nei reciproci movimenti verso le parti contraposte, come veggiamo farsi nell’acque marine.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 14,
+                            "text": "One of the causes of movement is the slope of the site and bed in which the fluid body is contained: and because of this, torrents fall into rivers, and rivers flow to seas.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 15,
+                            "text": "But since such a flow always takes place towards the same part of the slope, above which the waters never return backwards, this reason does not apply to our cause, nor can it take place in the reciprocal movements towards the opposite, as we see happening in sea waters.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 3,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 16,
+                            "text": "In altro modo s’imprime agitazione nell’acqua, mediante il moto dell’ambiente o di altro corpo esterno che l’andasse a ferire: e così veggiamo dall’impeto de’ venti agitarsi l’acque dei mari e dei laghi, e venir sospinte verso la parte dove il vento le caccia.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 17,
+                            "text": "Ma una tale agitazione non si può assegnar per causa nel nostro problema; poi che simili agitazioni sono tumultuarie, per così dire, e sregolatissime, dove che i flussi e reflussi hanno i lor periodi determinati; ed oltre a ciò si fanno anco nelle maggiori tranquillità dell’aria e cessazioni dei venti; e, di, mantengono il corso loro verso il termine prescritto, quando bene il sospingimento dell’aria fosse in quell’ore verso ’l termine contrario.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 16,
+                            "text": "In another way, agitation is imprinted in the water, through the motion of the environment or of another external body that would strike it: and so we see the waters of the seas and lakes being agitatedby the impetus of the winds, and being pushed towards the part where the wind drives them.",
+                            "notes": ["This is a real phenomenon known as the Storm Surge."]
+                        },
+                        {
+                            "lineNumber": 17,
+                            "text": "But such agitation cannot be assigned as a cause in our problem; since similar agitations  are tumultuous, so to speak, very irregular, where the flows and refluxes have their determined; and moreover, they also occur in the greatest tranquility of the air and cessation of the winds; and, furthermore, they maintain their course towards the term, even if the air's pushing was in that hour towards the opposite term.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 4,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 18,
+                            "text": "Imprimonsi movimenti locali nell’acque ancora quando qualche moto locale venisse conferito al vaso nel quale l’acqua vien contenuta: e ciò può accadere in due maniere, l’una delle quali sarebbe con l’alzare ed abbassare alternatamente or l’una or l’altra estremità del vaso, al qual moto e librazione ne seguirebbe che l’acqua contenuta, scorrendo verso la parte inclinata, vicendevolmente andasse e ritornasse per la lunghezza del vaso.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 19,
+                            "text": "Ma simile accidente di librazione non può aver luogo nel caso nostro: avvenga che quando anco la Terra avesse qualche reciproca librazione, non però porgerebbe cagione all’acqua di scorrere in qua ed in là; imperò che in tanto scorre in un vaso che si vadia librando, in quanto nel libramento or l’una or l’altra estremità del vaso si abbassa, cioè si appropinqua al comun centro delle cose gravi, per lo che l’acqua per il suo peso vi scorre; ma quando la Terra si librasse, non però per tal librazione alcuna parte della sua superficie si avvicinerebbe o allontanerebbe dal centro di essa Terra, che è quello dove tendono i gravi, e però non verrebbe pòrta cagione all’acqua di scorrervi.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 20,
+                            "text": "Oltre che il libramento che può attribuirsi al globo terrestre, è un inclinarsi trasversalmente, cioè da borea verso austro; dove che i flussi e reflussi son tutti, per l’opposito, da oriente verso occidente.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 21,
+                            "text": "E finalmente, il libramento che alcuno ha attribuito alla Terra, ha le sue reciprocazioni distanti l’una dall’altra per molte migliaia d’anni; dove che nelle librazioni e reciprocazioni de i flussi e reflussi si tratta di tempi brevissimi, cioè di ore.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 18,
+                            "text": "Local movements are also imprinted in the waters when some local movement is conferred to the vessel in which the water is contained: and this can happen in two ways, one of which would be by alternately raising and lowering either one or the other end of the vessel, to which movement and libration would follow that the contained water, flowing towards the part, would alternately go and return along the length of the vessel.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 19,
+                            "text": "But such an accident of libration cannot take place in our case: it may happen that even if the Earth had some reciprocal libration, it would not provide a reason for the water to flow back and forth; for as long as it flows in a vessel that is being librated, as long as in the libration either one or the other end of the vessel is lowered, that is, it approaches the common center of heavy things, for which the water flows there by its weight; but when the Earth is librated, however, due to such libration, no part of its surface would approach or move away from the center of the Earth, which is where the heavy things tend, and therefore no reason would be given for the water to flow there.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 20,
+                            "text": "Moreover, the libration that can be attributed to the terrestrial globe is a transverse inclination, that is, from north to south; where the flows and refluxes are all, on the contrary, from east to west.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 21,
+                            "text": "And finally, the libration that someone has attributed to the Earth, has its reciprocations distant from each other by many thousands of years; where in the libration and reciprocations of the flows and refluxes we are dealing with very short times, that is, hours.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 5,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 22,
+                            "text": "L’altra maniera d’imprimer movimento nell’acqua mediante il moto del vaso continente è col muover il vaso progressivamente, senza punto inclinarlo, ma solamente con muoverlo di moto ora accelerato ed or ritardato; dalla qual variazione ne succede all’acqua, oltre al muoversi al moto del suo continente, il muoversi ancora con qualche diversità ed anco talvolta contrarietà.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 23,
+                            "text": "Come, per dichiarazione, se noi prendessimo un gran vaso pieno d’acqua, qual saria, per essempio, una gran barca, simile a quelle con le quali vediamo trasportarsi di luogo a luogo per l’acque salse altre acque di fiumi o di fonti, vedremmo prima, nel tempo che il vaso contenente, cioè essa barca, stesse ferma, star parimente quieta l’acqua contenutavi dentro; ma quanto prima si cominciasse a muover la barca, non pian piano, ma con notabil velocità, l’acqua, contenuta sì nel vaso, ma non, come le altre parti solide di esso vaso, saldamente a quello collegata, anzi per la sua flussibilità in certo modo disgiunta e non costretta ad ubbidire ad ogni repentina mutazione di esso vaso, vedremmo, dico, essa acqua restar in dietro e sollevarsi alquanto verso la poppa, abbassandosi verso la prora, quindi a poco a poco ridursi ad ubbidire al moto del suo contenente, senza punto variare mentre egli placidamente ed uniformemente caminasse: ed all’incontro, quando la barca, per l’arrenarsi per altro sopravegnente intoppo, venisse notabilmente nel suo corso raffrenata, non però l’acqua contenuta nell’istesso modo si raffrenerebbe dall’impeto concepito, ma, conservandolo ancora, come disgiunta dal suo continente, scorrerebbe verso la prora e quivi risalterebbe e traboccherebbe, abbassandosi e deprimendosi verso la poppa: e questo tanto più manifestamente si scorgerebbe, quanto il partirsi dallo stato di quiete e l’arrestarsi nel mezo della velocità fusse più repentinamente fatto da so esso vaso; che quando successivamente e per gradi lentissimi si trapassasse dallo stato di quiete al movimento accelerato o vero dal moto celere con l’istessa lentezza si ritornasse alla quiete, allora insensibile o pochissima inobbedienza, per così dire, si scorgerebbe nell’acqua contenuta, la quale senza contumacia si andrebbe con pari lentezza impressionando, concordemente con tutto il vaso, delle medesime mutazioni.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 22,
+                            "text": "The other way of imparting motion to water through the motion of the containing vessel is by gradually moving the vessel without tilting it, but only by moving it with an alternating accelerated and decelerated motion. This variation causes the water, in addition to moving with the motion of its container, to move with some diversity and sometimes even opposition.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 23,
+                            "text": "For example, if we were to take a large vessel full of water, such as a large boat, similar to those we see being transported from place to place on saltwater, rivers, or springs, we would observe that when the containing vessel, that is, the boat itself, is stationary, the water inside it remains still. However, as soon as the boat starts moving, not slowly but with noticeable speed, the water contained in the vessel, although not securely connected to it like the other solid parts of the vessel, due to its fluidity, becomes somewhat disconnected and not constrained to obey every sudden change of the vessel. We would see, I say, that this water lags behind and rises slightly towards the stern, lowering towards the bow, and then gradually adjusts to the motion of its container without changing while it moves calmly and uniformly. On the other hand, when the boat is significantly slowed down in its course due to some external obstacle, the water contained in it does not slow down in the same way as the boat does. Rather, it continues to flow towards the bow, resurfaces and spills over there, lowering and depressing towards the stern. This would be more evident when the departure from a state of rest and the halt in the midst of motion are more abruptly caused by the vessel itself. When subsequently, with extremely slow gradation, the transition is made from a state of rest to accelerated motion or, conversely, from rapid motion to rest, then one would notice negligible or very little disobedience, so to speak, in the contained water, which would gradually undergo the same changes as the entire vessel, with the same slowness and in harmony.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 6,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 24,
+                            "text": "Ora io, Illustrissimo Signor, quando vo essannnando i sin qui dichiarati accidenti ed altri appresso, che accaggiono in questa ultimamente considerata cagione di movimenti, inclinerei grandemente a prestar l’assenso, che la ragione dei flussi e reflussi dell’acque marine potesse risedere in qualche movimento dei vasi che le contengono, sì che, attribuendo qualche moto al globo terrestre, da quello potessero trarre origine i movimenti del mare.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 25,
+                            "text": "Il qual principio, sì come non satisfacendo ai particolari accidenti che sensatamente veggiamo nei flussi e reflussi, darebbe segno di non esser causa adequata dell’effetto, così, satisfacendo al tutto, potrà darci indizio di esserne la propria cagione, o almeno molto più probabile che qualunque altra sino a questa età ne sia stata prodotta.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 24,
+                            "text": "Now, Your Excellency, as I examine the aforementioned phenomena and others that occur in this last-considered cause of motion, I am strongly inclined to agree that the reason for the ebb and flow of seawater could reside in some movement of the vessels that contain it, so that, by attributing some motion to the Earth, the movements of the sea could originate from it.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 25,
+                            "text": "This principle, while not satisfying the specific phenomena that we sensibly observe in tides, would indicate that it is not an adequate cause of the effect. However, if it does satisfy all of them, it may provide evidence of being the true cause or, at least, much more probable than any other previously proposed.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 7,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 26,
+                            "text": "Pigliando, dunque, ex hypothesi la mobilità della Terra secondo quei movimenti medesimi che anticamente da molti ed ultimamente da altri filosofi gli furono, in grazia di altri effetti sensati, attribuiti, andiamo considerando quale azzione e corrispondenza e’ possino avere con la presente materia: e per maggior lucidezza dichiariamo brevemente i moti attribuiti al globo terrestre.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 26,
+                            "text": "Taking, therefore, as a hypothesis, the mobility of the Earth according to those same movements that were attributed to it in ancient times by many and recently by other philosophers due to other observable effects, let us consider what actions and correspondences they may have with the subject at hand. For greater clarity, let us briefly explain the motions attributed to the Earth.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 8,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 27,
+                            "text": "Il primo e massimo è il moto annuo sotto l’eclittica, da occidente verso oriente, in un orbe o cerchio il cui semidiametro è la distanza dal Sole alla Terra.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 28,
+                            "text": "Il secondo è una conversione in se stesso e circa il proprio centro di esso globo terrestre, fatta nello spazio di 24 ore, pur verso le medesime parti, cioè da occidente verso oriente, ben che intorno ad un asse alquanto inclinato all’asse del movimento annuo.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 29,
+                            "text": "Lascio il terzo moto, come poco o nulla attenente a questo effetto per la sua grandissima tardità in comparazione di questi due velocissimi, essendo la velocità della già detta revoluzione in se stessa circa a trecento e sessantacinque volte maggiore di questo movimento terzo, se però egli così deve nominarsi; della qual diurna velocità, presa anco nel cerchio massimo del globo terrestre, è la velocità del movimento annuo più che tripla.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 27,
+                            "text": "The first and greatest is the annual motion under the ecliptic, from west to east, in an orbit or circle whose semidiameter is the distance from the Sun to the Earth.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 28,
+                            "text": "The second is a rotation of the Earth about its own center, completed in a 24-hour period, also towards the same directions, that is, from west to east, although around an axis somewhat inclined to the axis of the annual motion.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 29,
+                            "text": "I will leave out the third motion, as it is of little or no relevance to this effect due to its very slow speed compared to these two very fast motions. The speed of the aforementioned rotation about itself is about three hundred and sixty-five times greater than this third motion, if it can be called that. The diurnal speed, taken even in the Earth's equator, is more than three times the speed of the annual motion.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 9,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 30,
+                            "text": "E per più facile intelligenza, sia la circonferenza dell’orbe magno AFG, intorno al centro E; il globo terrestre sia BCDL, intorno al centro A; il moto annuo intendasi esser fatto dal globo terrestre dal punto A verso la parte F, descrivendo col suo centro essa circonferenza AFGI in trecento sessantacinque giorni in circa; e tra tanto intendasi la conversione in sè stesso del globo terrestre secondo il movimento da B in C verso D etc.: intendendo che l’uno e l’altro di questi due movimenti sia per sè stesso ed in sè stesso equabile ed uniforme, cioè che il centro della Terra A passi sempre in tempi eguali parti eguali della circunferenza AFG, e similmente che ’l punto B e qualunque altro della circunferenza BCDL pure in tempi eguali passi spazii tra di loro eguali.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 31,
+                            "text": "Dal che doviamo primieramente con diligenza avvertire, che se bene l’uno e l’altro di questi due movimenti, dico dell’annuo del centro della Terra per l’orbe magno AFG e del diurno della circonferenza BCDL in sè stessa intorno al proprio centro A, sono ciascheduno per sè stesso ed in sè stesso equabili ed uniformi, nientedimeno dal composto ed aggregato di essi ne risulta alle parti della superficie terrena un movimento molto diseguale, sì che ciascheduna di esse parti in diversi tempi del giorno si muove con diverse velocità: il che più manifestamente dichiaro.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 32,
+                            "text": "Avvertasi dunque, che mentre il cerchio BCDL si rivolge in sè stesso per il verso BCD, si trovano nella sua circonferenza movimenti tra di loro contrarli: avvenga che mentre che le parti che sono intorno al C descendono, le opposte L ascendono; e mentre le parti intorno ’l B si muovono aqquistando verso la sinistra, le parti contraposte D aqquistano verso la destra: onde in una intera revoluzione il punto segnato B prima si muove verso la sinistra descendendo; e quando è intorno al C, massimamente descende e comincia a guadagnare e muoversi verso la destra; sin che in D non più descende, ma movendosi assai verso la destra, comincia ad ascendere; sin che in L, ascendendo molto, comincia a guadagnar lentamente verso la sinistra, ascendendo sino in B.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 33,
+                            "text": "Ora, se noi congiugneremo questi movimenti particolari delle parti della Terra col movimento universale di tutto il globo per la circonferenza AFG, troveremo il moto assoluto delle parti superiori, cioè verso il B, esser sempre velocissimo, risultando dal componimento del movimento annuo per la circunferenza AF e del movimento proprio della parte B, li quali due movimenti concordemente conspirano e guadagnano verso la parte sinistra: ma, all’incontro, il moto assoluto delle parti inferiori verso D è sempre tardissimo, poi che il moto proprio delle parti D, che in questo luogo è velocissimo verso la destra, viene a detrarre dal moto annuo fatto per la circonferenza AF, che è verso la sinistra: ma il movimento assoluto e parimente risultante dal componimento delli due movimenti, annuo e diurno, alle parti della Terra intorno a i punti C, L è mediocre ed eguale al semplice movimento annuo, poi che la conversione del cerchio BCDL in sè stesso, non acquistando nei due termini C, L nè a destra nè a sinistra, ma solo abbassando ed alzando, non accresce o detrae dalla velocità del semplice moto per l’arco AF.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 30,
+                            "text": "And for easier understanding, let the circumference of the large orb be AFG, around the center E; let the Earth be BCDL, around the center A; let the annual motion be understood as being performed by the Earth from point A towards part F, describing with its center the circumference AFGI in approximately 365 days; and in the meantime, let the rotation of the Earth about itself according to the motion from B to C towards D, etc., be understood. It should be understood that both of these two motions, separately and in themselves, are uniform and consistent, namely that the center of the Earth A always passes through equal parts of the circumference AFG, and similarly that point B and any other point on the circumference BCDL also pass through equal spaces between them at equal times.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 31,
+                            "text": "From this, we must first carefully note that although both of these two motions, namely the annual motion of the center of the Earth along the large orb AFG and the daily motion of the circumference BCDL around its own center A, are each uniform and consistent in themselves, nevertheless, the composite and aggregate of them results in a very unequal motion for the parts of the Earth's surface, so that each of these parts moves at different speeds at different times of the day, which I explain more clearly.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 32,
+                            "text": "Therefore, it should be noted that while the circle BCDL rotates about itself in the direction of BCD, there are opposing motions in its circumference: while the parts around C descend, the opposite parts L ascend, and while the parts around B move towards the left, the opposing parts D move towards the right. Thus, in a complete revolution, the marked point B first moves towards the left descending, and when it is around C, it descends maximally and begins to gain and move towards the right, until it no longer descends at D but moves considerably to the right and begins to ascend, until it ascends significantly at L and begins to gradually gain towards the left, ascending up to B.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 33,
+                            "text": "Now, if we combine these specific motions of the Earth's parts with the universal motion of the entire globe along the circumference AFG, we will find that the absolute motion of the upper parts, namely towards B, is always very fast, resulting from the combination of the annual motion along the circumference AF and the proper motion of part B, which two motions harmoniously conspire and gain towards the left. On the other hand, the absolute motion of the lower parts towards D is always very slow, as the proper motion of the parts D, which is very fast towards the right at this location, detracts from the annual motion made along the circumference AF, which is towards the left. However, the absolute motion resulting from the combination of these two motions, annual and daily, for the parts of the Earth around points C and L is moderate and equal to the simple annual motion, since the rotation of the circle BCDL about itself, without gaining to the right or to the left at the two points C and L, but only lowering and raising, does not increase or decrease the speed of the simple motion along the arc AF.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 10,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 34,
+                            "text": "Credo per tanto che sin qui sia manifesto come ciascuna parte della superficie terrena, ben che mossa di due movimenti equabilissimi in sè stessi, nulladimeno dentro allo spazio di ventiquattro ore si muove alcuna volta velocissimamente, altra volta tardamente, e due volte mediocremente, considerando la mutazione risultante dal congiugnimento di essi due moti equabili, diurno ed annuo.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 34,
+                            "text": "Therefore, I believe it is clear up to this point that each part of the Earth's surface, although moved by two very uniform motions in themselves, nevertheless moves sometimes very fast, other times very slowly, and twice moderately within the span of twenty-four hours, considering the changes resulting from the combination of these two equable motions, daily and annual.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 11,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 35,
+                            "text": "Sin ora dunque aviamo, che qualsivoglia ricetto d’acque, o sieno mari o stagni o laghi, avendo un movimento continuo ma non equabile, poi che in alcuni tempi del giorno molto si ritarda ed in alcuni altri molto si accelera, ha ancora il principio e la cagione per la quale l’acque in essi ricetti contenute, come fluide e non fissamente annesse a i suoi continenti, devino ora scorrere ed ora ritirarsi verso queste e quelle parti opposte: e questa potremo noi domandare causa primaria dell’effetto, senza la quale esso del tutto non sarebbe.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 36,
+                            "text": "Seguita adesso che cominciamo ad essaminare gli accidenti particolari, tanti e sì diversi, che in diversi mari ed altri ricetti d’acque si osservano, procurando di assegnarne le ragioni proprie ed adequate: per il che fare doviamo essaminare alcuni altri particolari accidenti che accascano in questi movimenti dell’acqua, comunicatigli dall’accelerazione o ritardamento del vaso che la contiene.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 35,
+                            "text": "So far, we have understood that any body of water, be it a sea, a pond, or a lake, having a continuous but non-uniform motion, as it slows down greatly at certain times of the day and accelerates greatly at other times, also has the principle and cause by which the water contained in them, as fluid and not firmly attached to their shores, must now flow and now recede towards opposite parts. We can consider this as the primary cause of the effect, without which it would not occur at all.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 36,
+                            "text": "Now, let us continue examining the many and diverse particular phenomena observed in different seas and other bodies of water, seeking to assign their proper and adequate causes. To do this, we must examine some other specific phenomena that arise from the acceleration or deceleration of the vessel containing the water.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 12,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 37,
+                            "text": "Il primo è, che qualunque volta l’acqua, mercè di un notabile ritardamento o accelerazione di moto del suo vaso continente, ara aqquistata cagione di scorrere verso questa o quella estremità, e si sarà alzata nell’una ed abbassata nell’altra, non però resterà in tale stato, ma, in virtù del proprio peso e naturale inclinazione di librarsi e livellarsi, tornerà con velocità in dietro, cercando l’equilibrio delle sue parti; e, come grave e fluida, non solo si moverà verso l’equilibrio, ma promossa dal proprio impeto, lo trapasserà, alzandosi nella parte dove prima era più bassa; nè qui ancora si fermerà, ma di nuovo ritornando in dietro, con molte e reiterate reciprocazioni di scorrimenti innanzi ed in dietro ci darà segno come ella non vuole da una concepita velocità di moto ridursi subito alla privazione di quello e allo stato di quiete, ma, successivamente mancando, ci si vuole lenta e languidamente ridurre: in quel modo appunto che veggiamo alcun peso pendente da una corda, dopo essere stato una volta rimosso dal suo perpendicolo, per sè medesimo ricondurvisi e quietarvisi, ma non prima che molte volte l’avrà di qua e di là con sue vicendevoli corse e ricorse trapassato.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 37,
+                            "text": "The first is that whenever water, due to a significant delay or acceleration of motion in its containing vessel, acquires a reason to flow towards one or the other end, it will rise at one end and fall at the other. However, it will not remain in that state but, due to its weight and natural inclination to balance and level itself, it will quickly return backward, seeking the equilibrium of its parts. As a heavy and fluid substance, it will not only move towards equilibrium but, propelled by its own momentum, it will surpass it, rising in the part where it was previously lower. And it will not stop there but, once again returning backward, with many repeated back-and-forth motions, it will show us that it does not want to immediately reduce its conceived speed of motion to the absence of motion and a state of rest. Instead, gradually losing momentum, it wants to slowly and languidly come to a stop, just as we see a weight hanging from a rope, after being removed once from its perpendicular position, bringing itself back and coming to rest by its own repeated movements and oscillations.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 13,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 38,
+                            "text": "Il secondo accidente da notarsi è, che le pur ora dichiarate reciprocazioni di movimenti vengon fatte e replicate con maggior o minor frequenza, cioè sotto più brevi o più lunghi tempi, secondo le diverse lunghezze de i vasi contenenti l’acque, cioè secondo le maggiori o minori distanze dall’una all’altra estremità del vaso; sì che ne gli spazii più brevi le reciprocazioni sono più frequenti, e più rare nei più lunghi: come appunto nel medesimo essempio dei corpi penduli si veggono le reciprocazioni di quelli che sono appesi a più lunga corda esser meno frequenti che quelle dei pendenti da fili più corti.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 38,
+                            "text": "The second aspect to be noted is that the aforementioned back-and-forth motions are performed and repeated with greater or lesser frequency, that is, over shorter or longer periods, depending on the different lengths of the vessels containing the water, that is, depending on the greater or lesser distances between the two ends of the vessel. Therefore, in shorter spaces, the back-and-forth motions are more frequent, while they are less frequent in longer spaces. This is exactly like the example of pendulum bodies, where we see that the back-and-forth oscillations of those hanging from longer strings are less frequent than those of the ones hanging from shorter threads.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 14,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 39,
+                            "text": "E qui casca per terzo notabile da sapersi, che non solamente la maggiore o minore lunghezza del vaso è cagione di far che l’acqua sotto diversi tempi faccia le sue reciprocazioni, ma la maggiore o minor profondità del vaso ed altezza d’acqua opera la medesima diversità; sì che dell’acque che saranno contenute in ricetti di eguali lunghezze, ma di diseguali profondità, quella che sarà più profonda farà le sue librazioni sotto tempi più brevi, e men frequenti saranno le reciprocazioni dell’acque men profonde.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 40,
+                            "text": "Quarto, vengono degni d’esser notati e diligentemente osservati due effetti che fa l’acqua in tali suoi libramenti.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 41,
+                            "text": "L’uno è l’alzarsi ed abbassarsi alternatamente verso questa e quella estremità; l’altro è il moversi e scorrere, per così dire orizontalmente, innanzi ed indietro: li quali due moti differenti differentemente riseggono in diverse parti dell’acqua.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 42,
+                            "text": "Imperò che le sue parti estreme son quelle che sommamente si alzano e s’abbassano; quelle di mezo niente assolutamente si muovono in su o in giù; dell’altre, di grado in grado quelle che son più vicine a gli estremi si alzano e si abbassano proporzionatamente più delle più remote: ma, per l’opposito, dell’altro movimento progressivo innanzi ed indietro sommamente si movono andando e ritornando le parti di mezo, e nulla aqquistano le acque che si trovano nell’ultime estremità, se non in quanto nell’alzarsi elleno superassero gli argini e traboccassero fuori del suo primo alveo e ricetto; ma dove è intoppo de gli argini che le raffreni, solo si alzano ed abbassano; nè però restano le acque di mezo di scorrere velocemente e per grand’intervalli innanzi ed indietro, il che fanno anco proporzionatamente le altre parti, scorrendo più o meno secondo che si trovano locate più vicine o remote dal mezo.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 43,
+                            "text": "Il quinto particolar accidente dovrà tanto più attentamente da noi esser considerato, quanto che è se non impossibile, almeno difficilissimo, il rappresentarne con esperienza e pratica il suo effetto.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 44,
+                            "text": "E l’accidente è questo.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 45,
+                            "text": "Ne i vasi fatti da noi per arte, e mossi, come le sopranominate barche, or più ed or meno velocemente, l’accelerazione e ritardamento vien sempre partecipato nell’istesso modo da tutto il vaso e da ciascheduna sua parte; sì che mentre, v.g., la barca si raffrena dal moto, non più si ritarda la parte precedente che la sussequente, ma egualmente tutte partecipano del medesimo ritardamento: e l’istesso doviamo intendere dell’accelerazione; sì che contribuendo alla barca nuova causa di maggior velocità, non più si accelerano le parti sue precedenti che le seguenti, ma nell’istesso modo acquista velocità la prora e la poppa: e questo, per esser il vaso fabbricato e contesto di materia solida e dura, non cedente nè flussibile.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 46,
+                            "text": "Ma nei vasi immensi, quali sono i letti lunghissimi dei mari; ben che essi ancora altro non sieno che alcune cavità fatte nella solidità del globo terrestre, tuttavia mirabilmente avviene che gli estremi suoi non unitamente, egualmente e ne gli stessi momenti di tempo accreschino o scemino il lor moto;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 47,
+                            "text": "ma accade che quando l’una delle sue estremità si trova aver, in virtù del componimento de i due moti diurno ed annuo, ritardata grandemente la sua velocità, l’altra estremità si ritrovi ancora affetta e congiunta con moto velocissimo.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 48,
+                            "text": "Il che, per più facile intelligenza, dichiareremo ripigliando la figura precedente.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 49,
+                            "text": "Nella quale se intenderemo un tratto di mare esser lungo, v. g., una quarta, quale è l’arco BC, perchè le parti B sono, come di sopra si dichiarò, in moto velocissimo, per l’unione de i due movimenti diurno ed annuo verso la medesima banda, ma la parte C allora si ritrova in moto ritardato e privo della progressione dependente dal movimento diurno;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 50,
+                            "text": "se intenderemo, dico, un sino di mare lungo quanto è l’arco BC, già veggiamo come gli estremi suoi si muovano nell’istesso tempo con molta disegualità.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 51,
+                            "text": "E sommamente differenti sarebbono le velocità d’un tratto di mare lungo mezo cerchio e posto nello stato dell’arco BCD, avvenga che l’estremità B si troverebbe in moto velocissimo, l’altra D sarebbe in moto tardissimo, e le parti di mezo verso C sarebbono in moto mediocre: e secondo che essi tratti di mare saranno più brevi, participeranno meno di questo stravagante accidente, di ritrovarsi in alcune ore del giorno con le parti loro diversamente affette da velocità e tardità di moto.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 52,
+                            "text": "Sì che se, come nel primo caso, veggiamo per esperienza l’accelerazione e ritardamento, ben che participati egualmente da tutte le parti del vaso continente, esser pur cagione all’acqua contenuta di scorrere innanzi ed indietro, che doviamo stimare che accader debbia in un vaso così mirabilmente disposto, che molto disegualmente venga contribuita alle sue parti ritardanza di moto ed accelerazione?",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 53,
+                            "text": "Certo che noi dir non possiamo altro, se non che maggiore e più maravigliosa cagione di commozioni nell’acqua e più strane ritrovar si debbano.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 54,
+                            "text": "E ben che impossibil parer possa a molti che in machine vasi artificiali noi possiamo esperimentar gli effetti di un tal accidente, nulladimeno non è del tutto impossibile; ed io ho la construzione di una machina, ed a suo tempo la dichiarerò, nella quale particolarmente si può scorgere gli effetti di queste meravigliose composizioni di movimenti.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 55,
+                            "text": "Ma per quanto appartiene alla presente materia, basta quello che ciascheduno sin qui può con l’imaginazione comprendere.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 56,
+                            "text": "Ora passando a essaminare gli accidenti che nei flussi e reflussi dell’acque per esperienza si osservano, prima non deveremo aver difficoltà, d’onde accaggia che nei laghi, stagni ed anco nei piccioli mari non sia notabile flusso e reflusso: il che ha due congruentissime cagioni.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 57,
+                            "text": "L’una è, che, per la brevità del vaso, nell’acquistar egli in diverse ore del giorno diversi gradi di velocità, con pochissima differenza vengono aqquistati da tutte le sue parti, ma tanto le precedenti quanto le sussequenti, cioè le orientali ed occidentali, quasi nell’istesso modo e tempo si accelerano o ritardano; e facendosi, di più, tale alterazione sensim et per gradus, e non con l’opporre un repentino intoppo e ritardamento o una subitanea e grandissima accelerazione al movimento del vaso continente, ed esso e tutte le sue parti vengono egualmente e lentamente impressionandosi dei medesimi gradi di velocità: dalla quale uniformità ne seguita che anco l’acqua contenuta, con poca contumacia e renitenza riceva le medesime impressioni, e per conseguenza molto oscuramente dia segno d’alzarsi o abbassarsi, scorrendo verso questa o verso quella parte.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 58,
+                            "text": "La seconda causa è la reciproca librazione dell’acqua, proveniente dall’impeto concepito dal moto del suo continente, la qual librazione ha, come si è notato, le sue vibrazioni molto frequenti nei vasi piccoli: dal che ne risulta, che risedendo nei movimenti terrestri cagione di contribuire all’acque movimento solo di dodici in dodici ore, poi che una volta sola il giorno sommamente si ritarda e sommamente si accelera il movimento de i vasi continenti, nientedimeno l’altra seconda cagione, dependente dalla gravità dell’acqua, che cerca ridursi all’equilibrio e, secondo la brevità del vaso, ha le sue reciprocazioni di un’ora o di due o di tre etc., questa mescolandosi con la prima, che anco per sè nei vasi piccoli resta piccolissima, la vien del tutto a perturbare e rendere insensibile: imperò che, non si essendo ancor finita d’imprimere la commozione procedente dalla cagione primaria, che ha i periodi di 12 ore, sopraviene, contrariando, l’altra secondaria, dependente dal proprio peso dell’acqua, la quale, secondo la cortezza e profondità del vaso, ha il tempo delle sue vibrazioni di 1, 2, 3 o 4 ore etc, e, contrariando alla prima, la perturba e rimuove, non la lasciando giugnere al sommo nè al mezo del suo movimento.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 59,
+                            "text": "E da tal contraposizione resta annichilata in tutto, o molto oscurata, l’evidenza del flusso e reflusso.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 60,
+                            "text": "Lascio stare l’alterazione accidentaria continua dell’aria, la quale, inquietando anco l’acqua, non ci lascierebbe venire in certezza di un piccolissimo ricrescimento o abbassamento di mezo dito o di minor quantità, che potesse realmente riseder nei seni e ricetti d’acque non più lunghi di un grado o due.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 39,
+                            "text": "And here comes the third notable thing to know, that not only the greater or lesser length of the vessel is the cause of the water making its reciprocations at different times, but the greater or lesser depth of the vessel and the water level also produce the same variety. So, among the waters contained in receptacles of equal lengths but different depths, the deeper one will make its movements in shorter and less frequent times.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 40,
+                            "text": "Fourth, two effects produced by the water in its oscillations are worth noting and carefully observing.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 41,
+                            "text": "One is the alternating rise and fall towards one or the other end; the other is the movement and flow, so to speak, horizontally, back and forth. These two different motions manifest differently in different parts of the water.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 42,
+                            "text": "The extreme parts rise and fall to the highest extent, while the middle parts do not move up or down at all. In gradual progression, the parts closest to the ends rise and fall proportionally more than the more remote ones. Conversely, in the other progressive movement back and forth, the middle parts move to the highest extent, going back and forth, while the water in the extreme ends gains nothing unless it exceeds the edges and overflows from its original channel and receptacle. However, where there are restraining barriers, only the rise and fall occur, but the middle waters do not flow quickly and over long intervals back and forth, as the other parts do proportionally, flowing more or less according to their proximity or remoteness from the middle.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 43,
+                            "text": "The fifth particular occurrence should be considered even more attentively by us, as it is, if not impossible, at least extremely difficult to represent its effect through experience and practice.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 44,
+                            "text": "And this occurrence is as follows.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 45,
+                            "text": "In vessels made by us artificially, and moved, like the aforementioned boats, more or less swiftly, the acceleration and deceleration are always shared in the same way by the entire vessel and each of its parts. So, while, for example, the boat decelerates from motion, the preceding part does not decelerate more than the subsequent part, but all equally participate in the same deceleration. The same applies to acceleration; thus, contributing to the boat's new cause of greater speed, the preceding parts do not accelerate more than the following parts, but the bow and the stern gain speed in the same way. This is because the vessel is constructed and composed of solid and hard material, which does not yield or flex.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 46,
+                            "text": "But in the immense vases, which are the very long beds of the seas; although they are nothing more than some cavities made in the solidity of the terrestrial globe, it happens in a marvelous way that their ends do not increase or decrease their motion together, equally and at the same moments in time;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 47,
+                            "text": "but it happens that when one of its ends finds itself, by virtue of the combination of the daily and annual motions, greatly delayed in its speed, the other end is still affected and joined with very fast motion.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 48,
+                            "text": "Which, for easier understanding, we will explain by taking the previous figure again.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 49,
+                            "text": "In which, if we understand a stretch of sea to be long, for example, a quarter, which is the arc BC, because the parts B are, as explained above, in very fast motion, due to the combination of the daily and annual movements in the same direction, but the part C then finds itself in delayed motion and devoid of the progression dependent on the daily movement;",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 50,
+                            "text": "If we understand, I say, a stretch of sea as long as the arc BC, we already see how its ends move at the same time with great inequality.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 51,
+                            "text": "And the speeds of a stretch of sea along a semicircle and placed in the state of the arc BCD would be extremely different, so that end B would be in very fast motion, the other end D would be in very slow motion, and the parts in the middle towards C would be in mediocre motion: and depending on how short these stretches of sea are, they would participate less in this strange occurrence of finding themselves at different times of the day with their parts affected differently by speed and slowness of motion.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 52,
+                            "text": "So, if, as in the first case, we observe by experience the acceleration and deceleration, although equally shared by all parts of the containing vessel, it is still the cause for the contained water to flow back and forth, what should we expect to happen in a vessel so marvelously arranged, where the delay and acceleration of motion are contributed very unevenly to its parts?",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 53,
+                            "text": "Certainly, we can't say anything else, except that greater and more marvelous causes of commotion in the water and stranger discoveries must be found.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 54,
+                            "text": "And although it may seem impossible to many that in artificial vessels we can experience the effects of such an accident, it is not entirely impossible. And I have the construction of a machine, and in due time I will disclose it, in which the effects of these marvelous compositions of movements can be observed in particular.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 55,
+                            "text": "But as far as the present matter is concerned, it is sufficient for everyone to understand with their imagination what has been explained so far.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 56,
+                            "text": "Now, in examining the phenomena observed through experience in the ebb and flow of waters, we should first not have difficulty understanding why there is no noticeable ebb and flow in lakes, ponds, and even in small seas: this has two very congruent causes.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 57,
+                            "text": "The first is that, due to the shortness of the vessel, as it gains different degrees of velocity at different hours of the day, with very little difference, these degrees are acquired by all its parts, both the preceding and the following, that is, the eastern and western parts, almost in the same manner and time they accelerate or decelerate; and as this alteration occurs gradually and by degrees, without sudden impediment or delay, or sudden and great acceleration to the movement of the containing vessel, it and all its parts are equally and slowly impressed by the same degrees of velocity. From this uniformity, it follows that the contained water, with little resistance and reluctance, receives the same impressions, and therefore gives very obscure signs of rising or falling, flowing towards this or that direction.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 58,
+                            "text": "The second cause is the reciprocal motion of the water, resulting from the impetus conceived by the motion of its container, which, as noted, has very frequent vibrations in small vessels. Hence, it follows that, by participating in terrestrial movements, it only contributes to the motion of waters every twelve hours, since once a day the motion of the containing vessels is significantly delayed and accelerated. However, the other second cause, dependent on the gravity of the water, which seeks to reach equilibrium and, depending on the shortness and depth of the vessel, has its reciprocations every one, two, three, or four hours, etc., when combined with the first cause, which in itself remains very small in small vessels, completely disturbs and renders it imperceptible. Thus, while the impression caused by the primary cause, which has periods of 12 hours, has not yet finished, the other secondary cause, dependent on the weight of the water itself, contrary to the first cause, disturbs and removes it, not allowing it to reach the highest or middle point of its motion.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 59,
+                            "text": "And due to this counterposition, the evidence of the ebb and flow is completely annihilated or greatly obscured.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 60,
+                            "text": "I leave aside the continuous accidental alteration of the air, which, also disturbing the water, would not allow us to ascertain a very slight increase or decrease of half a finger or a smaller quantity that could actually take place in the basins and receptacles of water no longer than one or two degrees.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 15,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 61,
+                            "text": "Vengo nel secondo luogo a sciorre il dubbio, come non risedendo nel primario principio dei flussi e reflussi cagione di commover l’acque se non di 12 ore in 12 ore, cioè una volta per la somma velocità di moto e l’altra per la massima tardità, nulladimeno apparisca comunemente il periodo dei flussi e reflussi essere di sei ore in sei ore.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 62,
+                            "text": "Al che si risponde, prima, che la determinazione dei periodi che in effetto si fanno, non si può in modo alcuno avere dalla sola primaria cagione; ma vi bisogna inserire la secondaria, che aviamo detto esser quella che depende dalla propria inclinazione dell’acqua, che sollevata una volta verso una delle estremità del vaso, per natura del proprio peso scorre per ridursi all’equilibrio, e fa molte reciprocazioni e librazioni, più e men frequenti secondo la minore o maggiore lunghezza del vaso e la maggiore o minore profondità dell’acqua.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 63,
+                            "text": "Dico secondariamente, il periodo comunemente osservato delle sei ore in sei ore in circa non esser più naturale o principale di alcun altro, ma sì bene esser il più osservato noto e descritto de gli altri, poi che è del Mar Mediterraneo, intorno al quale sono abitati tutti i nostri scrittori antichi e gran parte dei moderni: la lunghezza del qual sino mediterraneo porta le reciprocazioni dependenti dalla causa secondaria di circa sei ore in sei ore; dove che nei liti che terminano dalla parte orientale l’Oceano Etiopico, che si distende sino all’Indie Occidentali, le reciprocazioni sono di 12 ore in 12 ore in circa, come giornalmente si osserva in Lisbona, posta a gli ultimi liti di Spagna, contro la quale il mare, che si distende verso l’Americhe sino al Golfo Messicano, si trova essere il doppio più lungo del tratto mediterraneo dallo stretto di Gibilterra sino alle spiaggie di Siria, cioè quello gradi 120, e questo gradi 56 in circa.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 64,
+                            "text": "L’esser dunque stato creduto, i periodi dei flussi e reflussi esser di sei ore in sei ore, è stato un’ingannevole opinione, la quale ha poi fatto favoleggiare gli scrittori con molte vane fantasie.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 61,
+                            "text": "I come in second place to dispel the doubt, as not residing in the primary principle of the ebb and flow as a cause of stirring the waters only every 12 hours, that is, once for the sum of the speed of motion and once for the maximum slowness. Nevertheless, it commonly appears that the period of ebb and flow is every six hours.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 62,
+                            "text": "To this, it is answered first that the determination of the periods that occur in effect cannot be obtained solely from the primary cause; but it is necessary to include the secondary cause, which we have said is the one that depends on the natural inclination of the water. When lifted once towards one of the ends of the vessel, due to the nature of its weight, it flows to reduce itself to equilibrium and undergoes many oscillations and fluctuations, more or less frequent depending on the smaller or greater length of the vessel and the greater or lesser depth of the water.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 63,
+                            "text": "Secondly, I say that the commonly observed period of about six hours is not more natural or principal than any other, but it is indeed the most observed, known, and described among the others. This is because it pertains to the Mediterranean Sea, around which all our ancient writers and a large part of the modern ones lived. The length of the Mediterranean Sea brings about oscillations dependent on the secondary cause of approximately six hours. On the other hand, in the regions ending on the eastern side of the Ethiopian Ocean, which extends to the West Indies, the oscillations occur approximately every 12 hours, as daily observed in Lisbon, located on the last shores of Spain. Against Lisbon, the sea that stretches towards the Americas up to the Gulf of Mexico is found to be twice as long as the Mediterranean stretch from the Strait of Gibraltar to the shores of Syria, which is about 120 degrees, while the former is about 56 degrees.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 64,
+                            "text": "Therefore, believing that the periods of ebb and flow occur every six hours has been a deceptive opinion that has led writers to indulge in many vain fantasies.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 16,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 65,
+                            "text": "Di qui non sarà, nel terzo luogo, difficile l’investigar le ragioni di tante inegualità di periodi che si osservano nei minor mari, come nella Propontide e nell’Ellesponto ed altri, in alcuno dei quali il corso dell’acque si reciproca di tre ore in tre ore, di due in dua, di quattro in quattro etc, con differenze tali che hanno molto travagliato gli osservatori della natura, mentre, ignorandone le vere ragioni, son ricorsi a vane chimere di moti di Luna e di altre fantasie, non gli cadendo mai in mente la considerazione delle diverse lunghezze e profondità dei mari",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 66,
+                            "text": "le quali, come si è detto, hanno tanto potente cagione nel determinare i tempi delle scorse e regressi dell’acque, che quando, essendo prima bene assicurati dell’istorica verità del fatto e di quello che accaggia in diversi mari, si avesse di più le dimostrazioni di quello che far debbono le reciprocazioni dei moti, proporzionatamente alle lunghezze e profondità dei vasi, sarebbe speditissimo e pronto il superar tutte le difficoltà, e massime congiugnendo e contemperando queste ragioni secondarie con la primaria ed universale, dependente dal moto terrestre",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 65,
+                            "text": "From here, it will not be difficult, in the third place, to investigate the reasons for the many inequalities of periods observed in the smaller seas, such as the Propontis and the Hellespont and others, in which the course of the waters reciprocates every three hours, every two hours, every four hours, etc., with such differences that have greatly troubled the observers of nature, as they, ignoring the true reasons, have resorted to vain chimerae of lunar motions and other fantasies, never considering the different lengths and depths of the seas",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 66,
+                            "text": "which, as mentioned, have such a powerful cause in determining the times of the ebb and flow of waters that when, being first well assured of the historical truth of the fact and of what happens in different seas, one had further demonstrations of what the reciprocations of motions should do, proportionate to the lengths and depths of the vessels, it would be very swift and ready to overcome all difficulties, especially by combining and tempering these secondary reasons with the primary and universal reason, dependent on the motion of the Earth",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 17,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 67,
+                            "text": "Averemo, nel quarto luogo, molto spedita la ragione, onde avvenga che alcun mare, ben che lunghissimo, quale è il Mar Rosso, nulladimeno è quasi del tutto esente dai flussi e reflussi",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 68,
+                            "text": "La qual cosa accade, perchè la sua lunghezza non si distende dall’oriente verso l’occidente, anzi traversa da sirocco verso maestro",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 69,
+                            "text": "ma essendo i movimenti della Terra da occidente in oriente, gl’impulsi dell’acque vanno sempre a ferire i meridiani, e non si muovono di parallelo in parallelo",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 70,
+                            "text": "onde ai mari che trasversalmente si distendono verso i poli, e per l’altro verso sono angusti, non resta cagione di flussi e reflussi se non per la partecipazione di altro mare col quale communicassero, che fusse soggetto a movimenti grandi",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 67,
+                            "text": "In the fourth place, we will have a very clear reason why it happens that a certain sea, although very long, such as the Red Sea, is almost entirely free from ebb and flow",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 68,
+                            "text": "This happens because its length does not extend from east to west, but rather crosses from southeast to northwest",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 69,
+                            "text": "but since the movements of the Earth are from west to east, the impulses of the waters always strike the meridians and do not move parallel to each other",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 70,
+                            "text": "so in seas that extend transversely towards the poles and are narrow in the other direction, there is no cause for ebb and flow except through the participation of another sea with which they communicate, which is subject to great movements.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 18,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 71,
+                            "text": "Intenderemo, nel quinto luogo, molto facilmente la ragione, perchè i flussi e reflussi sieno massimi, quanto all’alzarsi ed abbassarsi l’acque, ne gli estremi dei golfi, e minimi nelle parti di mezo",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 72,
+                            "text": "poi che l’esperienza ci mostra, come di sopra si è dichiarato, che P acqua nelle sue librazioni nulla si eleva nel mezo del suo vaso continente, e massimamente si alza ed abbassa nell’estremità",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 73,
+                            "text": "Quindi avviene che nell’estremità del golfo Adriatico, cioè intorno a Venezia, i flussi e reflussi fanno comunemente diversità d’altezza di circa a tre braccia",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 74,
+                            "text": "ma nei luoghi del Mediterraneo distanti dalli estremi, tal mutazione è piccolissima, come nell’isole di Corsica e Sardigna, e nella spiaggia di Roma e di Livorno non passa mezo braccio",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 71,
+                            "text": "We will understand, in the fifth place, very easily the reason why the maximum tides occur, regarding the rising and falling of the waters, at the extremes of the gulfs, and they are minimal in the middle parts.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 72,
+                            "text": "Since experience shows us, as mentioned above, that the water in its oscillations does not rise in the middle of its containing vessel, but it rises and falls mostly at the extremities.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 73,
+                            "text": "Therefore, it happens that at the extremity of the Adriatic Gulf, around Venice, the tides commonly show a height difference of about three arms.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 74,
+                            "text": "However, in the places of the Mediterranean distant from the extremes, such variation is minimal, like in the islands of Corsica and Sardinia, and on the coasts of Rome and Livorno, it does not exceed half an arm.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 19,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 75,
+                            "text": "Sesto, riducendoci in mente quello che di sopra si è notato e che dall’esperienza ci vien posto avanti a gli occhi, sarà molto in pronto la cagione, onde avvenga che nei mari vastissimi, ben che l’alzamento ed abbassamento dell’acque sia piccolissimo nelle parti di mezo, nulla di meno le correnti dell’acque or verso ponente ed or verso levante vi sono molto grandi",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 76,
+                            "text": "il che procede dalla natura stessa dei libramenti dell’acque, che quanto meno si alzano ed abbassano nelle parti di mezo, tanto maggiormente vi scorrono innanzi ed in dietro, accadendo tutto l’opposito verso l’estremità",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 77,
+                            "text": "In oltre, considerando come la medesima quantità d’acqua mossa, ben che lentamente, per un alveo spazioso, nel dover poi passare per luogo ristretto, per necessità scorre con impeto grande, non aremo difficoltà d’intendere la causa delle smisurate correnti che si fanno nello stretto canale che separa la Sicilia dalla Calabria",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 78,
+                            "text": "poi che tutta l’acqua che dall’ampiezza dell’isola e dal golfo Ionio vien sostenuta nella parte del mare orientale, ben che in quello lentamente descenda verso occidente, tuttavia nel ristringersi nel bosforo tra Scilla e Cariddi fa grandissima agitazione",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 79,
+                            "text": "simile alla quale, e molto maggiore, s’intende esser tra l’Affrica e la grandissima isola di S. Lorenzo, mentre le acque dei due gran mari Indico ed Etiopico, che la mettono in mezo, devono scorrendo ristrignersi in minor canale, tra essa e la costa etiopica",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 80,
+                            "text": "Grandissime ed immense convien che sieno le correnti nello stretto di Magaglianes, che communica gli oceani vastissimi Etiopico e del Sur",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 75,
+                            "text": "Sixth, taking into account what has been noted above and what experience presents before our eyes, the cause will be readily apparent as to why, in the vast seas, although the rising and falling of the waters are minimal in the middle parts, the water currents towards the west and towards the east are nevertheless very strong.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 76,
+                            "text": "This is due to the nature of the oscillations of the water, as the less they rise and fall in the middle parts, the more they flow forward and backward, with the opposite occurring towards the extremities.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 77,
+                            "text": "Furthermore, considering how the same quantity of water, although moving slowly through a spacious channel, when it has to pass through a narrow place, it flows with great force out of necessity, we will have no difficulty in understanding the cause of the immense currents that occur in the narrow channel separating Sicily from Calabria.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 78,
+                            "text": "Since all the water that is sustained by the breadth of the island and the Ionian Gulf in the eastern part of the sea, although it slowly descends towards the west, nevertheless, when it narrows in the strait between Scylla and Charybdis, it causes great agitation.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 79,
+                            "text": "Similar to this, and much greater, it is understood to occur between Africa and the immense island of St. Lawrence, while the waters of the two great Indian and Ethiopian seas, which surround it, must narrow down in a smaller channel between it and the Ethiopian coast.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 80,
+                            "text": "The currents in the Strait of Magellan, which connects the vast Ethiopian and South Oceans, must be exceedingly great and immense.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 20,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 81,
+                            "text": "Séguita che, nel settimo luogo, per render ragione di alcuni più reconditi ed inopinabili accidenti che in questa materia si osservano, andiamo facendo un’altra importantissima considerazione sopra le due principali cagioni dei flussi e reflussi, componendole poi e mescolandole insieme.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 82,
+                            "text": "La prima e più semplice delle quali è la determinata accelerazione e ritardamento delle parti della Terra, dependente dal componimento dei due moti, annuo e diurno; la quale alterazione ha il suo periodo determinatissimo di accelerarsi in un tempo massimamente e di ritardarsi in un altro, e quindi velocemente scorrere verso ’l termine opposto, dispensando in queste mutazioni lo spazio di 24 ore.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 83,
+                            "text": "L’altra cagione è quella che depende dalla propria gravità dell’acqua, che, commossa prima dalla causa primaria, cerca poi di ridursi all’equilibrio con iterate reciprocazioni, le quali non sono determinate da un tempo solo e prefisso, ma hanno tante diversità di tempi quante sono le diverse lunghezze e profondità dei ricetti e seni dei mari; sì che da questo avviene che altri mari, per quanto depende da questo secondo principio, scorrerebbono e ritornerebbono in un’ora, altri in dua, in quattro, sei, in otto, in dieci etc.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 84,
+                            "text": "Ora, se noi comincieremo a congiugner la cagion primaria, che ha stabilmente il suo periodo di scorrere ora per un verso e di lì a ore dodici per l’opposto, con alcuna delle cagioni secondarie che avesse il suo periodo, v. g., di cinque in cinque, accaderà che in alcuni tempi la cagion primaria e la secondaria si accordino a far gl’impulsi amendue verso la medesima parte, ed in questo congiugnimento, e per così dire unanime conspirazione, i flussi saranno grandi: in altri tempi accadendo che l’impulso primario venghi in certo modo a contrariare a quello che porterebbe il periodo secondario, ed in cotal raffronto togliendo l’uno dei principii quello che l’altro ci darebbe, si debiliteranno sommamente i moti dell’acque, e si farà quello stato che vulgarmente si dice esser il mar di fele: ed altre volte, secondo che i medesimi due principii nè del tutto si contrarieranno nè del tutto andranno uniformi, si faranno altre mutazioni circa all’accrescimento o diminuzione dei flussi e reflussi.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 85,
+                            "text": "Può anco accadere che due mari assai grandi e communicanti per qualche angusto canale, si incontrino ad aver, mediante la mistione dei due principii di moto, l’uno causa di flusso nel tempo che l’altro abbia causa di movimento contrario; nel qual caso nel canale dove essi mari communicano, si faranno agitazioni terribili con movimenti opposti e vortici e ribollimenti pericolosissimi, de’ quali se ne hanno continue relazioni ed esperienze in fatto.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 86,
+                            "text": "Da tali discordi movimenti, dependenti non solamente dalle diverse positure e lunghezze, ma grandemente ancora dalle diverse profondità dei mari comunicanti, nasceranno in alcuni tempi varie commozioni nell’acque, sregolate ed inosservabili, le ragioni delle quali hanno assai perturbato e tuttavia perturbano i marinari, mentre l’incontrano senza vedere che nè impeto di venti o altra grave alterazione dell’aria ne possa esser cagione.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 87,
+                            "text": "Della qual perturbazione di aria doviamo in altri accidenti far gran conto, e prenderla come terza cagione ed accidentaria, pòtente a grandemente alterare l’osservanza de gli effetti dependenti dalle primarie e più essenziali cagioni.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 88,
+                            "text": "E non è dubbio che continuando a soffiare venti impetuosi, per essempio, da levante, sosterranno le acque, proibendoli il reflusso, onde, sopragiugnendo all’ore determinate la seconda replica, e poi la terza, del flusso, rigonfieranno molto, e così, sostenute per qualche giorno dalla forza del vento, si alzeranno più del solito, facendo straordinarie inondazioni.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 89,
+                            "text": "Doviamo ancora (e sarà come l’ottavo problema) aver avvertenza d’un’altra cagione di movimento, dependente dalla copia grande dell’acque dei fiumi che vanno a scaricarsi nei mari non molto vasti: dove nei canali o bosfori che con tali mari communicano, l’acqua si vede scorrer sempre per l’istesso verso, come accade nel Bosforo Tracio sotto Costantinopoli, dove l’acqua scorre sempre dal Mar Negro verso la Propontide.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 90,
+                            "text": "Imperò che in esso Mar Negro, per la sua brevità, di poca efficacia sono le cause principali del flusso e reflusso; ma all’incontro, scaricandosi in esso molti e grandissimi fiumi, come il Danubio, il Boristene e, per la palude Meotide, la Tana ed altri, nel dover passar e sgorgar tanto profluvio di acque per lo stretto, quivi il corso è assai notabile e sempre verso mezo giorno.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 91,
+                            "text": "Dove di più doviamo avvertire che tale stretto e canale, ben che molto angusto, non è sottoposto alle perturbazioni come lo stretto di Scilla: imperò che quello ha il Mar Negro sopra verso tramontana, e la Propontide e l’Egeo col Mediterraneo postigli, ben che per lungo tratto, verso mezo giorno; ma già, come aviamo notato, i mari quanto si veglino lunghi da tramontana verso mezo giorno, non soggiacciono ai flussi e reflussi: ma perchè lo stretto di Sicilia è traposto tra le parti del Mediterraneo distese per gran distanze da ponente a levante, cioè secondo la corrente dei flussi e reflussi, però in questo le agitazioni sono molto grandi: e grandissime sarebbono tra le Colonne, quando lo stretto di Gibilterra si aprisse meno; e senza misura riferiscono esser quelle dello stretto di Magaglianes.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 81,
+                            "text": "Followed by, in the seventh place, to account for some more hidden and unexpected accidents observed in this matter, we are making another very important consideration on the two main causes of tides, combining them and mixing them together.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 82,
+                            "text": "The first and simplest of which is the determined acceleration and retardation of the parts of the Earth, dependent on the combination of the two motions, annual and diurnal; this alteration has its very determined period of accelerating at one time and retarding at another, and then rapidly flowing towards the opposite end, covering the span of 24 hours in these changes.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 83,
+                            "text": "The other cause is that which depends on the gravity of the water itself, which, being initially moved by the primary cause, then seeks to return to equilibrium with iterative reciprocations, which are not determined by a single fixed time, but have as many different times as there are different lengths and depths of bays and sea inlets. Thus, it happens that other seas, to the extent that they depend on this second principle, would flow and ebb in one hour, others in two, four, six, eight, ten, etc.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 84,
+                            "text": "Now, if we begin to combine the primary cause, which steadily has its period of flowing in one direction and then after twelve hours in the opposite direction, with any of the secondary causes that have their period, e.g., every five, it will happen that at certain times the primary cause and the secondary cause will agree to create impulses in both directions, and in this conjunction, in a kind of unanimous conspiracy, the tides will be large. At other times, when the primary impulse comes in a certain way to oppose what the secondary period would bring, and in this comparison, by subtracting from one principle what the other would give us, the motions of the waters will be greatly weakened, and the state commonly known as the 'sea of bile' will occur. And at other times, depending on how the two principles are not entirely contrary or entirely uniform, there will be other changes in the increase or decrease of tides.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 85,
+                            "text": "It may also happen that two very large seas communicating through a narrow channel meet to have, through the mixture of the two motion principles, one cause of inflow when the other has a cause of contrary movement; in which case, in the channel where these seas communicate, there will be terrible agitations with opposite movements and dangerous vortices and boilings, of which there are continuous reports and experiences.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 86,
+                            "text": "From such discordant movements, dependent not only on different positions and lengths but also greatly on the different depths of the communicating seas, various disturbances will arise in the waters at certain times, irregular and imperceptible, the reasons for which have greatly perturbed and still perturb sailors when they encounter them, without realizing that neither the force of winds nor any other significant alteration of the air can be the cause.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 87,
+                            "text": "In other incidents, we must take into great account the disturbance of the air and consider it as a third causal and incidental factor capable of greatly altering the observation of the effects dependent on the primary and most essential causes.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 88,
+                            "text": "And there is no doubt that by continuing to blow impetuous winds, for example, from the east, they will support the waters, preventing their reflux. Thus, when the second and then the third tide arrives at the predetermined hours, they will swell greatly. And so, sustained for several days by the force of the wind, they will rise more than usual, causing extraordinary floods.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 89,
+                            "text": "We must also (and this will be the eighth problem) be aware of another cause of movement, dependent on the great volume of water from rivers that flow into not very extensive seas: where, in the channels or straits that communicate with such seas, the water is always seen to flow in the same direction, as is the case in the Bosporus Thracius under Constantinople, where the water always flows from the Black Sea towards the Propontis.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 90,
+                            "text": "However, in the Black Sea, due to its small size, the main causes of tides are of little effect; on the contrary, when many large rivers such as the Danube, the Borysthenes, and, due to the Meotis marsh, the Don and others flow into it, in having to pass and discharge such a large influx of water through the strait, the current there is quite noticeable and always towards midday.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 91,
+                            "text": "Moreover, we must note that although this strait and channel are very narrow, they are not subject to disturbances like the Strait of Scylla: because the former has the Black Sea above it towards the north, and the Propontis and Aegean Sea with the Mediterranean behind it, although for a long stretch, towards midday. But, as we have noted, seas that stretch from north to midday do not experience tides. However, since the Strait of Sicily is located between parts of the Mediterranean spread over great distances from west to east, that is, according to the flow and ebb current, the agitations there are very significant. And they would be immeasurably greater in the Strait of Gibraltar if it were narrower; and they report without measure the agitations in the Strait of Magellan.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 21,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 92,
+                            "text": "Tanto fu, Illustrissimo Signor, quello che io, discorrendo seco, apportai per causa di questi movimenti del mare: pensiero che alternatamente pareva che accordasse la mobilità della Terra col flusso e reflusso, prendendo quella come cagione di questo, e questo come indizio ed argomento di quella.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 93,
+                            "text": "E perchè nel discorso mi sovviene che io gli dissi, che della medesima mobilità, oltre a molti segni che ce ne davano i movimenti de’ corpi celesti, altri ancora ce ne venivano somministrati dalli elementi, cioè dall’acqua e dall’aria, penso che non gli sarà discaro se per sua memoria noterò ancora brevemente quello che pur gli dichiarai per l’altro argomento preso dall’aria.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 92,
+                            "text": "So it was, Illustrious Sir, that which I, conversing with you, brought forth regarding these movements of the sea: a thought that alternately seemed to reconcile the mobility of the Earth with the ebb and flow, considering the former as the cause of the latter and the latter as an indication and argument of the former.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 93,
+                            "text": "And since in our conversation I recall telling you that, in addition to many signs provided by the movements of celestial bodies, others are also supplied by the elements, namely water and air, I think you would not mind if, for the sake of your memory, I briefly note what I explained to you regarding the other argument derived from the air.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 22,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 94,
+                            "text": "La qual, come corpo fluido e tenue e non saldamente congiunto con la Terra, pare che non abbi necessità d’obbedire al suo movimento, se non in quanto l’asprezza ed inegualità della superficie terrestre ne rapisce e seco porta una parte a sè contigua; la qual convien credere che di non molto intervallo superi le maggiori altezze delle montagne: la qual porzione d’aria tanto meno dovrà esser repugnante alla conversione terrestre, quanto ella è ripiena di vapori fumi ed essalazioni, materie tutte elementari e per consequenza atte nate per lor natura ai medesimi movimenti terreni.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 95,
+                            "text": "Ma dove mancassero le cause del moto, cioè dove la superficie del globo terrestre avesse grandi spazii piani e meno vi fosse della mistione dei vapori terreni, quivi cesserebbe in parte la causa per la quale l’aria ambiente dovesse totalmente obbedire al rapimento della conversione terrestre: sì che in tali luoghi, mentre che la Terra si volge verso oriente, si deverebbe sentire continuamente un’aura che ci ferisse spirando da levante verso ponente, e tale spiramento dovrebbe farsi più manifesto dove la vertigine terrestre fosse più veloce; il che sarebbe nei luoghi più remoti dai poli e vicini al cerchio massimo della diurna conversione.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 96,
+                            "text": "Ma già pare che de facto l’esperienza applauda molto a questo filosofico discorso: poi che ne gli ampli mari e nelle lor parti lontane da terra e sottoposte alla zona torrida, cioè comprese fra i tropici, si sente una perpetua aura movere da oriente, con tenor tanto constante, che le navi mercè di quella facile e prosperamente se ne vanno all’Indie Occidentali, e dalle medesime, sciogliendo dai lidi messicani, solcano con l’istesso favore il Mar Pacifico verso l’Indie a noi orientali, ma a loro occidentali; dove che, per l’opposito, le navigazioni verso oriente son difficili ed incerte, nè si possono in maniera alcuna fare per le medesime strade, ma bisogna costeggiare più verso terra, per trovare altri venti, per così dire, accidentarii e tumultuarii, cagionati da altri principii, sì come noi abitanti tra terra ferma continuamente sentiamo per prova: delle quali generazioni di venti molte e diverse son le cause, che al presente non accade produrre; e questi venti accidentarii son quelli che indifferentemente spirano da tutte le parti della Terra, e che perturbano i mari più angusti e rinchiusi tra i continenti, servendo alle navigazioni che si fanno per quelli.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 97,
+                            "text": "E ben che nei mari remoti dall’equinoziale e circondati dalla superficie aspra della Terra, che tanto è quanto a dire sottoposti a quelle perturbazioni d’aria che confondono quella primaria espirazione, la quale, quando mancassero questi impedimenti accidentarii, si deverebbe perpetuamente sentire; ben che, dico, in questi nostri mari paia che indifferentemente le navigazioni si faccino egualmente tanto verso levante quanto verso ponente, tuttavia chi ponesse diligente cura troverebbe che in generale le navigazioni verso occidente riescono assai più facili e brevi: ed io so che in Venezia tra i mercanti, dove si tien diligente registro de i giorni della partita e dell’arrivo delle navi per Alessandria e per Scria, fatta ragione in capo di uno o di più anni, i tempi delle tornate son meglio di 25 per cento più brevi che quelli delle andate; segno manifesto che sottosopra i venti orientali prevagliono continuamente a gli occidentali.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 98,
+                            "text": "L’esser dunque intorno al globo terrestre, e massimamente verso l’equinoziale e dove la superficie è eguale, quale è quella dell’acqua, una perpetua espirazione di aura da oriente, pare che non meno probabilmente concordi con la mobilità della Terra di quello che si faccino i tanti accidenti del flusso e reflusso del mare, e massime se chiameremo in comparazione le vanità prodotte sin qui da gli altri autori per render ragione di questi medesimi effetti.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 94,
+                            "text": "The air, being a fluid and tenuous body not firmly connected to the Earth, seems to have no need to obey its movement except to the extent that the roughness and unevenness of the Earth's surface snatch a portion of it and carry it along with itself, a portion that is believed to surpass the greatest heights of mountains by a considerable margin. This portion of air will be even less resistant to the Earth's rotation as it is filled with vapors, fumes, and exhalations, all elemental substances naturally inclined to the same terrestrial movements.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 95,
+                            "text": "However, if the causes of motion were absent, that is, if the surface of the Earth had large flat spaces and there were less mingling of terrestrial vapors, in those places the reason for the ambient air to completely follow the Earth's rotational motion would partly cease. Consequently, in such places, while the Earth turns eastward, we would continuously feel a breeze striking us from the east to the west. This breeze would become more pronounced where the Earth's rotation is faster, which would be in locations farthest from the poles and near the maximum circle of the diurnal rotation.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 96,
+                            "text": "Indeed, it seems that experience strongly supports this philosophical reasoning, as in the vast seas and their remote parts far from land and situated in the torrid zone, that is, between the tropics, a perpetual breeze from the east is felt with such constant force that ships easily and prosperously sail to the West Indies by means of this breeze. Similarly, when departing from the Mexican coasts, they navigate the Pacific Ocean toward the East Indies, which are west of them but east of us. Conversely, voyages eastward are difficult and uncertain and cannot be made through the same routes. Instead, ships must sail closer to the coast to find other winds, so to speak, accidental and tumultuous winds caused by other principles, as we inhabitants of the mainland continuously experience. Many and diverse generations of winds have causes that cannot be produced at present. These accidental winds are those that blow indiscriminately from all parts of the Earth and disturb the narrower seas enclosed between the continents, serving the navigations carried out in those areas.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 97,
+                            "text": "Although in the seas far from the equator and surrounded by the rough surface of the Earth, which means they are subject to those air disturbances that disrupt the primary exhalation, which should be perpetually felt if these accidental hindrances were absent, it seems that, in these seas, voyages are carried out equally in both eastward and westward directions. However, anyone who pays careful attention would find that, in general, voyages westward are much easier and shorter. I know, among the merchants in Venice, where diligent records are kept of the departure and arrival days of ships bound for Alexandria and Scio, that, after considering one or more years, the return journeys take at least 25 percent less time than the outbound journeys. This is a clear indication that, contrary to expectations, easterly winds consistently prevail over westerly winds.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 98,
+                            "text": "Therefore, the perpetual exhalation of air from the east around the globe, especially near the equator where the surface is level, as it is in the water, seems to be no less likely to agree with the mobility of the Earth than the many circumstances of the ebb and flow of the sea. This is particularly true if we compare the speculations put forth by other authors thus far to explain these same effects.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 23,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 99,
+                            "text": "Molte altre considerazioni potrei proporre se io volessi descendere a più minuti particolari, e molte e molte più se ne addurrebbono quando noi avessimo una copiosa distinta e veridica istoria di osservazioni fatte da uomini periti e diligenti in diversi luoghi della Terra; dalle conferenze e rincontri delle quali con l’ipotesi assunta potremmo più resolutamente determinare e fondatamente stabilire sopra questa tanto oscura materia.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 100,
+                            "text": "Della quale io per ora pretendo di aver solamente dato una qualunque si sia abbozzatura, atta, se non altro, a eccitare gli studiosi delle cose naturali a far per l’avvenire qualche reflessione sopra questo mio nuovo pensiero; quando però ei non si rappresenti e manifestamente si scuopra per tanto vano, che a guisa di un sogno seco porti una breve imagine di vero con una immediata certezza di falsità: il che rimetto al giudizio de gli accorti specolatori.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 99,
+                            "text": "Many other considerations could be proposed if I were to descend into more minute details, and many more would be adduced if we had a copious, distinct, and veridical history of observations made by skilled and diligent men in different places on Earth. From the conferences and meetings resulting from these, with the assumed hypothesis, we could more resolutely determine and foundationally establish this so obscure matter.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 100,
+                            "text": "Of which, for now, I claim to have merely provided any kind of sketch, capable, if nothing else, of exciting natural philosophers to reflect on this new thought of mine in the future. However, it should not represent itself and manifestly reveal itself as so vain that, like a dream, it carries with it a brief image of truth with an immediate certainty of falsehood. I leave this to the judgment of astute observers.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "paragraphNumber": 24,
+            "languages": [
+                {
+                    "language": "Italian",
+                    "lines": [
+                        {
+                            "lineNumber": 101,
+                            "text": "E finalmente, per ultima conclusione e sigillo di questo mio breve Discorso, quando l’ipotesi presa, e corroborata per l’addietro solo da ragioni ed osservazioni filosofiche ed astronomiche, fosse, in virtù di più eminente cognizione, dichiarata fallace ed erronea, converrebbe altresì non solamente revocar in dubbio questo che ho scritto, ma reputarlo del tutto vano e fuori di proposito; e per quanto appartiene alle quistioni proposte, dovremmo o restar con desiderio che i medesimi che avessero mostrata la fallacia de’ discorsi ne arreccassero le proprie e vere ragioni, o pur reputare queste essere di quelle cognizioni che Iddio benedetto ha voluto ascondere a gli umani intelletti, o finalmente, con miglior consiglio, rimuoverci da queste ed altre vane curiosità, le quali ci consumano gran parte di quel tempo che assai più utilmente potremmo o dovremmo impiegare in studii più saluti feri.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 102,
+                            "text": "E qui, baciandogli riverentemente la vesta, umilmente me gli raccomando in grazia.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 103,
+                            "text": "Scritta in Roma, dal Giardino de’ Medici, li 8 di Gennaio 1616.",
+                            "notes": []
+                        }
+                    ]
+                },
+                {
+                    "language": "English",
+                    "lines": [
+                        {
+                            "lineNumber": 101,
+                            "text": "And finally, as the last conclusion and seal of this brief Discourse, if the hypothesis taken and corroborated hitherto solely by philosophical and astronomical reasons and observations were, by virtue of more eminent knowledge, declared false and erroneous, it would also be necessary not only to doubt what I have written but to consider it completely futile and irrelevant. As for the questions proposed, we should either remain desirous that those who have shown the fallacy of these arguments present their own true reasons or consider them to be among those knowledge which the blessed God has chosen to conceal from human intellects. Alternatively, with better judgment, we should move away from these and other vain curiosities that consume a great part of our time, which could be much more usefully employed in more beneficial studies.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 102,
+                            "text": "And here, respectfully kissing his robe, I humbly recommend myself to him in grace.",
+                            "notes": []
+                        },
+                        {
+                            "lineNumber": 103,
+                            "text": "Written in Rome, from the Garden of the Medici, on January 8, 1616.",
+                            "notes": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
