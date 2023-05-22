@@ -1,0 +1,4550 @@
+[
+    {
+        "original": "il",
+        "english": "the"
+    },
+    {
+        "original": "di",
+        "english": "of"
+    },
+    {
+        "original": "e",
+        "english": "and"
+    },
+    {
+        "original": "a",
+        "english": "to"
+    },
+    {
+        "original": "in",
+        "english": "in"
+    },
+    {
+        "original": "che",
+        "english": "that"
+    },
+    {
+        "original": "non",
+        "english": "not"
+    },
+    {
+        "original": "è",
+        "english": "is"
+    },
+    {
+        "original": "la",
+        "english": "the"
+    },
+    {
+        "original": "i",
+        "english": "the"
+    },
+    {
+        "original": "un",
+        "english": "a"
+    },
+    {
+        "original": "per",
+        "english": "for"
+    },
+    {
+        "original": "con",
+        "english": "with"
+    },
+    {
+        "original": "mi",
+        "english": "me"
+    },
+    {
+        "original": "sono",
+        "english": "I am"
+    },
+    {
+        "original": "ha",
+        "english": "he/she/it has"
+    },
+    {
+        "original": "lo",
+        "english": "the"
+    },
+    {
+        "original": "si",
+        "english": "himself/herself/itself"
+    },
+    {
+        "original": "ma",
+        "english": "but"
+    },
+    {
+        "original": "come",
+        "english": "how/like/as"
+    },
+    {
+        "original": "ti",
+        "english": "you"
+    },
+    {
+        "original": "le",
+        "english": "the"
+    },
+    {
+        "original": "ho",
+        "english": "I have"
+    },
+    {
+        "original": "lui",
+        "english": "he"
+    },
+    {
+        "original": "sul",
+        "english": "on the"
+    },
+    {
+        "original": "suo",
+        "english": "his/her/its"
+    },
+    {
+        "original": "tutto",
+        "english": "all"
+    },
+    {
+        "original": "da",
+        "english": "from/since"
+    },
+    {
+        "original": "quando",
+        "english": "when"
+    },
+    {
+        "original": "era",
+        "english": "he/she/it was"
+    },
+    {
+        "original": "molto",
+        "english": "very/much"
+    },
+    {
+        "original": "bene",
+        "english": "well"
+    },
+    {
+        "original": "gli",
+        "english": "the"
+    },
+    {
+        "original": "ci",
+        "english": "there"
+    },
+    {
+        "original": "al",
+        "english": "at/to the"
+    },
+    {
+        "original": "anche",
+        "english": "also"
+    },
+    {
+        "original": "più",
+        "english": "more"
+    },
+    {
+        "original": "o",
+        "english": "or"
+    },
+    {
+        "original": "se",
+        "english": "if"
+    },
+    {
+        "original": "noi",
+        "english": "we"
+    },
+    {
+        "original": "va",
+        "english": "he/she/it goes"
+    },
+    {
+        "original": "tra",
+        "english": "between/among"
+    },
+    {
+        "original": "sai",
+        "english": "you know"
+    },
+    {
+        "original": "del",
+        "english": "of the"
+    },
+    {
+        "original": "tuo",
+        "english": "your"
+    },
+    {
+        "original": "questa",
+        "english": "this"
+    },
+    {
+        "original": "quello",
+        "english": "that"
+    },
+    {
+        "original": "qua",
+        "english": "here"
+    },
+    {
+        "original": "fa",
+        "english": "he/she/it does"
+    },
+    {
+        "original": "dove",
+        "english": "where"
+    },
+    {
+        "original": "ne",
+        "english": "of it"
+    },
+    {
+        "original": "hanno",
+        "english": "they have"
+    },
+    {
+        "original": "mio",
+        "english": "my"
+    },
+    {
+        "original": "dice",
+        "english": "he/she says"
+    },
+    {
+        "original": "sono",
+        "english": "they are"
+    },
+    {
+        "original": "sta",
+        "english": "he/she/it is"
+    },
+    {
+        "original": "loro",
+        "english": "they"
+    },
+    {
+        "original": "dopo",
+        "english": "after"
+    },
+    {
+        "original": "posso",
+        "english": "I can"
+    },
+    {
+        "original": "senza",
+        "english": "without"
+    },
+    {
+        "original": "bene",
+        "english": "good"
+    },
+    {
+        "original": "ancora",
+        "english": "still/yet"
+    },
+    {
+        "original": "dobbiamo",
+        "english": "we must"
+    },
+    {
+        "original": "vuoi",
+        "english": "you want"
+    },
+    {
+        "original": "qualcosa",
+        "english": "something"
+    },
+    {
+        "original": "tempo",
+        "english": "time"
+    },
+    {
+        "original": "tutti",
+        "english": "all/everyone"
+    },
+    {
+        "original": "sempre",
+        "english": "always"
+    },
+    {
+        "original": "giorno",
+        "english": "day"
+    },
+    {
+        "original": "stato",
+        "english": "been"
+    },
+    {
+        "original": "sapere",
+        "english": "to know"
+    },
+    {
+        "original": "niente",
+        "english": "nothing"
+    },
+    {
+        "original": "vuole",
+        "english": "he/she wants"
+    },
+    {
+        "original": "caso",
+        "english": "case"
+    },
+    {
+        "original": "ogni",
+        "english": "every"
+    },
+    {
+        "original": "perché",
+        "english": "why/because"
+    },
+    {
+        "original": "voglio",
+        "english": "I want"
+    },
+    {
+        "original": "cose",
+        "english": "things"
+    },
+    {
+        "original": "loro",
+        "english": "their"
+    },
+    {
+        "original": "potrebbe",
+        "english": "he/she/it could"
+    },
+    {
+        "original": "farò",
+        "english": "I will do"
+    },
+    {
+        "original": "veramente",
+        "english": "really/truly"
+    },
+    {
+        "original": "volere",
+        "english": "to want"
+    },
+    {
+        "original": "va",
+        "english": "goes"
+    },
+    {
+        "original": "dare",
+        "english": "to give"
+    },
+    {
+        "original": "tempo",
+        "english": "weather/time"
+    },
+    {
+        "original": "lavoro",
+        "english": "work"
+    },
+    {
+        "original": "chiamo",
+        "english": "I call"
+    },
+    {
+        "original": "pensare",
+        "english": "to think"
+    },
+    {
+        "original": "bisogno",
+        "english": "need"
+    },
+    {
+        "original": "dovrebbe",
+        "english": "he/she should"
+    },
+    {
+        "original": "fai",
+        "english": "you do"
+    },
+    {
+        "original": "sta",
+        "english": "he/she/it stands"
+    },
+    {
+        "original": "viene",
+        "english": "he/she/it comes"
+    },
+    {
+        "original": "vedo",
+        "english": "I see"
+    },
+    {
+        "original": "solo",
+        "english": "only"
+    },
+    {
+        "original": "sempre",
+        "english": "always"
+    },
+    {
+        "original": "inizio",
+        "english": "beginning/start"
+    },
+    {
+        "original": "resto",
+        "english": "rest"
+    },
+    {
+        "original": "capire",
+        "english": "to understand"
+    },
+    {
+        "original": "proprio",
+        "english": "own"
+    },
+    {
+        "original": "insieme",
+        "english": "together"
+    },
+    {
+        "original": "andare",
+        "english": "to go"
+    },
+    {
+        "original": "momento",
+        "english": "moment"
+    },
+    {
+        "original": "altro",
+        "english": "other"
+    },
+    {
+        "original": "bello",
+        "english": "beautiful"
+    },
+    {
+        "original": "capito",
+        "english": "understood"
+    },
+    {
+        "original": "tanto",
+        "english": "so much"
+    },
+    {
+        "original": "nessuno",
+        "english": "nobody"
+    },
+    {
+        "original": "certo",
+        "english": "sure/certain"
+    },
+    {
+        "original": "dire",
+        "english": "to say"
+    },
+    {
+        "original": "sapete",
+        "english": "you know"
+    },
+    {
+        "original": "vedere",
+        "english": "to see"
+    },
+    {
+        "original": "tutta",
+        "english": "all/whole"
+    },
+    {
+        "original": "casa",
+        "english": "home"
+    },
+    {
+        "original": "momenti",
+        "english": "moments"
+    },
+    {
+        "original": "vero",
+        "english": "true"
+    },
+    {
+        "original": "parlare",
+        "english": "to speak"
+    },
+    {
+        "original": "figlio",
+        "english": "son"
+    },
+    {
+        "original": "giusto",
+        "english": "right/just"
+    },
+    {
+        "original": "vita",
+        "english": "life"
+    },
+    {
+        "original": "lavorare",
+        "english": "to work"
+    },
+    {
+        "original": "dovuto",
+        "english": "had to"
+    },
+    {
+        "original": "stanno",
+        "english": "they are"
+    },
+    {
+        "original": "pochi",
+        "english": "few"
+    },
+    {
+        "original": "volta",
+        "english": "time"
+    },
+    {
+        "original": "senso",
+        "english": "sense"
+    },
+    {
+        "original": "sentire",
+        "english": "to hear/to feel"
+    },
+    {
+        "original": "prendere",
+        "english": "to take"
+    },
+    {
+        "original": "fine",
+        "english": "end"
+    },
+    {
+        "original": "insieme",
+        "english": "together"
+    },
+    {
+        "original": "della",
+        "english": "of the"
+    },
+    {
+        "original": "essere",
+        "english": "to be"
+    },
+    {
+        "original": "davvero",
+        "english": "really"
+    },
+    {
+        "original": "nuovo",
+        "english": "new"
+    },
+    {
+        "original": "ancora",
+        "english": "again"
+    },
+    {
+        "original": "bambino",
+        "english": "child"
+    },
+    {
+        "original": "sono",
+        "english": "I am"
+    },
+    {
+        "original": "io",
+        "english": "I"
+    },
+    {
+        "original": "il suo",
+        "english": "his"
+    },
+    {
+        "original": "che",
+        "english": "that"
+    },
+    {
+        "original": "lui",
+        "english": "he"
+    },
+    {
+        "original": "era",
+        "english": "he/she was"
+    },
+    {
+        "original": "per",
+        "english": "for"
+    },
+    {
+        "original": "su",
+        "english": "on"
+    },
+    {
+        "original": "come",
+        "english": "as/like"
+    },
+    {
+        "original": "con",
+        "english": "with"
+    },
+    {
+        "original": "loro",
+        "english": "they"
+    },
+    {
+        "original": "essere",
+        "english": "to be"
+    },
+    {
+        "original": "a",
+        "english": "at"
+    },
+    {
+        "original": "uno",
+        "english": "one"
+    },
+    {
+        "original": "avere",
+        "english": "to have"
+    },
+    {
+        "original": "questo",
+        "english": "this"
+    },
+    {
+        "original": "da",
+        "english": "from"
+    },
+    {
+        "original": "di",
+        "english": "by"
+    },
+    {
+        "original": "caldo",
+        "english": "hot"
+    },
+    {
+        "original": "parola",
+        "english": "word"
+    },
+    {
+        "original": "ma",
+        "english": "but"
+    },
+    {
+        "original": "cosa",
+        "english": "what"
+    },
+    {
+        "original": "alcuni",
+        "english": "some"
+    },
+    {
+        "original": "è",
+        "english": "is"
+    },
+    {
+        "original": "quello",
+        "english": "that"
+    },
+    {
+        "original": "voi",
+        "english": "you (pl)"
+    },
+    {
+        "original": "o",
+        "english": "or"
+    },
+    {
+        "original": "aveva",
+        "english": "had"
+    },
+    {
+        "original": "il",
+        "english": "the"
+    },
+    {
+        "original": "di",
+        "english": "of"
+    },
+    {
+        "original": "a",
+        "english": "to"
+    },
+    {
+        "original": "e",
+        "english": "and"
+    },
+    {
+        "original": "un",
+        "english": "a"
+    },
+    {
+        "original": "in",
+        "english": "in"
+    },
+    {
+        "original": "noi",
+        "english": "we"
+    },
+    {
+        "original": "lattina",
+        "english": "can (of soda)"
+    },
+    {
+        "original": "fuori",
+        "english": "out"
+    },
+    {
+        "original": "altro",
+        "english": "other"
+    },
+    {
+        "original": "erano",
+        "english": "were"
+    },
+    {
+        "original": "che / quale",
+        "english": "which"
+    },
+    {
+        "original": "fare",
+        "english": "to do/make"
+    },
+    {
+        "original": "loro",
+        "english": "their"
+    },
+    {
+        "original": "tempo",
+        "english": "time"
+    },
+    {
+        "original": "se",
+        "english": "if"
+    },
+    {
+        "original": "volont�",
+        "english": "will"
+    },
+    {
+        "original": "come",
+        "english": "how"
+    },
+    {
+        "original": "detto",
+        "english": "said"
+    },
+    {
+        "original": "un",
+        "english": "an"
+    },
+    {
+        "original": "ogni",
+        "english": "each"
+    },
+    {
+        "original": "dire",
+        "english": "tell"
+    },
+    {
+        "original": "fa",
+        "english": "does"
+    },
+    {
+        "original": "fisso",
+        "english": "set (unchanging)"
+    },
+    {
+        "original": "tre",
+        "english": "three"
+    },
+    {
+        "original": "desiderare",
+        "english": "desire"
+    },
+    {
+        "original": "aria",
+        "english": "air"
+    },
+    {
+        "original": "bene",
+        "english": "well"
+    },
+    {
+        "original": "anche",
+        "english": "also"
+    },
+    {
+        "original": "giocare",
+        "english": "play"
+    },
+    {
+        "original": "piccolo",
+        "english": "small"
+    },
+    {
+        "original": "fine",
+        "english": "end"
+    },
+    {
+        "original": "mettere",
+        "english": "put"
+    },
+    {
+        "original": "casa",
+        "english": "home"
+    },
+    {
+        "original": "leggere",
+        "english": "read"
+    },
+    {
+        "original": "mano",
+        "english": "hand"
+    },
+    {
+        "original": "portare",
+        "english": "carry"
+    },
+    {
+        "original": "grande",
+        "english": "large"
+    },
+    {
+        "original": "compitare",
+        "english": "spell (words)"
+    },
+    {
+        "original": "aggiungere",
+        "english": "add"
+    },
+    {
+        "original": "anche",
+        "english": "even/also"
+    },
+    {
+        "original": "terra",
+        "english": "land"
+    },
+    {
+        "original": "qui",
+        "english": "here"
+    },
+    {
+        "original": "devo",
+        "english": "I must"
+    },
+    {
+        "original": "grande",
+        "english": "big"
+    },
+    {
+        "original": "alto",
+        "english": "high/tall"
+    },
+    {
+        "original": "tale",
+        "english": "such"
+    },
+    {
+        "original": "seguire",
+        "english": "follow"
+    },
+    {
+        "original": "atto",
+        "english": "an act"
+    },
+    {
+        "original": "perché",
+        "english": "why"
+    },
+    {
+        "original": "chiedere",
+        "english": "ask"
+    },
+    {
+        "original": "maschi",
+        "english": "men"
+    },
+    {
+        "original": "cambiamento",
+        "english": "a change"
+    },
+    {
+        "original": "é andato",
+        "english": "he/she went"
+    },
+    {
+        "original": "luce",
+        "english": "light"
+    },
+    {
+        "original": "tipo",
+        "english": "kind (of thing)"
+    },
+    {
+        "original": "spento",
+        "english": "turned off"
+    },
+    {
+        "original": "bisogno",
+        "english": "need"
+    },
+    {
+        "original": "casa",
+        "english": "house"
+    },
+    {
+        "original": "immagine",
+        "english": "image"
+    },
+    {
+        "original": "provare",
+        "english": "try"
+    },
+    {
+        "original": "noi",
+        "english": "us"
+    },
+    {
+        "original": "di nuovo",
+        "english": "again"
+    },
+    {
+        "original": "animale",
+        "english": "animal"
+    },
+    {
+        "original": "punto",
+        "english": "point"
+    },
+    {
+        "original": "madre",
+        "english": "mother"
+    },
+    {
+        "original": "mondo",
+        "english": "world"
+    },
+    {
+        "original": "vicino",
+        "english": "near"
+    },
+    {
+        "original": "costruire",
+        "english": "build"
+    },
+    {
+        "original": "se stesso",
+        "english": "himself"
+    },
+    {
+        "original": "terra",
+        "english": "earth"
+    },
+    {
+        "original": "padre",
+        "english": "father"
+    },
+    {
+        "original": "qualsiasi",
+        "english": "any"
+    },
+    {
+        "original": "nuovo",
+        "english": "new"
+    },
+    {
+        "original": "lavoro",
+        "english": "work"
+    },
+    {
+        "original": "parte",
+        "english": "part"
+    },
+    {
+        "original": "prendere",
+        "english": "take"
+    },
+    {
+        "original": "ottenere",
+        "english": "get"
+    },
+    {
+        "original": "posto",
+        "english": "place"
+    },
+    {
+        "original": "fatto",
+        "english": "made"
+    },
+    {
+        "original": "vivere",
+        "english": "live"
+    },
+    {
+        "original": "dove",
+        "english": "where"
+    },
+    {
+        "original": "dopo",
+        "english": "after"
+    },
+    {
+        "original": "indietro",
+        "english": "back"
+    },
+    {
+        "original": "poco",
+        "english": "little"
+    },
+    {
+        "original": "solo",
+        "english": "only"
+    },
+    {
+        "original": "turno",
+        "english": "round"
+    },
+    {
+        "original": "uomo",
+        "english": "man"
+    },
+    {
+        "original": "anno",
+        "english": "year"
+    },
+    {
+        "original": "é venuto",
+        "english": "came"
+    },
+    {
+        "original": "spettacolo",
+        "english": "show"
+    },
+    {
+        "original": "ogni",
+        "english": "every"
+    },
+    {
+        "original": "buono",
+        "english": "good"
+    },
+    {
+        "original": "me",
+        "english": "me"
+    },
+    {
+        "original": "dare",
+        "english": "give"
+    },
+    {
+        "original": "il nostro",
+        "english": "our"
+    },
+    {
+        "original": "sotto",
+        "english": "under"
+    },
+    {
+        "original": "nome",
+        "english": "name"
+    },
+    {
+        "original": "molto",
+        "english": "very"
+    },
+    {
+        "original": "attraverso",
+        "english": "through"
+    },
+    {
+        "original": "solo",
+        "english": "just"
+    },
+    {
+        "original": "forma",
+        "english": "form"
+    },
+    {
+        "original": "frase",
+        "english": "sentence"
+    },
+    {
+        "original": "grande",
+        "english": "great"
+    },
+    {
+        "original": "pensare",
+        "english": "think"
+    },
+    {
+        "original": "dire",
+        "english": "say"
+    },
+    {
+        "original": "aiutare",
+        "english": "help"
+    },
+    {
+        "original": "basso",
+        "english": "low"
+    },
+    {
+        "original": "linea",
+        "english": "line"
+    },
+    {
+        "original": "differire",
+        "english": "differ"
+    },
+    {
+        "original": "turno",
+        "english": "turn"
+    },
+    {
+        "original": "causa",
+        "english": "cause"
+    },
+    {
+        "original": "molto",
+        "english": "much"
+    },
+    {
+        "original": "dire",
+        "english": "mean"
+    },
+    {
+        "original": "prima",
+        "english": "before"
+    },
+    {
+        "original": "spostare",
+        "english": "move"
+    },
+    {
+        "original": "diritto",
+        "english": "right"
+    },
+    {
+        "original": "ragazzo",
+        "english": "boy"
+    },
+    {
+        "original": "vecchio",
+        "english": "old"
+    },
+    {
+        "original": "troppo",
+        "english": "too"
+    },
+    {
+        "original": "stesso",
+        "english": "same"
+    },
+    {
+        "original": "lei",
+        "english": "she"
+    },
+    {
+        "original": "tutto",
+        "english": "all"
+    },
+    {
+        "original": "ci",
+        "english": "there"
+    },
+    {
+        "original": "quando",
+        "english": "when"
+    },
+    {
+        "original": "su",
+        "english": "up"
+    },
+    {
+        "original": "uso",
+        "english": "use"
+    },
+    {
+        "original": "il tuo",
+        "english": "your"
+    },
+    {
+        "original": "modo",
+        "english": "way"
+    },
+    {
+        "original": "circa",
+        "english": "about"
+    },
+    {
+        "original": "molti",
+        "english": "many"
+    },
+    {
+        "original": "allora",
+        "english": "then"
+    },
+    {
+        "original": "loro",
+        "english": "them"
+    },
+    {
+        "original": "scrivere",
+        "english": "write"
+    },
+    {
+        "original": "sarebbe",
+        "english": "would"
+    },
+    {
+        "original": "come",
+        "english": "like"
+    },
+    {
+        "original": "così",
+        "english": "so"
+    },
+    {
+        "original": "queste",
+        "english": "these"
+    },
+    {
+        "original": "lei",
+        "english": "her"
+    },
+    {
+        "original": "lungo",
+        "english": "long"
+    },
+    {
+        "original": "rendere",
+        "english": "make"
+    },
+    {
+        "original": "cosa",
+        "english": "thing"
+    },
+    {
+        "original": "vedere",
+        "english": "see"
+    },
+    {
+        "original": "lui",
+        "english": "him"
+    },
+    {
+        "original": "due",
+        "english": "two"
+    },
+    {
+        "original": "ha",
+        "english": "has"
+    },
+    {
+        "original": "guardare",
+        "english": "look"
+    },
+    {
+        "original": "di più",
+        "english": "more"
+    },
+    {
+        "original": "giorno",
+        "english": "day"
+    },
+    {
+        "original": "potuto",
+        "english": "could"
+    },
+    {
+        "original": "andare",
+        "english": "go"
+    },
+    {
+        "original": "venire",
+        "english": "come"
+    },
+    {
+        "original": "ha fatto",
+        "english": "did"
+    },
+    {
+        "original": "numero",
+        "english": "number"
+    },
+    {
+        "original": "suono",
+        "english": "sound"
+    },
+    {
+        "original": "no",
+        "english": "no"
+    },
+    {
+        "original": "più",
+        "english": "most"
+    },
+    {
+        "original": "persone",
+        "english": "people"
+    },
+    {
+        "original": "il mio",
+        "english": "my"
+    },
+    {
+        "original": "oltre",
+        "english": "over"
+    },
+    {
+        "original": "sapere",
+        "english": "know"
+    },
+    {
+        "original": "acqua",
+        "english": "water"
+    },
+    {
+        "original": "di",
+        "english": "than"
+    },
+    {
+        "original": "chiamata",
+        "english": "call"
+    },
+    {
+        "original": "primo",
+        "english": "first"
+    },
+    {
+        "original": "che",
+        "english": "who"
+    },
+    {
+        "original": "può",
+        "english": "may"
+    },
+    {
+        "original": "giù",
+        "english": "down"
+    },
+    {
+        "original": "lato",
+        "english": "side"
+    },
+    {
+        "original": "stato",
+        "english": "been"
+    },
+    {
+        "original": "ora",
+        "english": "now"
+    },
+    {
+        "original": "trovare",
+        "english": "find"
+    },
+    {
+        "original": "testa",
+        "english": "head"
+    },
+    {
+        "original": "stare in piedi",
+        "english": "stand"
+    },
+    {
+        "original": "proprio",
+        "english": "own"
+    },
+    {
+        "original": "pagina",
+        "english": "page"
+    },
+    {
+        "original": "dovrebbe",
+        "english": "should"
+    },
+    {
+        "original": "paese",
+        "english": "country"
+    },
+    {
+        "original": "fondare",
+        "english": "found"
+    },
+    {
+        "original": "risposta",
+        "english": "answer"
+    },
+    {
+        "original": "scuola",
+        "english": "school"
+    },
+    {
+        "original": "crescere",
+        "english": "grow"
+    },
+    {
+        "original": "studio",
+        "english": "study"
+    },
+    {
+        "original": "ancora",
+        "english": "still"
+    },
+    {
+        "original": "imparare",
+        "english": "learn"
+    },
+    {
+        "original": "impianto",
+        "english": "plant"
+    },
+    {
+        "original": "copertura",
+        "english": "cover"
+    },
+    {
+        "original": "cibo",
+        "english": "food"
+    },
+    {
+        "original": "sole",
+        "english": "sun"
+    },
+    {
+        "original": "quattro",
+        "english": "four"
+    },
+    {
+        "original": "fra",
+        "english": "between"
+    },
+    {
+        "original": "stato",
+        "english": "state"
+    },
+    {
+        "original": "mantenere",
+        "english": "keep"
+    },
+    {
+        "original": "occhio",
+        "english": "eye"
+    },
+    {
+        "original": "mai",
+        "english": "never"
+    },
+    {
+        "original": "ultimo",
+        "english": "last"
+    },
+    {
+        "original": "lasciare",
+        "english": "let"
+    },
+    {
+        "original": "pensiero",
+        "english": "thought"
+    },
+    {
+        "original": "città",
+        "english": "city"
+    },
+    {
+        "original": "albero",
+        "english": "tree"
+    },
+    {
+        "original": "attraversare",
+        "english": "cross"
+    },
+    {
+        "original": "fattoria",
+        "english": "farm"
+    },
+    {
+        "original": "difficile",
+        "english": "hard"
+    },
+    {
+        "original": "inizio",
+        "english": "start"
+    },
+    {
+        "original": "forza",
+        "english": "might"
+    },
+    {
+        "original": "storia",
+        "english": "story"
+    },
+    {
+        "original": "sega",
+        "english": "saw"
+    },
+    {
+        "original": "lontano",
+        "english": "far"
+    },
+    {
+        "original": "mare",
+        "english": "sea"
+    },
+    {
+        "original": "disegnare",
+        "english": "draw"
+    },
+    {
+        "original": "sinistra",
+        "english": "left"
+    },
+    {
+        "original": "tardi",
+        "english": "late"
+    },
+    {
+        "original": "run",
+        "english": "run"
+    },
+    {
+        "original": "non",
+        "english": "don't"
+    },
+    {
+        "original": "mentre",
+        "english": "while"
+    },
+    {
+        "original": "stampa",
+        "english": "press"
+    },
+    {
+        "original": "close",
+        "english": "close"
+    },
+    {
+        "original": "notte",
+        "english": "night"
+    },
+    {
+        "original": "reale",
+        "english": "real"
+    },
+    {
+        "original": "vita",
+        "english": "life"
+    },
+    {
+        "original": "pochi",
+        "english": "few"
+    },
+    {
+        "original": "nord",
+        "english": "north"
+    },
+    {
+        "original": "libro",
+        "english": "book"
+    },
+    {
+        "original": "portare",
+        "english": "carry"
+    },
+    {
+        "original": "ha preso",
+        "english": "took"
+    },
+    {
+        "original": "scienza",
+        "english": "science"
+    },
+    {
+        "original": "mangiare",
+        "english": "eat"
+    },
+    {
+        "original": "camera",
+        "english": "room"
+    },
+    {
+        "original": "amico",
+        "english": "friend"
+    },
+    {
+        "original": "ha iniziato",
+        "english": "began"
+    },
+    {
+        "original": "idea",
+        "english": "idea"
+    },
+    {
+        "original": "pesce",
+        "english": "fish"
+    },
+    {
+        "original": "montagna",
+        "english": "mountain"
+    },
+    {
+        "original": "stop",
+        "english": "stop"
+    },
+    {
+        "original": "una volta",
+        "english": "once"
+    },
+    {
+        "original": "base",
+        "english": "base"
+    },
+    {
+        "original": "sentire",
+        "english": "hear"
+    },
+    {
+        "original": "cavallo",
+        "english": "horse"
+    },
+    {
+        "original": "taglio",
+        "english": "cut"
+    },
+    {
+        "original": "sicuro",
+        "english": "sure"
+    },
+    {
+        "original": "orologio",
+        "english": "watch"
+    },
+    {
+        "original": "colore",
+        "english": "color"
+    },
+    {
+        "original": "volto",
+        "english": "face"
+    },
+    {
+        "original": "legno",
+        "english": "wood"
+    },
+    {
+        "original": "principale",
+        "english": "main"
+    },
+    {
+        "original": "aperto",
+        "english": "open"
+    },
+    {
+        "original": "sembrare",
+        "english": "seem"
+    },
+    {
+        "original": "insieme",
+        "english": "together"
+    },
+    {
+        "original": "prossimo",
+        "english": "next"
+    },
+    {
+        "original": "bianco",
+        "english": "white"
+    },
+    {
+        "original": "bambini",
+        "english": "children"
+    },
+    {
+        "original": "inizio",
+        "english": "begin"
+    },
+    {
+        "original": "ottenuto",
+        "english": "got"
+    },
+    {
+        "original": "camminare",
+        "english": "walk"
+    },
+    {
+        "original": "esempio",
+        "english": "example"
+    },
+    {
+        "original": "alleviare",
+        "english": "ease"
+    },
+    {
+        "original": "carta",
+        "english": "paper"
+    },
+    {
+        "original": "gruppo",
+        "english": "group"
+    },
+    {
+        "original": "sempre",
+        "english": "always"
+    },
+    {
+        "original": "musica",
+        "english": "music"
+    },
+    {
+        "original": "quelli",
+        "english": "those"
+    },
+    {
+        "original": "entrambi",
+        "english": "both"
+    },
+    {
+        "original": "marchio",
+        "english": "mark"
+    },
+    {
+        "original": "spesso",
+        "english": "often"
+    },
+    {
+        "original": "lettera",
+        "english": "letter"
+    },
+    {
+        "original": "fino a quando",
+        "english": "until"
+    },
+    {
+        "original": "miglio",
+        "english": "mile"
+    },
+    {
+        "original": "fiume",
+        "english": "river"
+    },
+    {
+        "original": "auto",
+        "english": "car"
+    },
+    {
+        "original": "piedi",
+        "english": "feet"
+    },
+    {
+        "original": "cura",
+        "english": "care"
+    },
+    {
+        "original": "secondo",
+        "english": "second"
+    },
+    {
+        "original": "abbastanza",
+        "english": "enough"
+    },
+    {
+        "original": "pianura",
+        "english": "plain"
+    },
+    {
+        "original": "ragazza",
+        "english": "girl"
+    },
+    {
+        "original": "solito",
+        "english": "usual"
+    },
+    {
+        "original": "giovane",
+        "english": "young"
+    },
+    {
+        "original": "pronto",
+        "english": "ready"
+    },
+    {
+        "original": "sopra",
+        "english": "above"
+    },
+    {
+        "original": "mai",
+        "english": "ever"
+    },
+    {
+        "original": "rosso",
+        "english": "red"
+    },
+    {
+        "original": "elenco",
+        "english": "list"
+    },
+    {
+        "original": "anche se",
+        "english": "though"
+    },
+    {
+        "original": "sentire",
+        "english": "feel"
+    },
+    {
+        "original": "Discussioni",
+        "english": "talk"
+    },
+    {
+        "original": "uccello",
+        "english": "bird"
+    },
+    {
+        "original": "presto",
+        "english": "soon"
+    },
+    {
+        "original": "corpo",
+        "english": "body"
+    },
+    {
+        "original": "cane",
+        "english": "dog"
+    },
+    {
+        "original": "famiglia",
+        "english": "family"
+    },
+    {
+        "original": "diretto",
+        "english": "direct"
+    },
+    {
+        "original": "posa",
+        "english": "pose"
+    },
+    {
+        "original": "lasciare",
+        "english": "leave"
+    },
+    {
+        "original": "canzone",
+        "english": "song"
+    },
+    {
+        "original": "misurare",
+        "english": "measure"
+    },
+    {
+        "original": "porta",
+        "english": "door"
+    },
+    {
+        "original": "prodotto",
+        "english": "product"
+    },
+    {
+        "original": "nero",
+        "english": "black"
+    },
+    {
+        "original": "breve",
+        "english": "short"
+    },
+    {
+        "original": "numerale",
+        "english": "numeral"
+    },
+    {
+        "original": "classe",
+        "english": "class"
+    },
+    {
+        "original": "vento",
+        "english": "wind"
+    },
+    {
+        "original": "domanda",
+        "english": "question"
+    },
+    {
+        "original": "accadere",
+        "english": "happen"
+    },
+    {
+        "original": "integrale",
+        "english": "complete"
+    },
+    {
+        "original": "nave",
+        "english": "ship"
+    },
+    {
+        "original": "area",
+        "english": "area"
+    },
+    {
+        "original": "metà",
+        "english": "half"
+    },
+    {
+        "original": "rock",
+        "english": "rock"
+    },
+    {
+        "original": "ordine",
+        "english": "order"
+    },
+    {
+        "original": "fuoco",
+        "english": "fire"
+    },
+    {
+        "original": "sud",
+        "english": "south"
+    },
+    {
+        "original": "problema",
+        "english": "problem"
+    },
+    {
+        "original": "pezzo",
+        "english": "piece"
+    },
+    {
+        "original": "ha detto",
+        "english": "told"
+    },
+    {
+        "original": "sapeva",
+        "english": "knew"
+    },
+    {
+        "original": "passare",
+        "english": "pass"
+    },
+    {
+        "original": "da",
+        "english": "since"
+    },
+    {
+        "original": "top",
+        "english": "top"
+    },
+    {
+        "original": "tutto",
+        "english": "whole"
+    },
+    {
+        "original": "re",
+        "english": "king"
+    },
+    {
+        "original": "strada",
+        "english": "street"
+    },
+    {
+        "original": "pollice",
+        "english": "inch"
+    },
+    {
+        "original": "moltiplicare",
+        "english": "multiply"
+    },
+    {
+        "original": "niente",
+        "english": "nothing"
+    },
+    {
+        "original": "corso",
+        "english": "course"
+    },
+    {
+        "original": "soggiornare",
+        "english": "stay"
+    },
+    {
+        "original": "ruota",
+        "english": "wheel"
+    },
+    {
+        "original": "completo",
+        "english": "full"
+    },
+    {
+        "original": "vigore",
+        "english": "force"
+    },
+    {
+        "original": "blu",
+        "english": "blue"
+    },
+    {
+        "original": "oggetto",
+        "english": "object"
+    },
+    {
+        "original": "decidere",
+        "english": "decide"
+    },
+    {
+        "original": "superficie",
+        "english": "surface"
+    },
+    {
+        "original": "profondità",
+        "english": "deep"
+    },
+    {
+        "original": "luna",
+        "english": "moon"
+    },
+    {
+        "original": "isola",
+        "english": "island"
+    },
+    {
+        "original": "piede",
+        "english": "foot"
+    },
+    {
+        "original": "sistema",
+        "english": "system"
+    },
+    {
+        "original": "occupato",
+        "english": "busy"
+    },
+    {
+        "original": "test",
+        "english": "test"
+    },
+    {
+        "original": "record",
+        "english": "record"
+    },
+    {
+        "original": "barca",
+        "english": "boat"
+    },
+    {
+        "original": "comune",
+        "english": "common"
+    },
+    {
+        "original": "oro",
+        "english": "gold"
+    },
+    {
+        "original": "possibile",
+        "english": "possible"
+    },
+    {
+        "original": "piano",
+        "english": "plane"
+    },
+    {
+        "original": "vece",
+        "english": "stead"
+    },
+    {
+        "original": "asciutto",
+        "english": "dry"
+    },
+    {
+        "original": "meraviglia",
+        "english": "wonder"
+    },
+    {
+        "original": "ridere",
+        "english": "laugh"
+    },
+    {
+        "original": "migliaia",
+        "english": "thousand"
+    },
+    {
+        "original": "fa",
+        "english": "ago"
+    },
+    {
+        "original": "corse",
+        "english": "ran"
+    },
+    {
+        "original": "controllare",
+        "english": "check"
+    },
+    {
+        "original": "gioco",
+        "english": "game"
+    },
+    {
+        "original": "forma",
+        "english": "shape"
+    },
+    {
+        "original": "uguagliare",
+        "english": "equate"
+    },
+    {
+        "original": "caldo",
+        "english": "hot"
+    },
+    {
+        "original": "perdere",
+        "english": "miss"
+    },
+    {
+        "original": "portato",
+        "english": "brought"
+    },
+    {
+        "original": "calore",
+        "english": "heat"
+    },
+    {
+        "original": "neve",
+        "english": "snow"
+    },
+    {
+        "original": "pneumatico",
+        "english": "tire"
+    },
+    {
+        "original": "portare",
+        "english": "bring"
+    },
+    {
+        "original": "sì",
+        "english": "yes"
+    },
+    {
+        "original": "lontano",
+        "english": "distant"
+    },
+    {
+        "original": "riempire",
+        "english": "fill"
+    },
+    {
+        "original": "est",
+        "english": "east"
+    },
+    {
+        "original": "dipingere",
+        "english": "paint"
+    },
+    {
+        "original": "lingua",
+        "english": "language"
+    },
+    {
+        "original": "tra",
+        "english": "among"
+    },
+    {
+        "original": "unità",
+        "english": "unit"
+    },
+    {
+        "original": "potenza",
+        "english": "power"
+    },
+    {
+        "original": "città",
+        "english": "town"
+    },
+    {
+        "original": "fine",
+        "english": "fine"
+    },
+    {
+        "original": "certo",
+        "english": "certain"
+    },
+    {
+        "original": "volare",
+        "english": "fly"
+    },
+    {
+        "original": "cadere",
+        "english": "fall"
+    },
+    {
+        "original": "portare",
+        "english": "lead"
+    },
+    {
+        "original": "grido",
+        "english": "cry"
+    },
+    {
+        "original": "scuro",
+        "english": "dark"
+    },
+    {
+        "original": "macchina",
+        "english": "machine"
+    },
+    {
+        "original": "nota",
+        "english": "note"
+    },
+    {
+        "original": "aspettare",
+        "english": "wait"
+    },
+    {
+        "original": "piano",
+        "english": "plan"
+    },
+    {
+        "original": "figura",
+        "english": "figure"
+    },
+    {
+        "original": "stella",
+        "english": "star"
+    },
+    {
+        "original": "scatola",
+        "english": "box"
+    },
+    {
+        "original": "sostantivo",
+        "english": "noun"
+    },
+    {
+        "original": "campo",
+        "english": "field"
+    },
+    {
+        "original": "resto",
+        "english": "rest"
+    },
+    {
+        "original": "corretto",
+        "english": "correct"
+    },
+    {
+        "original": "in grado di",
+        "english": "able"
+    },
+    {
+        "original": "libbra",
+        "english": "pound"
+    },
+    {
+        "original": "done",
+        "english": "done"
+    },
+    {
+        "original": "bellezza",
+        "english": "beauty"
+    },
+    {
+        "original": "unità",
+        "english": "drive"
+    },
+    {
+        "original": "sorgeva",
+        "english": "stood"
+    },
+    {
+        "original": "contenere",
+        "english": "contain"
+    },
+    {
+        "original": "frontale",
+        "english": "front"
+    },
+    {
+        "original": "insegnare",
+        "english": "teach"
+    },
+    {
+        "original": "settimana",
+        "english": "week"
+    },
+    {
+        "original": "finale",
+        "english": "final"
+    },
+    {
+        "original": "ha dato",
+        "english": "gave"
+    },
+    {
+        "original": "verde",
+        "english": "green"
+    },
+    {
+        "original": "oh",
+        "english": "oh"
+    },
+    {
+        "original": "veloce",
+        "english": "quick"
+    },
+    {
+        "original": "sviluppare",
+        "english": "develop"
+    },
+    {
+        "original": "oceano",
+        "english": "ocean"
+    },
+    {
+        "original": "caldo",
+        "english": "warm"
+    },
+    {
+        "original": "gratuito",
+        "english": "free"
+    },
+    {
+        "original": "minuto",
+        "english": "minute"
+    },
+    {
+        "original": "forte",
+        "english": "strong"
+    },
+    {
+        "original": "speciale",
+        "english": "special"
+    },
+    {
+        "original": "mente",
+        "english": "mind"
+    },
+    {
+        "original": "dietro",
+        "english": "behind"
+    },
+    {
+        "original": "chiaro",
+        "english": "clear"
+    },
+    {
+        "original": "coda",
+        "english": "tail"
+    },
+    {
+        "original": "produrre",
+        "english": "produce"
+    },
+    {
+        "original": "fatto",
+        "english": "fact"
+    },
+    {
+        "original": "spazio",
+        "english": "space"
+    },
+    {
+        "original": "sentito",
+        "english": "heard"
+    },
+    {
+        "original": "migliore",
+        "english": "best"
+    },
+    {
+        "original": "ora",
+        "english": "hour"
+    },
+    {
+        "original": "meglio",
+        "english": "better"
+    },
+    {
+        "original": "vero",
+        "english": "TRUE"
+    },
+    {
+        "original": "durante",
+        "english": "during"
+    },
+    {
+        "original": "cento",
+        "english": "hundred"
+    },
+    {
+        "original": "cinque",
+        "english": "five"
+    },
+    {
+        "original": "ricordare",
+        "english": "remember"
+    },
+    {
+        "original": "passo",
+        "english": "step"
+    },
+    {
+        "original": "presto",
+        "english": "early"
+    },
+    {
+        "original": "tenere",
+        "english": "hold"
+    },
+    {
+        "original": "ovest",
+        "english": "west"
+    },
+    {
+        "original": "terra",
+        "english": "ground"
+    },
+    {
+        "original": "interesse",
+        "english": "interest"
+    },
+    {
+        "original": "raggiungere",
+        "english": "reach"
+    },
+    {
+        "original": "veloce",
+        "english": "fast"
+    },
+    {
+        "original": "verbo",
+        "english": "verb"
+    },
+    {
+        "original": "cantare",
+        "english": "sing"
+    },
+    {
+        "original": "ascoltare",
+        "english": "listen"
+    },
+    {
+        "original": "sei",
+        "english": "six"
+    },
+    {
+        "original": "tavolo",
+        "english": "table"
+    },
+    {
+        "original": "viaggi",
+        "english": "travel"
+    },
+    {
+        "original": "meno",
+        "english": "less"
+    },
+    {
+        "original": "mattina",
+        "english": "morning"
+    },
+    {
+        "original": "dieci",
+        "english": "ten"
+    },
+    {
+        "original": "semplice",
+        "english": "simple"
+    },
+    {
+        "original": "alcuni",
+        "english": "several"
+    },
+    {
+        "original": "vocale",
+        "english": "vowel"
+    },
+    {
+        "original": "verso",
+        "english": "toward"
+    },
+    {
+        "original": "guerra",
+        "english": "war"
+    },
+    {
+        "original": "porre",
+        "english": "lay"
+    },
+    {
+        "original": "contro",
+        "english": "against"
+    },
+    {
+        "original": "modello",
+        "english": "pattern"
+    },
+    {
+        "original": "lento",
+        "english": "slow"
+    },
+    {
+        "original": "centro",
+        "english": "center"
+    },
+    {
+        "original": "amore",
+        "english": "love"
+    },
+    {
+        "original": "persona",
+        "english": "person"
+    },
+    {
+        "original": "soldi",
+        "english": "money"
+    },
+    {
+        "original": "servire",
+        "english": "serve"
+    },
+    {
+        "original": "apparire",
+        "english": "appear"
+    },
+    {
+        "original": "strada",
+        "english": "road"
+    },
+    {
+        "original": "mappa",
+        "english": "map"
+    },
+    {
+        "original": "pioggia",
+        "english": "rain"
+    },
+    {
+        "original": "regola",
+        "english": "rule"
+    },
+    {
+        "original": "governare",
+        "english": "govern"
+    },
+    {
+        "original": "tirare",
+        "english": "pull"
+    },
+    {
+        "original": "freddo",
+        "english": "cold"
+    },
+    {
+        "original": "avviso",
+        "english": "notice"
+    },
+    {
+        "original": "voce",
+        "english": "voice"
+    },
+    {
+        "original": "energia",
+        "english": "energy"
+    },
+    {
+        "original": "caccia",
+        "english": "hunt"
+    },
+    {
+        "original": "probabile",
+        "english": "probable"
+    },
+    {
+        "original": "letto",
+        "english": "bed"
+    },
+    {
+        "original": "fratello",
+        "english": "brother"
+    },
+    {
+        "original": "uovo",
+        "english": "egg"
+    },
+    {
+        "original": "giro",
+        "english": "ride"
+    },
+    {
+        "original": "cella",
+        "english": "cell"
+    },
+    {
+        "original": "credere",
+        "english": "believe"
+    },
+    {
+        "original": "forse",
+        "english": "perhaps"
+    },
+    {
+        "original": "scegliere",
+        "english": "pick"
+    },
+    {
+        "original": "improvviso",
+        "english": "sudden"
+    },
+    {
+        "original": "contare",
+        "english": "count"
+    },
+    {
+        "original": "piazza",
+        "english": "square"
+    },
+    {
+        "original": "motivo",
+        "english": "reason"
+    },
+    {
+        "original": "lunghezza",
+        "english": "length"
+    },
+    {
+        "original": "rappresentare",
+        "english": "represent"
+    },
+    {
+        "original": "arte",
+        "english": "art"
+    },
+    {
+        "original": "soggetto",
+        "english": "subject"
+    },
+    {
+        "original": "regione",
+        "english": "region"
+    },
+    {
+        "original": "dimensione",
+        "english": "size"
+    },
+    {
+        "original": "variare",
+        "english": "vary"
+    },
+    {
+        "original": "risolvere",
+        "english": "settle"
+    },
+    {
+        "original": "parlare",
+        "english": "speak"
+    },
+    {
+        "original": "peso",
+        "english": "weight"
+    },
+    {
+        "original": "generale",
+        "english": "general"
+    },
+    {
+        "original": "ghiaccio",
+        "english": "ice"
+    },
+    {
+        "original": "materia",
+        "english": "matter"
+    },
+    {
+        "original": "cerchio",
+        "english": "circle"
+    },
+    {
+        "original": "coppia",
+        "english": "pair"
+    },
+    {
+        "original": "includere",
+        "english": "include"
+    },
+    {
+        "original": "divide",
+        "english": "divide"
+    },
+    {
+        "original": "sillaba",
+        "english": "syllable"
+    },
+    {
+        "original": "feltro",
+        "english": "felt"
+    },
+    {
+        "original": "grande",
+        "english": "grand"
+    },
+    {
+        "original": "palla",
+        "english": "ball"
+    },
+    {
+        "original": "ancora",
+        "english": "yet"
+    },
+    {
+        "original": "onda",
+        "english": "wave"
+    },
+    {
+        "original": "cadere",
+        "english": "drop"
+    },
+    {
+        "original": "cuore",
+        "english": "heart"
+    },
+    {
+        "original": "am",
+        "english": "am"
+    },
+    {
+        "original": "presente",
+        "english": "present"
+    },
+    {
+        "original": "pesante",
+        "english": "heavy"
+    },
+    {
+        "original": "danza",
+        "english": "dance"
+    },
+    {
+        "original": "motore",
+        "english": "engine"
+    },
+    {
+        "original": "posizione",
+        "english": "position"
+    },
+    {
+        "original": "braccio",
+        "english": "arm"
+    },
+    {
+        "original": "ampio",
+        "english": "wide"
+    },
+    {
+        "original": "vela",
+        "english": "sail"
+    },
+    {
+        "original": "materiale",
+        "english": "material"
+    },
+    {
+        "original": "frazione",
+        "english": "fraction"
+    },
+    {
+        "original": "foresta",
+        "english": "forest"
+    },
+    {
+        "original": "sedersi",
+        "english": "sit"
+    },
+    {
+        "original": "gara",
+        "english": "race"
+    },
+    {
+        "original": "finestra",
+        "english": "window"
+    },
+    {
+        "original": "negozio",
+        "english": "store"
+    },
+    {
+        "original": "estate",
+        "english": "summer"
+    },
+    {
+        "original": "treno",
+        "english": "train"
+    },
+    {
+        "original": "sonno",
+        "english": "sleep"
+    },
+    {
+        "original": "dimostrare",
+        "english": "prove"
+    },
+    {
+        "original": "solitario",
+        "english": "lone"
+    },
+    {
+        "original": "gamba",
+        "english": "leg"
+    },
+    {
+        "original": "esercizio",
+        "english": "exercise"
+    },
+    {
+        "original": "muro",
+        "english": "wall"
+    },
+    {
+        "original": "prendere",
+        "english": "catch"
+    },
+    {
+        "original": "monte",
+        "english": "mount"
+    },
+    {
+        "original": "desiderio",
+        "english": "wish"
+    },
+    {
+        "original": "cielo",
+        "english": "sky"
+    },
+    {
+        "original": "pensione",
+        "english": "board"
+    },
+    {
+        "original": "gioia",
+        "english": "joy"
+    },
+    {
+        "original": "inverno",
+        "english": "winter"
+    },
+    {
+        "original": "sat",
+        "english": "sat"
+    },
+    {
+        "original": "scritto",
+        "english": "written"
+    },
+    {
+        "original": "selvaggio",
+        "english": "wild"
+    },
+    {
+        "original": "strumento",
+        "english": "instrument"
+    },
+    {
+        "original": "tenere",
+        "english": "kept"
+    },
+    {
+        "original": "vetro",
+        "english": "glass"
+    },
+    {
+        "original": "erba",
+        "english": "grass"
+    },
+    {
+        "original": "mucca",
+        "english": "cow"
+    },
+    {
+        "original": "lavoro",
+        "english": "job"
+    },
+    {
+        "original": "bordo",
+        "english": "edge"
+    },
+    {
+        "original": "segno",
+        "english": "sign"
+    },
+    {
+        "original": "visita",
+        "english": "visit"
+    },
+    {
+        "original": "passato",
+        "english": "past"
+    },
+    {
+        "original": "morbido",
+        "english": "soft"
+    },
+    {
+        "original": "divertimento",
+        "english": "fun"
+    },
+    {
+        "original": "luminoso",
+        "english": "bright"
+    },
+    {
+        "original": "gas",
+        "english": "gas"
+    },
+    {
+        "original": "tempo",
+        "english": "weather"
+    },
+    {
+        "original": "mese",
+        "english": "month"
+    },
+    {
+        "original": "milione",
+        "english": "million"
+    },
+    {
+        "original": "sopportare",
+        "english": "bear"
+    },
+    {
+        "original": "finitura",
+        "english": "finish"
+    },
+    {
+        "original": "felice",
+        "english": "happy"
+    },
+    {
+        "original": "speranza",
+        "english": "hope"
+    },
+    {
+        "original": "fiore",
+        "english": "flower"
+    },
+    {
+        "original": "vestire",
+        "english": "clothe"
+    },
+    {
+        "original": "strano",
+        "english": "strange"
+    },
+    {
+        "original": "gone",
+        "english": "gone"
+    },
+    {
+        "original": "commercio",
+        "english": "trade"
+    },
+    {
+        "original": "melodia",
+        "english": "melody"
+    },
+    {
+        "original": "viaggio",
+        "english": "trip"
+    },
+    {
+        "original": "ufficio",
+        "english": "office"
+    },
+    {
+        "original": "ricevere",
+        "english": "receive"
+    },
+    {
+        "original": "fila",
+        "english": "row"
+    },
+    {
+        "original": "bocca",
+        "english": "mouth"
+    },
+    {
+        "original": "esatto",
+        "english": "exact"
+    },
+    {
+        "original": "simbolo",
+        "english": "symbol"
+    },
+    {
+        "original": "morire",
+        "english": "die"
+    },
+    {
+        "original": "meno",
+        "english": "least"
+    },
+    {
+        "original": "difficolt�",
+        "english": "trouble"
+    },
+    {
+        "original": "shout",
+        "english": "shout"
+    },
+    {
+        "original": "tranne",
+        "english": "except"
+    },
+    {
+        "original": "ha scritto",
+        "english": "wrote"
+    },
+    {
+        "original": "seme",
+        "english": "seed"
+    },
+    {
+        "original": "tono",
+        "english": "tone"
+    },
+    {
+        "original": "aderire",
+        "english": "join"
+    },
+    {
+        "original": "suggerire",
+        "english": "suggest"
+    },
+    {
+        "original": "pulito",
+        "english": "clean"
+    },
+    {
+        "original": "pausa",
+        "english": "break"
+    },
+    {
+        "original": "signora",
+        "english": "lady"
+    },
+    {
+        "original": "cantiere",
+        "english": "yard"
+    },
+    {
+        "original": "salire",
+        "english": "rise"
+    },
+    {
+        "original": "male",
+        "english": "bad"
+    },
+    {
+        "original": "colpo",
+        "english": "blow"
+    },
+    {
+        "original": "olio",
+        "english": "oil"
+    },
+    {
+        "original": "sangue",
+        "english": "blood"
+    },
+    {
+        "original": "toccare",
+        "english": "touch"
+    },
+    {
+        "original": "è cresciuto",
+        "english": "grew"
+    },
+    {
+        "original": "cent",
+        "english": "cent"
+    },
+    {
+        "original": "mescolare",
+        "english": "mix"
+    },
+    {
+        "original": "team",
+        "english": "team"
+    },
+    {
+        "original": "filo",
+        "english": "wire"
+    },
+    {
+        "original": "costo",
+        "english": "cost"
+    },
+    {
+        "original": "perso",
+        "english": "lost"
+    },
+    {
+        "original": "marrone",
+        "english": "brown"
+    },
+    {
+        "original": "indossare",
+        "english": "wear"
+    },
+    {
+        "original": "giardino",
+        "english": "garden"
+    },
+    {
+        "original": "pari",
+        "english": "equal"
+    },
+    {
+        "original": "inviato",
+        "english": "sent"
+    },
+    {
+        "original": "scegliere",
+        "english": "choose"
+    },
+    {
+        "original": "caduto",
+        "english": "fell"
+    },
+    {
+        "original": "adattarsi",
+        "english": "fit"
+    },
+    {
+        "original": "flusso",
+        "english": "flow"
+    },
+    {
+        "original": "fiera",
+        "english": "fair"
+    },
+    {
+        "original": "banca",
+        "english": "bank"
+    },
+    {
+        "original": "raccogliere",
+        "english": "collect"
+    },
+    {
+        "original": "salvare",
+        "english": "save"
+    },
+    {
+        "original": "controllo",
+        "english": "control"
+    },
+    {
+        "original": "decimale",
+        "english": "decimal"
+    },
+    {
+        "original": "orecchio",
+        "english": "ear"
+    },
+    {
+        "original": "altro",
+        "english": "else"
+    },
+    {
+        "original": "abbastanza",
+        "english": "quite"
+    },
+    {
+        "original": "rotto",
+        "english": "broke"
+    },
+    {
+        "original": "caso",
+        "english": "case"
+    },
+    {
+        "original": "mezzo",
+        "english": "middle"
+    },
+    {
+        "original": "uccidere",
+        "english": "kill"
+    },
+    {
+        "original": "figlio",
+        "english": "son"
+    },
+    {
+        "original": "lago",
+        "english": "lake"
+    },
+    {
+        "original": "momento",
+        "english": "moment"
+    },
+    {
+        "original": "scala",
+        "english": "scale"
+    },
+    {
+        "original": "forte",
+        "english": "loud"
+    },
+    {
+        "original": "primavera",
+        "english": "spring"
+    },
+    {
+        "original": "osservare",
+        "english": "observe"
+    },
+    {
+        "original": "bambino",
+        "english": "child"
+    },
+    {
+        "original": "dritto",
+        "english": "straight"
+    },
+    {
+        "original": "consonante",
+        "english": "consonant"
+    },
+    {
+        "original": "nazione",
+        "english": "nation"
+    },
+    {
+        "original": "dizionario",
+        "english": "dictionary"
+    },
+    {
+        "original": "latte",
+        "english": "milk"
+    },
+    {
+        "original": "velocità",
+        "english": "speed"
+    },
+    {
+        "original": "metodo",
+        "english": "method"
+    },
+    {
+        "original": "organo",
+        "english": "organ"
+    },
+    {
+        "original": "pagare",
+        "english": "pay"
+    },
+    {
+        "original": "età",
+        "english": "age"
+    },
+    {
+        "original": "sezione",
+        "english": "section"
+    },
+    {
+        "original": "vestito",
+        "english": "dress"
+    },
+    {
+        "original": "nube",
+        "english": "cloud"
+    },
+    {
+        "original": "sorpresa",
+        "english": "surprise"
+    },
+    {
+        "original": "tranquillo",
+        "english": "quiet"
+    },
+    {
+        "original": "pietra",
+        "english": "stone"
+    },
+    {
+        "original": "piccolo",
+        "english": "tiny"
+    },
+    {
+        "original": "salita",
+        "english": "climb"
+    },
+    {
+        "original": "fresco",
+        "english": "cool"
+    },
+    {
+        "original": "design",
+        "english": "design"
+    },
+    {
+        "original": "povero",
+        "english": "poor"
+    },
+    {
+        "original": "lotto",
+        "english": "lot"
+    },
+    {
+        "original": "esperimento",
+        "english": "experiment"
+    },
+    {
+        "original": "fondo",
+        "english": "bottom"
+    },
+    {
+        "original": "chiave",
+        "english": "key"
+    },
+    {
+        "original": "ferro",
+        "english": "iron"
+    },
+    {
+        "original": "singolo",
+        "english": "single"
+    },
+    {
+        "original": "bastone",
+        "english": "stick"
+    },
+    {
+        "original": "appartamento",
+        "english": "flat"
+    },
+    {
+        "original": "venti",
+        "english": "twenty"
+    },
+    {
+        "original": "pelle",
+        "english": "skin"
+    },
+    {
+        "original": "sorriso",
+        "english": "smile"
+    },
+    {
+        "original": "piega",
+        "english": "crease"
+    },
+    {
+        "original": "foro",
+        "english": "hole"
+    },
+    {
+        "original": "salto",
+        "english": "jump"
+    },
+    {
+        "original": "bambino",
+        "english": "baby"
+    },
+    {
+        "original": "otto",
+        "english": "eight"
+    },
+    {
+        "original": "villaggio",
+        "english": "village"
+    },
+    {
+        "original": "si incontrano",
+        "english": "meet"
+    },
+    {
+        "original": "radice",
+        "english": "root"
+    },
+    {
+        "original": "acquistare",
+        "english": "buy"
+    },
+    {
+        "original": "aumentare",
+        "english": "raise"
+    },
+    {
+        "original": "risolvere",
+        "english": "solve"
+    },
+    {
+        "original": "metallo",
+        "english": "metal"
+    },
+    {
+        "original": "se",
+        "english": "whether"
+    },
+    {
+        "original": "spingere",
+        "english": "push"
+    },
+    {
+        "original": "sette",
+        "english": "seven"
+    },
+    {
+        "original": "paragrafo",
+        "english": "paragraph"
+    },
+    {
+        "original": "terzo",
+        "english": "third"
+    },
+    {
+        "original": "deve",
+        "english": "shall"
+    },
+    {
+        "original": "tenuto",
+        "english": "held"
+    },
+    {
+        "original": "capelli",
+        "english": "hair"
+    },
+    {
+        "original": "descrivere",
+        "english": "describe"
+    },
+    {
+        "original": "cuoco",
+        "english": "cook"
+    },
+    {
+        "original": "piano",
+        "english": "floor"
+    },
+    {
+        "original": "o",
+        "english": "either"
+    },
+    {
+        "original": "risultato",
+        "english": "result"
+    },
+    {
+        "original": "bruciare",
+        "english": "burn"
+    },
+    {
+        "original": "collina",
+        "english": "hill"
+    },
+    {
+        "original": "sicuro",
+        "english": "safe"
+    },
+    {
+        "original": "gatto",
+        "english": "cat"
+    },
+    {
+        "original": "secolo",
+        "english": "century"
+    },
+    {
+        "original": "considerare",
+        "english": "consider"
+    },
+    {
+        "original": "tipo",
+        "english": "type"
+    },
+    {
+        "original": "legge",
+        "english": "law"
+    },
+    {
+        "original": "bit",
+        "english": "bit"
+    },
+    {
+        "original": "costa",
+        "english": "coast"
+    },
+    {
+        "original": "copia",
+        "english": "copy"
+    },
+    {
+        "original": "frase",
+        "english": "phrase"
+    },
+    {
+        "original": "silenzioso",
+        "english": "silent"
+    },
+    {
+        "original": "alto",
+        "english": "tall"
+    },
+    {
+        "original": "sabbia",
+        "english": "sand"
+    },
+    {
+        "original": "suolo",
+        "english": "soil"
+    },
+    {
+        "original": "rotolo",
+        "english": "roll"
+    },
+    {
+        "original": "temperatura",
+        "english": "temperature"
+    },
+    {
+        "original": "dito",
+        "english": "finger"
+    },
+    {
+        "original": "industria",
+        "english": "industry"
+    },
+    {
+        "original": "valore",
+        "english": "value"
+    },
+    {
+        "original": "lotta",
+        "english": "fight"
+    },
+    {
+        "original": "bugia",
+        "english": "lie"
+    },
+    {
+        "original": "battere",
+        "english": "beat"
+    },
+    {
+        "original": "eccitare",
+        "english": "excite"
+    },
+    {
+        "original": "naturale",
+        "english": "natural"
+    },
+    {
+        "original": "vista",
+        "english": "view"
+    },
+    {
+        "original": "senso",
+        "english": "sense"
+    },
+    {
+        "original": "capitale",
+        "english": "capital"
+    },
+    {
+        "original": "non sarà",
+        "english": "won't"
+    },
+    {
+        "original": "sedia",
+        "english": "chair"
+    },
+    {
+        "original": "pericolo",
+        "english": "danger"
+    },
+    {
+        "original": "frutta",
+        "english": "fruit"
+    },
+    {
+        "original": "ricco",
+        "english": "rich"
+    },
+    {
+        "original": "spesso",
+        "english": "thick"
+    },
+    {
+        "original": "soldato",
+        "english": "soldier"
+    },
+    {
+        "original": "processo",
+        "english": "process"
+    },
+    {
+        "original": "operare",
+        "english": "operate"
+    },
+    {
+        "original": "pratica",
+        "english": "practice"
+    },
+    {
+        "original": "separato",
+        "english": "separate"
+    },
+    {
+        "original": "difficile",
+        "english": "difficult"
+    },
+    {
+        "original": "medico",
+        "english": "doctor"
+    },
+    {
+        "original": "per favore",
+        "english": "please"
+    },
+    {
+        "original": "proteggere",
+        "english": "protect"
+    },
+    {
+        "original": "mezzogiorno",
+        "english": "noon"
+    },
+    {
+        "original": "raccolto",
+        "english": "crop"
+    },
+    {
+        "original": "moderno",
+        "english": "modern"
+    },
+    {
+        "original": "elemento",
+        "english": "element"
+    },
+    {
+        "original": "colpire",
+        "english": "hit"
+    },
+    {
+        "original": "studente",
+        "english": "student"
+    },
+    {
+        "original": "angolo",
+        "english": "corner"
+    },
+    {
+        "original": "partito",
+        "english": "party"
+    },
+    {
+        "original": "fornitura",
+        "english": "supply"
+    },
+    {
+        "original": "la cui",
+        "english": "whose"
+    },
+    {
+        "original": "individuare",
+        "english": "locate"
+    },
+    {
+        "original": "anello",
+        "english": "ring"
+    },
+    {
+        "original": "carattere",
+        "english": "character"
+    },
+    {
+        "original": "insetto",
+        "english": "insect"
+    },
+    {
+        "original": "catturato",
+        "english": "caught"
+    },
+    {
+        "original": "periodo",
+        "english": "period"
+    },
+    {
+        "original": "indicare",
+        "english": "indicate"
+    },
+    {
+        "original": "radio",
+        "english": "radio"
+    },
+    {
+        "original": "raggio",
+        "english": "spoke"
+    },
+    {
+        "original": "atomo",
+        "english": "atom"
+    },
+    {
+        "original": "umano",
+        "english": "human"
+    },
+    {
+        "original": "storia",
+        "english": "history"
+    },
+    {
+        "original": "effetto",
+        "english": "effect"
+    },
+    {
+        "original": "elettrico",
+        "english": "electric"
+    },
+    {
+        "original": "aspettare",
+        "english": "expect"
+    },
+    {
+        "original": "osso",
+        "english": "bone"
+    },
+    {
+        "original": "ferrovia",
+        "english": "rail"
+    },
+    {
+        "original": "immaginare",
+        "english": "imagine"
+    },
+    {
+        "original": "fornire",
+        "english": "provide"
+    },
+    {
+        "original": "concordare",
+        "english": "agree"
+    },
+    {
+        "original": "così",
+        "english": "thus"
+    },
+    {
+        "original": "dolce",
+        "english": "gentle"
+    },
+    {
+        "original": "donna",
+        "english": "woman"
+    },
+    {
+        "original": "capitano",
+        "english": "captain"
+    },
+    {
+        "original": "indovinare",
+        "english": "guess"
+    },
+    {
+        "original": "necessario",
+        "english": "necessary"
+    },
+    {
+        "original": "tagliente",
+        "english": "sharp"
+    },
+    {
+        "original": "ala",
+        "english": "wing"
+    },
+    {
+        "original": "creare",
+        "english": "create"
+    },
+    {
+        "original": "prossimo",
+        "english": "neighbor"
+    },
+    {
+        "original": "lavaggio",
+        "english": "wash"
+    },
+    {
+        "original": "pipistrello",
+        "english": "bat"
+    },
+    {
+        "original": "piuttosto",
+        "english": "rather"
+    },
+    {
+        "original": "folla",
+        "english": "crowd"
+    },
+    {
+        "original": "mais",
+        "english": "corn"
+    },
+    {
+        "original": "confrontare",
+        "english": "compare"
+    },
+    {
+        "original": "poesia",
+        "english": "poem"
+    },
+    {
+        "original": "stringa",
+        "english": "string"
+    },
+    {
+        "original": "campana",
+        "english": "bell"
+    },
+    {
+        "original": "dipendere",
+        "english": "depend"
+    },
+    {
+        "original": "carne",
+        "english": "meat"
+    },
+    {
+        "original": "strofinare",
+        "english": "rub"
+    },
+    {
+        "original": "tubo",
+        "english": "tube"
+    },
+    {
+        "original": "famoso",
+        "english": "famous"
+    },
+    {
+        "original": "dollaro",
+        "english": "dollar"
+    },
+    {
+        "original": "ruscello",
+        "english": "stream"
+    },
+    {
+        "original": "paura",
+        "english": "fear"
+    },
+    {
+        "original": "vista",
+        "english": "sight"
+    },
+    {
+        "original": "sottile",
+        "english": "thin"
+    },
+    {
+        "original": "triangolo",
+        "english": "triangle"
+    },
+    {
+        "original": "pianeta",
+        "english": "planet"
+    },
+    {
+        "original": "fretta",
+        "english": "hurry"
+    },
+    {
+        "original": "capo",
+        "english": "chief"
+    },
+    {
+        "original": "colonia",
+        "english": "colony"
+    },
+    {
+        "original": "orologio",
+        "english": "clock"
+    },
+    {
+        "original": "miniera",
+        "english": "mine"
+    },
+    {
+        "original": "cravatta",
+        "english": "tie"
+    },
+    {
+        "original": "inserire",
+        "english": "enter"
+    },
+    {
+        "original": "maggiore",
+        "english": "major"
+    },
+    {
+        "original": "fresco",
+        "english": "fresh"
+    },
+    {
+        "original": "ricerca",
+        "english": "search"
+    },
+    {
+        "original": "inviare",
+        "english": "send"
+    },
+    {
+        "original": "giallo",
+        "english": "yellow"
+    },
+    {
+        "original": "pistola",
+        "english": "gun"
+    },
+    {
+        "original": "consentire",
+        "english": "allow"
+    },
+    {
+        "original": "stampa",
+        "english": "print"
+    },
+    {
+        "original": "morto",
+        "english": "dead"
+    },
+    {
+        "original": "spot",
+        "english": "spot"
+    },
+    {
+        "original": "deserto",
+        "english": "desert"
+    },
+    {
+        "original": "tuta",
+        "english": "suit"
+    },
+    {
+        "original": "corrente",
+        "english": "current"
+    },
+    {
+        "original": "ascensore",
+        "english": "lift"
+    },
+    {
+        "original": "rosa",
+        "english": "rose"
+    },
+    {
+        "original": "arrivare",
+        "english": "arrive"
+    },
+    {
+        "original": "master",
+        "english": "master"
+    },
+    {
+        "original": "pista",
+        "english": "track"
+    },
+    {
+        "original": "genitore",
+        "english": "parent"
+    },
+    {
+        "original": "riva",
+        "english": "shore"
+    },
+    {
+        "original": "divisione",
+        "english": "division"
+    },
+    {
+        "original": "foglio",
+        "english": "sheet"
+    },
+    {
+        "original": "sostanza",
+        "english": "substance"
+    },
+    {
+        "original": "favorire",
+        "english": "favor"
+    },
+    {
+        "original": "collegare",
+        "english": "connect"
+    },
+    {
+        "original": "Messaggio",
+        "english": "post"
+    },
+    {
+        "original": "spendere",
+        "english": "spend"
+    },
+    {
+        "original": "accordo",
+        "english": "chord"
+    },
+    {
+        "original": "grasso",
+        "english": "fat"
+    },
+    {
+        "original": "felice",
+        "english": "glad"
+    },
+    {
+        "original": "originale",
+        "english": "original"
+    },
+    {
+        "original": "quota",
+        "english": "share"
+    },
+    {
+        "original": "stazione",
+        "english": "station"
+    },
+    {
+        "original": "papà",
+        "english": "dad"
+    },
+    {
+        "original": "pane",
+        "english": "bread"
+    },
+    {
+        "original": "carica",
+        "english": "charge"
+    },
+    {
+        "original": "corretto",
+        "english": "proper"
+    },
+    {
+        "original": "bar",
+        "english": "bar"
+    },
+    {
+        "original": "offerta",
+        "english": "offer"
+    },
+    {
+        "original": "segmento",
+        "english": "segment"
+    },
+    {
+        "original": "schiavo",
+        "english": "slave"
+    },
+    {
+        "original": "anatra",
+        "english": "duck"
+    },
+    {
+        "original": "immediato",
+        "english": "instant"
+    },
+    {
+        "original": "mercato",
+        "english": "market"
+    },
+    {
+        "original": "grado",
+        "english": "degree"
+    },
+    {
+        "original": "popolare",
+        "english": "populate"
+    },
+    {
+        "original": "pulcino",
+        "english": "chick"
+    },
+    {
+        "original": "caro",
+        "english": "dear"
+    },
+    {
+        "original": "nemico",
+        "english": "enemy"
+    },
+    {
+        "original": "rispondere",
+        "english": "reply"
+    },
+    {
+        "original": "bevanda",
+        "english": "drink"
+    },
+    {
+        "original": "verificarsi",
+        "english": "occur"
+    },
+    {
+        "original": "supporto",
+        "english": "support"
+    },
+    {
+        "original": "discorso",
+        "english": "speech"
+    },
+    {
+        "original": "natura",
+        "english": "nature"
+    },
+    {
+        "original": "gamma",
+        "english": "range"
+    },
+    {
+        "original": "vapore",
+        "english": "steam"
+    },
+    {
+        "original": "moto",
+        "english": "motion"
+    },
+    {
+        "original": "sentiero",
+        "english": "path"
+    },
+    {
+        "original": "liquido",
+        "english": "liquid"
+    },
+    {
+        "original": "log",
+        "english": "log"
+    },
+    {
+        "original": "significava",
+        "english": "meant"
+    },
+    {
+        "original": "quoziente",
+        "english": "quotient"
+    },
+    {
+        "original": "denti",
+        "english": "teeth"
+    },
+    {
+        "original": "guscio",
+        "english": "shell"
+    },
+    {
+        "original": "collo",
+        "english": "neck"
+    },
+    {
+        "original": "ossigeno",
+        "english": "oxygen"
+    },
+    {
+        "original": "zucchero",
+        "english": "sugar"
+    },
+    {
+        "original": "morte",
+        "english": "death"
+    },
+    {
+        "original": "piuttosto",
+        "english": "pretty"
+    },
+    {
+        "original": "abilità",
+        "english": "skill"
+    },
+    {
+        "original": "donne",
+        "english": "women"
+    },
+    {
+        "original": "stagione",
+        "english": "season"
+    },
+    {
+        "original": "soluzione",
+        "english": "solution"
+    },
+    {
+        "original": "magnete",
+        "english": "magnet"
+    },
+    {
+        "original": "argento",
+        "english": "silver"
+    },
+    {
+        "original": "grazie",
+        "english": "thank"
+    },
+    {
+        "original": "ramo",
+        "english": "branch"
+    },
+    {
+        "original": "partita",
+        "english": "match"
+    },
+    {
+        "original": "suffisso",
+        "english": "suffix"
+    },
+    {
+        "original": "particolarmente",
+        "english": "especially"
+    },
+    {
+        "original": "fico",
+        "english": "fig"
+    },
+    {
+        "original": "impaurito",
+        "english": "afraid"
+    },
+    {
+        "original": "enorme",
+        "english": "huge"
+    },
+    {
+        "original": "sorella",
+        "english": "sister"
+    },
+    {
+        "original": "acciaio",
+        "english": "steel"
+    },
+    {
+        "original": "discutere",
+        "english": "discuss"
+    },
+    {
+        "original": "avanti",
+        "english": "forward"
+    },
+    {
+        "original": "simile",
+        "english": "similar"
+    },
+    {
+        "original": "guidare",
+        "english": "guide"
+    },
+    {
+        "original": "esperienza",
+        "english": "experience"
+    },
+    {
+        "original": "punteggio",
+        "english": "score (noun)"
+    },
+    {
+        "original": "mela",
+        "english": "apple"
+    },
+    {
+        "original": "comprato",
+        "english": "bought"
+    },
+    {
+        "original": "portato",
+        "english": "led"
+    },
+    {
+        "original": "pece",
+        "english": "pitch"
+    },
+    {
+        "original": "cappotto",
+        "english": "coat"
+    },
+    {
+        "original": "massa",
+        "english": "mass"
+    },
+    {
+        "original": "scheda",
+        "english": "card"
+    },
+    {
+        "original": "banda",
+        "english": "band (rubber)"
+    },
+    {
+        "original": "corda",
+        "english": "rope"
+    },
+    {
+        "original": "slittamento",
+        "english": "slip"
+    },
+    {
+        "original": "vittoria",
+        "english": "win"
+    },
+    {
+        "original": "sognare",
+        "english": "dream"
+    },
+    {
+        "original": "sera",
+        "english": "evening"
+    },
+    {
+        "original": "condizione",
+        "english": "condition"
+    },
+    {
+        "original": "alimentazione",
+        "english": "feed"
+    },
+    {
+        "original": "strumento",
+        "english": "tool"
+    },
+    {
+        "original": "totale",
+        "english": "total"
+    },
+    {
+        "original": "di base",
+        "english": "basic"
+    },
+    {
+        "original": "odore",
+        "english": "smell"
+    },
+    {
+        "original": "valle",
+        "english": "valley"
+    },
+    {
+        "original": "né",
+        "english": "nor"
+    },
+    {
+        "original": "doppio",
+        "english": "double"
+    },
+    {
+        "original": "sedile",
+        "english": "seat (in a car)"
+    },
+    {
+        "original": "continuare",
+        "english": "continue"
+    },
+    {
+        "original": "blocco",
+        "english": "a block"
+    },
+    {
+        "original": "grafico",
+        "english": "chart"
+    },
+    {
+        "original": "cappello",
+        "english": "hat"
+    },
+    {
+        "original": "vendere",
+        "english": "sell"
+    },
+    {
+        "original": "successo",
+        "english": "success"
+    },
+    {
+        "original": "azienda",
+        "english": "a company"
+    },
+    {
+        "original": "sottrarre",
+        "english": "subtract"
+    },
+    {
+        "original": "evento",
+        "english": "event"
+    },
+    {
+        "original": "particolare",
+        "english": "particular"
+    },
+    {
+        "original": "affare",
+        "english": "deal"
+    },
+    {
+        "original": "nuoto",
+        "english": "swim"
+    },
+    {
+        "original": "termine",
+        "english": "term"
+    },
+    {
+        "original": "opposto",
+        "english": "opposite"
+    },
+    {
+        "original": "moglie",
+        "english": "wife"
+    },
+    {
+        "original": "scarpa",
+        "english": "shoe"
+    },
+    {
+        "original": "spalla",
+        "english": "shoulder"
+    },
+    {
+        "original": "spargere",
+        "english": "spread"
+    },
+    {
+        "original": "organizzare",
+        "english": "arrange"
+    },
+    {
+        "original": "campo",
+        "english": "a camp"
+    },
+    {
+        "original": "inventare",
+        "english": "invent"
+    },
+    {
+        "original": "cotone",
+        "english": "cotton"
+    },
+    {
+        "original": "nascita",
+        "english": "birth"
+    },
+    {
+        "original": "determinare",
+        "english": "determine"
+    },
+    {
+        "original": "quarto di gallone",
+        "english": "quart"
+    },
+    {
+        "original": "nove",
+        "english": "nine"
+    },
+    {
+        "original": "camion",
+        "english": "truck"
+    },
+    {
+        "original": "rumore",
+        "english": "noise"
+    },
+    {
+        "original": "livello",
+        "english": "level"
+    },
+    {
+        "original": "possibilità",
+        "english": "a chance"
+    },
+    {
+        "original": "raccogliere",
+        "english": "gather"
+    },
+    {
+        "original": "negozio",
+        "english": "a shop"
+    },
+    {
+        "original": "tratto",
+        "english": "stretch (of land)"
+    },
+    {
+        "original": "gettare",
+        "english": "throw"
+    },
+    {
+        "original": "brillare",
+        "english": "shine"
+    },
+    {
+        "original": "proprietà",
+        "english": "property"
+    },
+    {
+        "original": "colonna",
+        "english": "column"
+    },
+    {
+        "original": "molecola",
+        "english": "molecule"
+    },
+    {
+        "original": "selezionare",
+        "english": "select"
+    },
+    {
+        "original": "sbagliato",
+        "english": "wrong"
+    },
+    {
+        "original": "grigio",
+        "english": "gray"
+    },
+    {
+        "original": "ripetizione",
+        "english": "repeat"
+    },
+    {
+        "original": "richiedere",
+        "english": "require"
+    },
+    {
+        "original": "ampio",
+        "english": "broad"
+    },
+    {
+        "original": "preparare",
+        "english": "prepare"
+    },
+    {
+        "original": "sale",
+        "english": "salt"
+    },
+    {
+        "original": "naso",
+        "english": "nose"
+    },
+    {
+        "original": "plurale",
+        "english": "plural"
+    },
+    {
+        "original": "rabbia",
+        "english": "anger"
+    },
+    {
+        "original": "richiesta",
+        "english": "claim"
+    },
+    {
+        "original": "continente",
+        "english": "continent"
+    }
+]
