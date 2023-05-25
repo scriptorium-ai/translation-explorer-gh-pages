@@ -44,6 +44,7 @@ let schema = {
     "type": "Letter",
     title: textTitle,
     author,
+    year: 1616,
     paragraphs
 }
 

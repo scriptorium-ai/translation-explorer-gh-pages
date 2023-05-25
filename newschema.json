@@ -2,6 +2,7 @@
     "type": "Letter",
     "title": "DISCORSO DEL FLUSSO E REFLUSSO DEL MARE",
     "author": "Galileo Galilei",
+    "year": 1616,
     "paragraphs": [
         {
             "paragraphNumber": 0,
@@ -42,7 +43,7 @@
                         {
                             "lineNumber": 1,
                             "text": "The favor bestowed upon me by Your Most Illustrious and Reverend Lordship, in requesting that I commit to paper what I explained to you verbally ten days ago, far exceeds my merit and the weight of my discourse.",
-                            "notes": ["This letter was written to Alessandro Orsini."]
+                            "notes": ["This letter was written to Alessandro Orsini, who had been made a Cardinal by Paul V just the year before, in 1615. He was a patron of Galileo and well known for his charity, particularly during the 1621 outbreak of the plague."]
                         },
                         {
                             "lineNumber": 2,
@@ -122,7 +123,7 @@
                         {
                             "lineNumber": 6,
                             "text": "Empirical experience shows us that the ebb and flow of ocean waters are not a swelling and contraction of the element itself, similar to what we observe in water heated by fire, which expands and rises due to intense heat and contracts and lowers when returning to its natural cold state.",
-                            "notes": []
+                            "notes": ["It is claimed that Galileo discovered that the density of liquid changes in proportion to its temperature. The Galilean Thermometer is named after him not because he invented it, but because it relies on the principle of expansion of liquids that he may have discovered."]
                         },
                         {
                             "lineNumber": 7,
@@ -192,7 +193,7 @@
                         {
                             "lineNumber": 15,
                             "text": "But since such a flow always takes place towards the same part of the slope, above which the waters never return backwards, this reason does not apply to our cause, nor can it take place in the reciprocal movements towards the opposite, as we see happening in sea waters.",
-                            "notes": []
+                            "notes": ["Galileo would have perhaps been shocked if he had witnessed the Severn Bore, where the Severn's current is dramatically reversed with a large wave."]
                         }
                     ]
                 }
