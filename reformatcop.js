@@ -1,6 +1,6 @@
 let fs = require('fs');
 
-let text = fs.readFileSync('./galileo.json','utf-8');
+let text = fs.readFileSync('./copernicusold.json','utf-8');
 
 
 // expects text in the format:
@@ -30,7 +30,7 @@ for(var paragraphNum = 0; paragraphNum < paragraphSplit.length; paragraphNum++){
         paragraphNumber: paragraphNum,
         languages: [
             {
-                language: "Italian",
+                language: "Latin",
                 lines: italianWithNotes.slice(lastLineCounter, newLineCounter)
             },
             {
@@ -45,9 +45,8 @@ for(var paragraphNum = 0; paragraphNum < paragraphSplit.length; paragraphNum++){
     lastLineCounter = newLineCounter;
 }
 
-let textTitle = 'DISCORSO DEL FLUSSO E REFLUSSO DEL MARE';
-let translatedTitle = "Discourse on the Tides";
-let author = "Galileo Galilei";
+let textTitle = 'Entry on Copernicus';
+let author = "Giovanni Battista Riccioli";
 
 let schema = {
     "type": "Letter",
@@ -57,4 +56,4 @@ let schema = {
     paragraphs
 }
 
-fs.writeFileSync('newschema.json', JSON.stringify(schema), 'utf-8');
+fs.writeFileSync('copernicus.json', JSON.stringify(schema), 'utf-8');
