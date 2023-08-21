@@ -1,14 +1,41 @@
 [
     {
         "title":"DISCORSO DEL FLUSSO E REFLUSSO DEL MARE",
+        "subtitle":"ALL' ILLUSTRISSIMO E REVERENDISSIMO SIG. CARDINAL ORSINO.",
         "author": "Galileo Galilei",
         "fileName": "discourseonthetides",
-        "tags": ["science"]
+        "id":"5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "source": "https://it.wikisource.org/wiki/Pagina:Le_opere_di_Galileo_Galilei_V.djvu/381",
+        "originalLanguage": "italian",
+        "tags": ["science"],
+        "sections": [
+            {"id":"f5a0d105-c696-4924-8695-07df01eee247"}
+        ]
     },
     {
         "title":"On Copernicus",
         "author": "Giovanni Battista Riccioli",
         "fileName": "copernicus",
-        "tags": ["science", "history"]
+        "id":"b2c959de-4e0e-4032-a09a-a4944bce23f4",
+        "originalLanguage": "latin",
+        "tags": ["science", "history"],
+        "sections": [
+            {"id":"90eb9a0f-f946-40e4-bc1e-c2ec4752148b"}
+        ]
+    },
+    {
+        "title":"PROOEMIUM SANCTI BONAVENTURAE IN LIBRUM PRIMUM SENTENTIARUM",
+        "subtitle":"The Prologue of Saint Bonaventure to the First Book of the Sentences",
+        "author": "Bonaventure",
+        "fileName": "bonaventure",
+        "originalLanguage": "latin",
+        "id": "0286f695-a955-43cc-8215-d86217a656bc",
+        "tags": ["theology"],
+        "sections": [
+            {"id":"1dca1752-e1da-4875-b8f3-70a522f40128","title":"test 1"},
+            {"id":"46a2b2bc-b338-4cbb-a165-9bed6ca6a012","title":"test 2"},
+            {"id":"4581744d-accb-45fb-9204-d1569018a944","title":"test 3"},
+            {"id":"0b2a08fb-69b7-46ef-b97e-05c74b4a8bf7","title":"test 4"}
+        ]
     }
 ]

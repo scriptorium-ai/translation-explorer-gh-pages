@@ -1,0 +1,43 @@
+[
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "31f69978-54bf-412d-acd5-80129e82b89d",
+        "line": 1,
+        "language": "english",
+        "note": "This letter was written to Alessandro Orsini, who had been made a Cardinal by Paul V just the year before, in 1615. He was a patron of Galileo and well known for his charity, particularly during the 1621 outbreak of the plague.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "a5825abb-e916-474a-a1c4-329543076a40",
+        "line": 6,
+        "language": "english",
+        "note": "It is claimed that Galileo discovered that the density of liquid changes in proportion to its temperature. The Galilean Thermometer is named after him not because he invented it, but because it relies on the principle of expansion of liquids that he may have discovered.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "82ed8574-c9b0-475b-80d5-be1fc3eec78a",
+        "line": 15,
+        "language": "english",
+        "note": "Galileo would have perhaps been shocked if he had witnessed the Severn Bore, where the Severn's current is dramatically reversed with a large wave.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "0c148a84-4d50-49dc-a5ba-555482bfc34e",
+        "line": 16,
+        "language": "english",
+        "note": "This is a real phenomenon known as a Storm Surge.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    }
+]

@@ -4546,5 +4546,965 @@
     {
         "original": "continente",
         "english": "continent"
-    }
+    },
+    {
+        "original": "abbassa",
+        "english": "Lower, decrease, bring down"
+      },
+      {
+        "original": "abbassamento",
+        "english": "Lowering, reduction, decline"
+      },
+      {
+        "original": "abbassando",
+        "english": "Lowering, bringing down, decreasing"
+      },
+      {
+        "original": "abbassandosi",
+        "english": "Stooping, bending down, lowering oneself"
+      },
+      {
+        "original": "abbassano",
+        "english": "Lower, decrease, bring down"
+      },
+      {
+        "original": "abbassare",
+        "english": "Lower, bring down, decrease"
+      },
+      {
+        "original": "abbassarsi",
+        "english": "Stooping, bending down, lowering oneself"
+      },
+      {
+        "original": "abbassata",
+        "english": "Lowered, decreased, brought down"
+      },
+      {
+        "original": "abbi",
+        "english": "Have, possess, own"
+      },
+      {
+        "original": "abbia",
+        "english": "Has, possesses, owns"
+      },
+      {
+        "original": "abbozzatura",
+        "english": "Sketch, outline, drafting"
+      },
+      {
+        "original": "abbracciar",
+        "english": "Embrace, hug, cuddle"
+      },
+      {
+        "original": "abitanti",
+        "english": "Inhabitants, residents, population"
+      },
+      {
+        "original": "abitati",
+        "english": "Inhabited, populated, settled"
+      },
+      {
+        "original": "accade",
+        "english": "Happens, occurs, takes place"
+      },
+      {
+        "original": "accadendo",
+        "english": "Happening, occurring, taking place"
+      },
+      {
+        "original": "accader",
+        "english": "Happen, occur, take place"
+      },
+      {
+        "original": "accaderà",
+        "english": "Will happen, will occur, will take place"
+      },
+      {
+        "original": "accaggia",
+        "english": "Approaches, comes close to, nears"
+      },
+      {
+        "original": "accaggiono",
+        "english": "Accuse, blame, charge"
+      },
+      {
+        "original": "accascano",
+        "english": "Collapse, slump, crumble"
+      },
+      {
+        "original": "accelera",
+        "english": "Accelerate, speed up, hasten"
+      },
+      {
+        "original": "accelerano",
+        "english": "Accelerate, speed up, hasten"
+      },
+      {
+        "original": "accelerarsi",
+        "english": "Speed up, accelerate, quickened"
+      },
+      {
+        "original": "accelerato",
+        "english": "Accelerated, sped up, hastened"
+      },
+      {
+        "original": "accelerazione",
+        "english": "Acceleration, speeding up, increase in speed"
+      },
+      {
+        "original": "accidentaria",
+        "english": "Casualty, accidental, random"
+      },
+      {
+        "original": "accidentarii",
+        "english": "Injuries, casualties, accidents"
+      },
+      {
+        "original": "accidente",
+        "english": "Accident, mishap, incident"
+      },
+      {
+        "original": "accidenti",
+        "english": "Damn, blast, darn"
+      },
+      {
+        "original": "accordasse",
+        "english": "Agreed, granted, accorded"
+      },
+      {
+        "original": "accordino",
+        "english": "Agree, grant, accord"
+      },
+      {
+        "original": "accorti",
+        "english": "Realize, notice, become aware"
+      },
+      {
+        "original": "accresce",
+        "english": "Increases, augments, grows"
+      },
+      {
+        "original": "accreschino",
+        "english": "Increase, augment, grow"
+      },
+      {
+        "original": "accrescimento",
+        "english": "Growth, increase, augmentation"
+      },
+      {
+        "original": "acque",
+        "english": "Waters, waterside, aquatic"
+      },
+      {
+        "original": "acquista",
+        "english": "Buys, purchases, acquires"
+      },
+      {
+        "original": "acquistando",
+        "english": "Buying, purchasing, acquiring"
+      },
+      {
+        "original": "acquistar",
+        "english": "Buy, purchase, acquire"
+      },
+      {
+        "original": "addietro",
+        "english": "Back, backward, ago"
+      },
+      {
+        "original": "addotte",
+        "english": "Brought, carried, conducted"
+      },
+      {
+        "original": "addurrebbono",
+        "english": "Bring, carry, conduct"
+      },
+      {
+        "original": "adequata",
+        "english": "Adequate, suitable, appropriate"
+      },
+      {
+        "original": "adequate",
+        "english": "Adequate, suitable, appropriate"
+      },
+      {
+        "original": "adesso",
+        "english": "Now, currently, at present"
+      },
+      {
+        "original": "adriatico",
+        "english": "Adriatic"
+      },
+      {
+        "original": "affetta",
+        "english": "Sliced, cut, portioned"
+      },
+      {
+        "original": "affette",
+        "english": "Slice, cut, portion"
+      },
+      {
+        "original": "affrica",
+        "english": "Africa"
+      },
+      {
+        "original": "aggregato",
+        "english": "Aggregate, collection, group"
+      },
+      {
+        "original": "agitarsi",
+        "english": "Agitate, stir, get agitated"
+      },
+      {
+        "original": "agitazione",
+        "english": "Agitation, turmoil, disturbance"
+      },
+      {
+        "original": "agitazioni",
+        "english": "Agitations, turmoils, disturbances"
+      },
+      {
+        "original": "alcun",
+        "english": "Some, any"
+      },
+      {
+        "original": "alcuna",
+        "english": "Some, any"
+      },
+      {
+        "original": "alcune",
+        "english": "Some, any"
+      },
+      {
+        "original": "alcuno",
+        "english": "Some, any"
+      },
+      {
+        "original": "alessandria",
+        "english": "Alexandria"
+      },
+      {
+        "original": "all",
+        "english": "To the"
+      },
+      {
+        "original": "alla",
+        "english": "To the"
+      },
+      {
+        "original": "alle",
+        "english": "To the"
+      },
+      {
+        "original": "allo",
+        "english": "To the"
+      },
+      {
+        "original": "allontanerebbe",
+        "english": "Would move away, would distance, would remove"
+      },
+      {
+        "original": "almeno",
+        "english": "At least, minimum, least"
+      },
+      {
+        "original": "alquanto",
+        "english": "Somewhat, rather, quite"
+      },
+      {
+        "original": "alterare",
+        "english": "Alter, modify, change"
+      },
+      {
+        "original": "alterazione",
+        "english": "Alteration, modification, change"
+      },
+      {
+        "original": "alternatamente",
+        "english": "Alternatively, alternatively, in turn"
+      },
+      {
+        "original": "altezza",
+        "english": "Height, altitude, stature"
+      },
+      {
+        "original": "altezze",
+        "english": "Heights, altitudes, statures"
+      },
+      {
+        "original": "altra",
+        "english": "Other, another, different"
+      },
+      {
+        "original": "altre",
+        "english": "Other, another, different"
+      },
+      {
+        "original": "altresì",
+        "english": "Also, as well, likewise"
+      },
+      {
+        "original": "altri",
+        "english": "Other, others"
+      },
+      {
+        "original": "alveo",
+        "english": "Riverbed, channel, bed"
+      },
+      {
+        "original": "alza",
+        "english": "Lifts, raises, increases"
+      },
+      {
+        "original": "alzamento",
+        "english": "Lifting, raising, elevation"
+      },
+      {
+        "original": "alzando",
+        "english": "Lifting, raising, elevating"
+      },
+      {
+        "original": "alzandosi",
+        "english": "Lifting, raising, elevating oneself"
+      },
+      {
+        "original": "alzano",
+        "english": "Lift, raise, increase"
+      },
+      {
+        "original": "alzare",
+        "english": "Lift, raise, increase"
+      },
+      {
+        "original": "alzarsi",
+        "english": "Get up, rise, stand up"
+      },
+      {
+        "original": "alzata",
+        "english": "Rise, step, elevation"
+      },
+      {
+        "original": "alzeranno",
+        "english": "Will lift, will raise, will increase"
+      },
+      {
+        "original": "ambiente",
+        "english": "Environment, surroundings, atmosphere"
+      },
+      {
+        "original": "amendue",
+        "english": "Both, both of them"
+      },
+      {
+        "original": "americhe",
+        "english": "Americas"
+      },
+      {
+        "original": "ampiezza",
+        "english": "Amplitude, width, breadth"
+      },
+      {
+        "original": "ampli",
+        "english": "Expand, amplify, enlarge"
+      },
+      {
+        "original": "anco",
+        "english": "Also, even, still"
+      },
+      {
+        "original": "ancor",
+        "english": "Still, yet, again"
+      },
+      {
+        "original": "andando",
+        "english": "Going, walking, moving"
+      },
+      {
+        "original": "andasse",
+        "english": "Would go, would walk, would move"
+      },
+      {
+        "original": "andate",
+        "english": "Go, walk, move"
+      },
+      {
+        "original": "andiamo",
+        "english": "We go, let's go, we are going"
+      },
+      {
+        "original": "andranno",
+        "english": "Will go, will walk, will move"
+      },
+      {
+        "original": "andrebbe",
+        "english": "Would go, would walk, would move"
+      },
+      {
+        "original": "andremo",
+        "english": "We will go, we will walk, we will move"
+      },
+      {
+        "original": "angusti",
+        "english": "Narrow, cramped, tight"
+      },
+      {
+        "original": "angusto",
+        "english": "Narrow, cramped, tight"
+      },
+      {
+        "original": "annesse",
+        "english": "Annexed, attached, associated"
+      },
+      {
+        "original": "anni",
+        "english": "Years"
+      },
+      {
+        "original": "annichilata",
+        "english": "Annihilated, destroyed, obliterated"
+      },
+      {
+        "original": "annuo",
+        "english": "Annual, yearly"
+      },
+      {
+        "original": "anticamente",
+        "english": "Antiquely, in an ancient manner, in an old-fashioned way"
+      },
+      {
+        "original": "antichi",
+        "english": "Ancient, old, antique"
+      },
+      {
+        "original": "anzi",
+        "english": "Indeed, on the contrary, rather"
+      },
+      {
+        "original": "apertamente",
+        "english": "Openly, clearly, overtly"
+      },
+      {
+        "original": "apparecchiato",
+        "english": "Set, prepared, arranged"
+      },
+      {
+        "original": "apparisca",
+        "english": "Appears, seems, shows up"
+      },
+      {
+        "original": "appartiene",
+        "english": "Belongs, pertains, is related"
+      },
+      {
+        "original": "appesi",
+        "english": "Hung, suspended, hanged"
+      },
+      {
+        "original": "applauda",
+        "english": "Applauds, claps, cheers"
+      },
+      {
+        "original": "appoggiati",
+        "english": "Leaned, supported, rested"
+      },
+      {
+        "original": "apportai",
+        "english": "Brought, carried, delivered"
+      },
+      {
+        "original": "appresso",
+        "english": "After, next to, close to"
+      },
+      {
+        "original": "appropinqua",
+        "english": "Approaches, comes near, draws near"
+      },
+      {
+        "original": "appunto",
+        "english": "Exactly, precisely, just"
+      },
+      {
+        "original": "aprisse",
+        "english": "Opened, uncovered, disclosed"
+      },
+      {
+        "original": "aqquistando",
+        "english": "Acquiring, obtaining, gaining"
+      },
+      {
+        "original": "aqquistano",
+        "english": "Acquire, obtain, gain"
+      },
+      {
+        "original": "aqquistata",
+        "english": "Acquired, obtained, gained"
+      },
+      {
+        "original": "aqquistati",
+        "english": "Acquired, obtained, gained"
+      },
+      {
+        "original": "ara",
+        "english": "Plow, altar"
+      },
+      {
+        "original": "arco",
+        "english": "Arch, bow"
+      },
+      {
+        "original": "aremo",
+        "english": "We will have, we will be"
+      },
+      {
+        "original": "argini",
+        "english": "Banks, embankments"
+      },
+      {
+        "original": "argomento",
+        "english": "Topic, subject, argument"
+      },
+      {
+        "original": "arreccassero",
+        "english": "Would get angry, would become angry, would get upset"
+      },
+      {
+        "original": "arrenarsi",
+        "english": "Get angry, become angry, get upset"
+      },
+      {
+        "original": "arrestarsi",
+        "english": "Stop, halt, arrest oneself"
+      },
+      {
+        "original": "arrivo",
+        "english": "Arrival, coming, arrival"
+      },
+      {
+        "original": "artificiali",
+        "english": "Artificial, man-made"
+      },
+      {
+        "original": "ascendendo",
+        "english": "Ascending, going up, rising"
+      },
+      {
+        "original": "ascendere",
+        "english": "Ascend, go up, rise"
+      },
+      {
+        "original": "ascendono",
+        "english": "Ascend, go up, rise"
+      },
+      {
+        "original": "ascondere",
+        "english": "Hide, conceal, disguise"
+      },
+      {
+        "original": "aspra",
+        "english": "Harsh, rough, bitter"
+      },
+      {
+        "original": "asprezza",
+        "english": "Harshness, roughness, bitterness"
+      },
+      {
+        "original": "assai",
+        "english": "Very, much, quite"
+      },
+      {
+        "original": "asse",
+        "english": "Axis, axle, board"
+      },
+      {
+        "original": "assegnar",
+        "english": "Assign, allocate, give"
+      },
+      {
+        "original": "assegnarne",
+        "english": "Assign, allocate, give"
+      },
+      {
+        "original": "assegnarsi",
+        "english": "Assign oneself, allocate oneself, give oneself"
+      },
+      {
+        "original": "assenso",
+        "english": "Consent, agreement, approval"
+      },
+      {
+        "original": "assicurati",
+        "english": "Insured, assured, secured"
+      },
+      {
+        "original": "assolutamente",
+        "english": "Absolutely, definitely, certainly"
+      },
+      {
+        "original": "assoluto",
+        "english": "Absolute, total, complete"
+      },
+      {
+        "original": "assunta",
+        "english": "Assumed, taken, hired"
+      },
+      {
+        "original": "astronomiche",
+        "english": "Astronomical, huge, enormous"
+      },
+      {
+        "original": "atta",
+        "english": "Attached, fastened, tied"
+      },
+      {
+        "original": "atte",
+        "english": "Suitable, appropriate, fitting"
+      },
+      {
+        "original": "attenente",
+        "english": "Relevant, pertaining, concerning"
+      },
+      {
+        "original": "attentamente",
+        "english": "Attentively, carefully, closely"
+      },
+      {
+        "original": "attribuendo",
+        "english": "Attributing, assigning, ascribing"
+      },
+      {
+        "original": "attribuirsi",
+        "english": "Attribute oneself, ascribe oneself, assign oneself"
+      },
+      {
+        "original": "attribuiti",
+        "english": "Attributed, ascribed, assigned"
+      },
+      {
+        "original": "attribuito",
+        "english": "Attributed, ascribed, assigned"
+      },
+      {
+        "original": "aura",
+        "english": "Aura, atmosphere"
+      },
+      {
+        "original": "austro",
+        "english": "South, southern, southerly"
+      },
+      {
+        "original": "autori",
+        "english": "Authors, writers"
+      },
+      {
+        "original": "avendo",
+        "english": "Having, possessing, with"
+      },
+      {
+        "original": "aver",
+        "english": "To have, to possess, to own"
+      },
+      {
+        "original": "averemo",
+        "english": "We will have, we will possess, we will own"
+      },
+      {
+        "original": "avesse",
+        "english": "Had, would have, should have"
+      },
+      {
+        "original": "avessero",
+        "english": "Had, would have, should have"
+      },
+      {
+        "original": "avessimo",
+        "english": "Had, would have, should have"
+      },
+      {
+        "original": "aviamo",
+        "english": "We have, we possess, we own"
+      },
+      {
+        "original": "avrà",
+        "english": "Will have, will possess, will own"
+      },
+      {
+        "original": "avvenga",
+        "english": "Occurs, happens, takes place"
+      },
+      {
+        "original": "avvenire",
+        "english": "Happen, occur, take place"
+      },
+      {
+        "original": "avvertasi",
+        "english": "Be noticed, be felt, be perceived"
+      },
+      {
+        "original": "avvertenza",
+        "english": "Warning, caution, notice"
+      },
+      {
+        "original": "avvertire",
+        "english": "Warn, caution, notify"
+      },
+      {
+        "original": "avvicinerebbe",
+        "english": "Would approach, would get closer, would come closer"
+      },
+      {
+        "original": "avviene",
+        "english": "Happens, occurs, takes place"
+      },
+      {
+        "original": "azzione",
+        "english": "Action, deed"
+      },
+      {
+        "original": "baciandogli",
+        "english": "Kissing him"
+      },
+      {
+        "original": "barche",
+        "english": "Boats"
+      },
+      {
+        "original": "bassa",
+        "english": "Low, short, small"
+      },
+      {
+        "original": "basta",
+        "english": "Enough, sufficient, adequate"
+      },
+      {
+        "original": "ben",
+        "english": "Well, good"
+      },
+      {
+        "original": "benedetto",
+        "english": "Blessed, holy, sacred"
+      },
+      {
+        "original": "bisogna",
+        "english": "It is necessary, one must, one needs"
+      },
+      {
+        "original": "borea",
+        "english": "North wind"
+      },
+      {
+        "original": "boristene",
+        "english": "You stayed, you remained"
+      },
+      {
+        "original": "bosfori",
+        "english": "Bosphorus"
+      },
+      {
+        "original": "bosforo",
+        "english": "Bosphorus"
+      },
+      {
+        "original": "braccia",
+        "english": "Arms, braces"
+      },
+      {
+        "original": "brevemente",
+        "english": "Briefly, shortly"
+      },
+      {
+        "original": "brevi",
+        "english": "Brief, short"
+      },
+      {
+        "original": "brevissimi",
+        "english": "Very short, extremely brief"
+      },
+      {
+        "original": "brevità",
+        "english": "Brevity, shortness"
+      },
+      {
+        "original": "cadendo",
+        "english": "Falling, dropping"
+      },
+      {
+        "original": "cagion",
+        "english": "Cause, reason"
+      },
+      {
+        "original": "cagionati",
+        "english": "Caused, provoked, triggered"
+      },
+      {
+        "original": "cagione",
+        "english": "Cause, reason"
+      },
+      {
+        "original": "cagioni",
+        "english": "Causes, reasons"
+      },
+      {
+        "original": "calabria",
+        "english": "Calabria"
+      },
+      {
+        "original": "calor",
+        "english": "Heat, warmth"
+      },
+      {
+        "original": "caminasse",
+        "english": "He walked, he was walking"
+      },
+      {
+        "original": "canale",
+        "english": "Canal, channel"
+      },
+      {
+        "original": "canali",
+        "english": "Canals, channels"
+      },
+      {
+        "original": "cariddi",
+        "english": "Charybdis"
+      },
+      {
+        "original": "casca",
+        "english": "Falls, drops"
+      },
+      {
+        "original": "cause",
+        "english": "Causes, reasons"
+      },
+      {
+        "original": "cavità",
+        "english": "Cavity, hollow"
+      },
+      {
+        "original": "cedente",
+        "english": "Yielding, giving way"
+      },
+      {
+        "original": "celere",
+        "english": "Swift, quick"
+      },
+      {
+        "original": "celesti",
+        "english": "Celestial, heavenly"
+      },
+      {
+        "original": "cerca",
+        "english": "Near, close, around"
+      },
+      {
+        "original": "cercando",
+        "english": "Searching, looking for"
+      },
+      {
+        "original": "certezza",
+        "english": "Certainty, assurance"
+      },
+      {
+        "original": "cessazioni",
+        "english": "Cessations, terminations"
+      },
+      {
+        "original": "cesserebbe",
+        "english": "It would cease, it would stop"
+      },
+      {
+        "original": "chi",
+        "english": "Who, whom, that"
+      },
+      {
+        "original": "chiameremo",
+        "english": "We will call, we will name"
+      },
+      {
+        "original": "chimere",
+        "english": "Chimeras"
+      },
+      {
+        "original": "ciascheduna",
+        "english": "Each one, every one"
+      },
+      {
+        "original": "ciascheduno",
+        "english": "Each one, every one"
+      },
+      {
+        "original": "ciascuna",
+        "english": "Each one, every one"
+      },
+      {
+        "original": "cioè",
+        "english": "That is, namely"
+      },
+      {
+        "original": "circondati",
+        "english": "Surrounded, encircled"
+      },
+      {
+        "original": "circonferenza",
+        "english": "Circumference"
+      },
+      {
+        "original": "circunferenza",
+        "english": "Circumference"
+      },
+      {
+        "original": "ciò",
+        "english": "This, that"
+      },
+      {
+        "original": "cognizione",
+        "english": "Cognition, knowledge"
+      },
+      {
+        "original": "cognizioni",
+        "english": "Cognitions, knowledge"
+      },
+      {
+        "original": "col",
+        "english": "With, by"
+      },
+      {
+        "original": "collegata",
+        "english": "Connected, linked"
+      },
+      {
+        "original": "colonne",
+        "english": "Columns, pillars"
+      },
+      {
+        "original": "comandamento",
+        "english": "Commandment"
+      },
+      {
+        "original": "comincia",
+        "english": "It begins, he/she begins"
+      },
+      {
+        "original": "cominciamo",
+        "english": "We begin, let's begin"
+      },
+      {
+        "original": "cominciasse",
+        "english": "If it began, if he/she began"
+      },
+      {
+        "original": "comincieremo",
+        "english": "We will begin"
+      },
+      {
+        "original": "commossa",
+        "english": "Moved, touched"
+      },
+      {
+        "original": "commover",
+        "english": "To move, to touch"
+      },
+      {
+        "original": "commozione",
+        "english": "Emotion, excitement"
+      }
 ]
