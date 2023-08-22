@@ -3,6 +3,6 @@
         "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
         "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
         "paragraph": 10,
-        "imageURL": "/images/galileoepicycle.jpg"
+        "imageURL": "../images/galileoepicycle.jpg"
     }
 ]
