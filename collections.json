@@ -8,6 +8,7 @@
         "source": "https://it.wikisource.org/wiki/Pagina:Le_opere_di_Galileo_Galilei_V.djvu/381",
         "originalLanguage": "italian",
         "tags": ["science"],
+        "year": 1616,
         "sections": [
             {"id":"f5a0d105-c696-4924-8695-07df01eee247"}
         ]
@@ -18,6 +19,7 @@
         "fileName": "copernicus",
         "id":"b2c959de-4e0e-4032-a09a-a4944bce23f4",
         "originalLanguage": "latin",
+        "year": 1651,
         "tags": ["science", "history"],
         "sections": [
             {"id":"90eb9a0f-f946-40e4-bc1e-c2ec4752148b"}
