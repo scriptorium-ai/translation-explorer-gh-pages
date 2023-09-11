@@ -39,5 +39,27 @@
             {"id":"4581744d-accb-45fb-9204-d1569018a944","title":"test 3"},
             {"id":"0b2a08fb-69b7-46ef-b97e-05c74b4a8bf7","title":"test 4"}
         ]
+    },
+    {
+        "title": "Dialogus contra duas hic transcriptas Epistolas nuper editas in prodromum Francisci Leverae",
+        "subtitle": "In quo eiusdem Prodromi Doctrina, & Vsus vberrime confirmatur",
+        "author": "Savinius Mutus",
+        "originalLanguage": "latin",
+        "year": 1664,
+        "id": "eda2642f-7407-4584-8219-0dc679fa3393",
+        "tags": ["science", "history", "astronomy", "chronology"],
+        "sections": [
+          {"id":"6780405c-fea3-4846-9cda-db14c34b98b3","title":"Imprimatur"},
+          {"id":"dd0e64c1-9156-4888-9bad-c6c4baa3ab91","title":"AD LECTOREM", "subtitle": "Typographus"},
+          {"id":"2c8177a0-e250-4ef1-9146-2639b68ee293","title":"Perillust. et Excellentiss. D. D. Io Dominico Cassino", "subtitle":"Astronomiae primario in Bononiensi Gymnasio Professori meritissimo."},
+          {"id":"9087d362-974e-4cba-9f0c-8fb7b10ed255","title":"I. Fundamentum","subtitle":"Primus Annus CHRISTI usitate incaepit a Kalendis Ianuarij Anni Iuliani XLVI."},
+          {"id":"4558d707-96e4-4dba-938e-2db400f4550e","title":"II. Fundamentum","subtitle":"Annus I. Nabonassari incaepit a meridie diei 26. Februarij Anni DCCXLVII. ante primum Epochae Christi usitate."},
+          {"id":"3727b221-b5aa-4a75-a228-a7455c2e861e","title":"III. Fundamentum","subtitle":"Olympiadum ab Iphito instauratarum Annus primus incoepit a Neomenia proxima Solstitio Aestiuo Anni, D.CCLXXVI. ante Annum primum Epocha CHRISTI usitate."},
+          {"id":"4bae8540-b539-4ccb-a73d-5e58d4af3879","title":"IV. Fundamentum","subtitle":"Anni a morte Alexandri Magni, qui et Philippi dicti sunt a Philippo Ariadaeo eius successore, incoeperunt cum anno Aegyptio Nabonassari CDXXV. et ante usitatam Christi Epocham CCCXXIV."},
+          {"id":"6fadcf96-6394-4cde-8bd7-55ad8d609a35","title":"V. Fundamentum","subtitle":"Calippica Periodus Annorum 76. non solum a Calippo, sed etiam ab Hipparcho, et Ptolemaeo computata fuit a Neomenia Solstitij aestivi Anni CCCXXX. ante usitatam Christi Epocham."},
+          {"id":"b41a5bd2-4a1a-4c2b-b07a-0b8146235a09","title":"Admodum Reuerendo Patri IO BAPTISTAE RICCIOLI SOCIETATIS IESU","subtitle":"Astronomo, Philosopho, & Theologo praeclarissimo"},
+          {"id":"dc4a0961-66e2-44c0-bb1e-c912b1a89b8a","title":"Riccioli loca de obseruationibus in Duiu Petronij Templo Leuerianae interpretationi e diametro opposita ex eius Geographia reformata."},
+          {"id":"b2d70d41-c486-47a9-926c-abe176065573","title":"DIALOGVS","subtitle":"Sauinij, et Mercurij in epistolas Riccioli, et Cassini."}
+        ]
     }
 ]
