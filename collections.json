@@ -14,18 +14,6 @@
         ]
     },
     {
-        "title":"On Copernicus",
-        "author": "Giovanni Battista Riccioli",
-        "fileName": "copernicus",
-        "id":"b2c959de-4e0e-4032-a09a-a4944bce23f4",
-        "originalLanguage": "latin",
-        "year": 1651,
-        "tags": ["science", "history"],
-        "sections": [
-            {"id":"90eb9a0f-f946-40e4-bc1e-c2ec4752148b"}
-        ]
-    },
-    {
         "title":"PROOEMIUM SANCTI BONAVENTURAE IN LIBRUM PRIMUM SENTENTIARUM",
         "subtitle":"The Prologue of Saint Bonaventure to the First Book of the Sentences",
         "author": "Bonaventure",
@@ -61,5 +49,127 @@
           {"id":"dc4a0961-66e2-44c0-bb1e-c912b1a89b8a","title":"Riccioli loca de obseruationibus in Duiu Petronij Templo Leuerianae interpretationi e diametro opposita ex eius Geographia reformata."},
           {"id":"b2d70d41-c486-47a9-926c-abe176065573","title":"DIALOGVS","subtitle":"Sauinij, et Mercurij in epistolas Riccioli, et Cassini."}
         ]
-    }
+    },
+    {
+        "title": "DE PHOENOMENIS IN ORBE LUNAE NOVI TELESCOPII VSV A D. GALLILEO GALLILEO",
+        "subtitle": "",
+        "id": "3540b342-4fdf-4ed6-bf5c-5dabeffeff0a",
+        "year": "1612",
+        "author": "Giulio Cesare la Galla",
+        "source": "https://www.google.co.uk/books/edition/De_phoenomenis_in_orbe_lunae/8vu4MgAACAAJ?q=&gbpv=1#f=false",
+        "originalLanguage": "latin",
+        "tags": ["science", "astronomy"],
+        "sections": [
+          {
+            "id": "489a4aa4-1e48-4839-839c-93dc1b0e41e8",
+            "title": "ILLVSTRISSIMO atque Reuerendiis. D. ALOYSIO CAPONIO S.R.E Cardinali Ampliis.",
+            "subtitle": "IVLIUS CAESAR LA GALLA FOELICITATEM"
+          },
+          {
+            "id": "c029f3e9-ce2e-422a-b5ea-ccd98c3f0235",
+            "title": "In Illustrissimum, & Reuerendiis. D. ALOYSIVM CARDINALEM CAPONIVM Literarum Mecenatem.",
+            "subtitle": "D. IOANNIS DEMISIANI Cephalleniemsis Sacrae Theologiae Doctoris."
+          },
+          {
+            "id": "bbec196d-e32b-40e8-863b-1f662176a09e",
+            "title": "IN IVLIVM CAESAREM LA GALLA Philosophum Clarissimum",
+            "subtitle": "EIVSDEM"
+          },
+          {
+            "id": "f00dec7b-d20c-4b95-a4c1-947caa77ce3c",
+            "title": "In Eumdem, Eiusdem (1)",
+            "subtitle": ""
+          },
+          {
+            "id": "8aca2005-be1f-4ce6-97f9-0628c42ec3ac",
+            "title": "In Eumdem, Eiusdem (2)",
+            "subtitle": ""
+          },
+          {
+            "id": "a3c41dd5-713f-4sc1-bd9a-a64a633d473a",
+            "title": "COPIA",
+            "subtitle": ""
+          },
+          {
+            "id": "7e4706f1-a85d-4c51-87b3-8e4385bf6cd0",
+            "title": "Proponitur Authoris Intentio, & disputanda enumerantur",
+            "subtitle": "Caput Primum"
+          },
+          {
+            "id": "75e9dc79-253a-41d7-a41b-357ce62089d8",
+            "title": "Qua nam methodo Instituenda sit disputatio.",
+            "subtitle": "Cap. II."
+          },
+          {
+            "id": "d4ccb1ce-b468-414c-ae6c-fdd504d3cc1b",
+            "title": "De ordine quo singula explicabuntur.",
+            "subtitle": "Cap. III."
+          },
+          {
+            "id": "bdfda510-1f28-4e04-a75f-a9874732e1a0",
+            "title": "De obseruationibus in facie Lunae circa quas erit disputatio.",
+            "subtitle": "Cap. IV."
+          },
+          {
+            "id": "70eaa9c3-cf03-4b41-8a91-21273f3938f9",
+            "title": "De Telescopij veritate",
+            "subtitle": "Cap. V."
+          },
+          {
+            "id": "7088ded9-237f-4832-b5dd-bcec13ee2e91",
+            "title": "Quod Terra unum quoddam fit Astrum Orphei, Taletis, Philolai Pythagorici, Heracliti Pontici, et Nicolai Copernici opiniones recensentur & comprobantur.",
+            "subtitle": "Cap. VI."
+          },
+          {
+            "id": "272c1950-ed27-4b7f-9d4c-50015b021053",
+            "title": "Praedicta sententia confutatio.",
+            "subtitle": "Cap. VII."
+          },
+          {
+            "id": "136ab1f9-232f-4e02-8d88-61bdf362e4c6",
+            "title": "Democryti Opinio: quod plures sunt Mundi, ad quam haec Phenomena referre possent, recitatur, & confutatur.",
+            "subtitle": "Cap. VIII."
+          },
+          {
+            "id": "933a4fe8-b07b-4df0-b525-22a2926b8d9b",
+            "title": "Utrum Luna sit corpus aliquod alterationis, atque corruptionis capax, & sit massa quedam ignita montes habens, & conualles, ut Anaxagoras existimauit aut veluti exustus lapis, & pumex, ut olim Diogeni Physico nunc autem Chaeplero placet creberrimis, & maximis poris undique debiscens.",
+            "subtitle": "Cap. IX."
+          },
+          {
+            "id": "16b83cac-5169-4dc6-8e5e-0b6d42f30a0a",
+            "title": "Vtrum in Luna, vt vnum quoddam est Astrum, eiusdem cum reliquo Celo substantia, & naturae, inalterabilis scilicet, incorruptibilis; vt Peripatetici statuunt, possint vere esse montes, & Conualles, vt perspicillo mostratur.",
+            "subtitle": "Cap. X."
+          },
+          {
+            "id": "0f665aee-d735-4ee6-b2b3-54b15f83f4f8",
+            "title": "Proponitur Auctoris sententia & certa Phenomenum causa assignatur.",
+            "subtitle": "Cap. XI."
+          },
+          {
+            "id": "5f432199-4c74-4df0-8283-0ca803ffc4d9",
+            "title": "DE LVCE, ET LVMINE Disputatio.",
+            "subtitle": "Proponitur quaestio, & occasio quaestionis. Caput primum."
+          },
+          {
+            "id": "03a98dcb-ded0-47fe-b125-8bad4101ebf3",
+            "title": "Lucis, ac luminis natura inuestigatur.",
+            "subtitle": "Cap. II."
+          },
+          {
+            "id": "45ea6b41-a4e0-4338-b7c9-5ee2475c2cf9",
+            "title": "Si lux, aut lumen substantia sit, vel accidens corporeum, vel incorporeum aliquid, & in quo genere collocentur.",
+            "subtitle": "Cap. III."
+          },
+          {
+            "id": "9e8068aa-6068-4b6c-a213-ea570dcddcbd",
+            "title": "Cuius nam corporis lux ipsa sit qualitas, velde corpore per se lucido.",
+            "subtitle": "Cap. IV."
+          },
+          {
+            "id": "c519b049-7a09-48d4-854e-3adf28f9179f",
+            "title": "Causa assignatur eorum, quae cum ignea non sint, tamen in tenebris fulgent, & propositi problematis solutio affertur.",
+            "subtitle": "Cap. V."
+          }
+        ]
+      }
 ]
