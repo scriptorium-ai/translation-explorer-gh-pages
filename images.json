@@ -3,6 +3,7 @@
         "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
         "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
         "paragraph": 9,
-        "imageURL": "./images/galileoepicycle.jpg"
+        "imageURL": "./images/galileoepicycle.jpg",
+        "alt": "An image of two circles. The first is centred on position E, with a line going from one edge A, through the center E and to the other side G. The second circle is centered on the point A of the first circle's circumference. The points C and L lie on the intersections of the two circles."
     }
 ]

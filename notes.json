@@ -12,6 +12,26 @@
     {
         "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
         "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "83cf8d22-2159-4fd1-a08d-47232444d7e0",
+        "line": 5,
+        "language": "english",
+        "note": "It is usually thought that Galileo started writing his 'Dialogue Concerning the Two Chief World Systems' in 1624. But this sentence suggests he was perhaps already thinking about it in 1615, or even before that, whenever his conversation with Cardinal Orsini occurred.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "c060028f-86a2-4fec-9246-8f2a1c0e15c8",
+        "line": 5,
+        "language": "english",
+        "note": "Galileo's 'Dialogue Concerning the Two Chief World Systems' was in fact initially called the 'Dialogue on the Ebb and Flow of the Sea'. When submitting the text for an Imprimatur, he was forced to change the title, as there were worries that granting an Imprimatur with that title would be seen as an approval of his theory of tides.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
         "id": "a5825abb-e916-474a-a1c4-329543076a40",
         "line": 6,
         "language": "english",
@@ -26,7 +46,7 @@
         "id": "82ed8574-c9b0-475b-80d5-be1fc3eec78a",
         "line": 15,
         "language": "english",
-        "note": "Galileo would have perhaps been shocked if he had witnessed the Severn Bore, where the Severn's current is dramatically reversed with a large wave.",
+        "note": "Galileo would have perhaps been shocked if he had witnessed a tidal bore, such as the Severn Bore, where the river's current is dramatically reversed with a large wave.",
         "commentator": "Michal Paszkiewicz",
         "commentatorId": "00000000-0000-0000-0000-000000000001"
     },
@@ -36,7 +56,39 @@
         "id": "0c148a84-4d50-49dc-a5ba-555482bfc34e",
         "line": 16,
         "language": "english",
-        "note": "This is a real phenomenon known as a Storm Surge.",
+        "note": "This is a real phenomenon known as a Storm Surge, which has raised tide height by as high as 9m in northeast Australia, March 1899, during Cyclone Mahina.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001",
+        "source": "Nott, J., Green, C., Townsend, I. and Callaghan, J. (2014). The World Record Storm Surge and the Most Intense Southern Hemisphere Tropical Cyclone: New Evidence and Modeling. Bulletin of the American Meteorological Society 95(5) pp. 757-765.",
+        "link": "https://doi.org/10.1175/BAMS-D-12-00233.1"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "b4142a1b-8749-4311-9869-4be6c96dc413",
+        "line": 24,
+        "language": "english",
+        "note": "Here Galileo is likely referring to the concept of 'trepidation', a theory that has since been discarded. Trepidation was a motion that slowed and reversed the precession of the equinoxes once every half or more millenia.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "e52d7e9f-6442-40eb-9e0a-701b47e3c553",
+        "line": 34,
+        "language": "english",
+        "note": "A criticism of the theory of the spinning Earth (in Heliocentrism or otherwise) at the time was that the motion was not felt by anyone on Earth. It is often believed that experiments of movement on a boat allowed the explanation of a lack of feeling of movement, but this example here confuses things. Galileo was clearly aware that acceleration and deceleration of a boat could be observed in water contained within the boat. He then claims that this is what could be happening to the Earth and moving the oceans. But he doesn't question why no-one can feel this change in speed on the Earth, or why it should affect water but not other objects.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "e52d7e9f-6442-40eb-9e0a-701b47e3c553",
+        "line": 61,
+        "language": "english",
+        "note": "This section is particularly interesting, as Galileo compares the movement of the tides to a pendulum. This motion is referred to as simple harmonic motion. Simple Harmonic motion would later be used to create the generic models of tides unconstrained by land and lead to the modern explanation of tides. In fact, an extension to a Forced Harmonic Motion can then explain why tidal bulges do not directly face the moon. Unfortunately Galileo's rejection of a lunar effect stopped him from reaching these conclusions.",
         "commentator": "Michal Paszkiewicz",
         "commentatorId": "00000000-0000-0000-0000-000000000001"
     }
