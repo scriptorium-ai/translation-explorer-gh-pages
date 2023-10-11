@@ -65,6 +65,16 @@
     {
         "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
         "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "e2356f82-bad9-4b88-a7a5-d199814e7351",
+        "line": 21,
+        "language": "english",
+        "note": "Note that before Newton, the term 'Gravity' would refer to a generic concept of weight. The Aristotelian theory of elements meant that anything composed of Earth or Water was pulled down towards the center of the Earth, but it wasn't extended as a generic rule across celestial objects.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
         "id": "b4142a1b-8749-4311-9869-4be6c96dc413",
         "line": 24,
         "language": "english",
@@ -89,6 +99,66 @@
         "line": 61,
         "language": "english",
         "note": "This section is particularly interesting, as Galileo compares the movement of the tides to a pendulum. This motion is referred to as simple harmonic motion. Simple Harmonic motion would later be used to create the generic models of tides unconstrained by land and lead to the modern explanation of tides. In fact, an extension to a Forced Harmonic Motion can then explain why tidal bulges do not directly face the moon. Unfortunately Galileo's rejection of a lunar effect stopped him from reaching these conclusions.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "75433e1b-26fd-4948-a57c-7b217cc4d857",
+        "line": 115,
+        "language": "english",
+        "note": "Indeed, the Strait of Magellan has currents which can go as fast as 8 knots.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "31652430-f521-461a-8594-96481158145a",
+        "line": 115,
+        "language": "english",
+        "note": "The 'Ethiopian Ocean' or 'Ethiopian Sea' referred to the southern part of the Atlantic and appeared on maps up until the 19th century. This may be surprising, as the contemporary country Ethiopia is on the East coast of Africa. But the term 'Ethiopia' used to refer to Western Africa, and to lands south of Egypt.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "8f0d81af-1641-4f8b-9a03-cec914b0cd48",
+        "line": 120,
+        "language": "english",
+        "note": "The concept of a superposition of waves wasn't perhaps new - since previous authors had considered the effects of both the Moon and the Sun. However, it is a great stroke of genius that Galileo is not only thinking about dynamic tidal effects, but also from numerous sources that superimpose on each other.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "c64c1bdd-b9ff-4848-bdec-538b7ffa5afc",
+        "line": 130,
+        "language": "english",
+        "note": "The Strait of Scylla is now known as the Strait of Messina, between Sicily and Calabria in Italy. 'Scylla' referred to the Greek Myth of Scylla and Charybdis who were monsters on either side of the Strait. Sailors who tried to avoid one of the monsters when passing through the strait would have to go within range of the other monster. Virgil's Aeneid placed the mythological monsters between Sicily and Calabria, and this seems to have stuck.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "ed60c9d4-4267-47c9-93dd-f9d4b2d67344",
+        "line": 141,
+        "language": "english",
+        "note": "The existence of the trade winds is perhaps the stronger argument for the motion of the Earth in this text, but seems to be treated by Galileo as a minor argument that is just appended to his main arguments on the tides. The reasoning for this is no doubt the fact that most winds in Europe would have been from the West to the East, in opposition to what Galileo claims. Perhaps he was aware of this, but without an advanced model of atmospheric circulation, he wasn't able to come up with the concepts of the Hadley cell.",
+        "commentator": "Michal Paszkiewicz",
+        "commentatorId": "00000000-0000-0000-0000-000000000001"
+    },
+    {
+        "bookId": "5eac52cc-c98b-42f9-ba94-1ef83dc40c78",
+        "chapterId": "f5a0d105-c696-4924-8695-07df01eee247",
+        "id": "3acf5bee-1feb-46cf-a7b1-04d2671a732e",
+        "line": 145,
+        "language": "english",
+        "note": "Local atmospheric circulations in the Mediterranean could have resulted in such statistics arising anecdotally, but this example would have had plenty of counter-examples that could be found by an academic opponent.",
         "commentator": "Michal Paszkiewicz",
         "commentatorId": "00000000-0000-0000-0000-000000000001"
     }
